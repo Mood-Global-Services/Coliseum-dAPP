@@ -1,0 +1,57 @@
+{
+  "name": "auths",
+  "homepage": ".",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@auth0/auth0-react": "^2.2.0",
+    "@chakra-ui/icons": "^2.1.0",
+    "@chakra-ui/react": "^2.8.0",
+    "@crossmint/client-sdk-react-ui": "^1.0.1-alpha.4",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^14.4.3",
+    "@thirdweb-dev/react": "^3",
+    "@thirdweb-dev/sdk": "^3",
+    "@types/react": "^18.2.18",
+    "@types/react-dom": "^18.2.7",
+    "ethers": "^5",
+    "framer-motion": "^10.15.0",
+    "react": "^18.2",
+    "react-dom": "^18.2",
+    "react-scripts": "^5.0.1",
+    "typescript": "^5.1.6",
+    "web-vitals": "^3.1.0"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "stream": "^0.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "yarn build && npx thirdweb@latest upload build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
