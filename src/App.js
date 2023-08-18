@@ -4,6 +4,7 @@ import { Web3Button } from "@thirdweb-dev/react";
 
 export default function Home() {
   const [amount, setAmount] = useState("");
+  const [bamount, setBamount] = useState("");
 
   const containerStyle = {
     maxWidth: "600px",
@@ -34,7 +35,12 @@ export default function Home() {
     setAmount(event.target.value);
   };
 
+  const handleBAmountChange = (event) => {
+    setBamount(event.target.value);
+  };
+
   return (
+    <div className="all">
     <div style={containerStyle}>
       <h1>Token Request</h1>
       <ConnectWallet />
@@ -63,6 +69,30 @@ export default function Home() {
       >
         Request Token
       </Web3Button>
+
+
     </div>
+        <div style={containerStyle}>
+        <h1>Burn Request</h1>
+       
+  
+        <input
+          style={inputStyle}
+          value={bamount}
+          placeholder="Enter Amount"
+          onChange={handleBAmountChange}
+        />
+  
+  <Web3Button
+      style={buttonStyle}
+      contractAddress="0xe5b74B2ce28cf0FBb09bC611c5788001C99Df179"
+      action={(contract) => {
+        contract.call("burnToken", [bamount])
+      }}
+    >
+      Burn Token
+    </Web3Button>
+      </div>
+      </div>
   );
 }
