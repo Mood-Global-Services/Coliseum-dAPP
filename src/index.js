@@ -30,7 +30,6 @@ const root = createRoot(container);
 root.render(
   <React.StrictMode>
     <ThirdwebProvider activeChain={activeChain}
-     clientId="753a68dac4ad23e4724462f7cf8e9d07"
      supportedWallets={[
        metamaskWallet(),
        coinbaseWallet(),
