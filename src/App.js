@@ -1,10 +1,18 @@
 import React, { useState } from "react";
 import { ConnectWallet } from "@thirdweb-dev/react";
 import { Web3Button } from "@thirdweb-dev/react";
+import Paymentusdc from "./Payment";
+import Navbar from "./components/navbar";
+import Car from "./components/card";
+import { Box } from "@mui/material";
+import Video from "./components/video"
+import Homes from "./components/home";
+import About from "./components/about";
 
 export default function Home() {
   const [amount, setAmount] = useState("");
   const [bamount, setBamount] = useState("");
+  
 
   const containerStyle = {
     maxWidth: "600px",
@@ -41,6 +49,27 @@ export default function Home() {
 
   return (
     <div className="all">
+      <Navbar />
+      <Homes />
+      <About />
+      <Box sx={{ textAlign: 'center',textTransform: 'capitalize',fontWeight: 'medium',fontSize: 20 }}>
+        <h1>a visual journey</h1>
+        <h1 style={{fontSize: "30px",fontWeight: "400"}}>Elevate your Financial experience with RWFA Dapp - Decentralized power meets security, offering cross-border transactions and smart contract capabilities for a future forward journey</h1>
+      </Box>
+      <Video />
+      <Box sx={{ textAlign: 'center',textTransform: 'capitalize',fontWeight: 'medium',fontSize: 20 }}>
+        <h1>Discover our Benefits</h1>
+        <h1 style={{fontSize: "30px",fontWeight: "400"}}>Elevate your Financial experience with RWFA Dapp - Decentralized power meets security, offering cross-border transactions and smart contract capabilities for a future forward journey</h1>
+      </Box>
+      <Car />
+      <Box sx={{ textAlign: 'center',textTransform: 'capitalize',fontWeight: 'medium',fontSize: 20 }}>
+        <h1>our partners</h1>
+        <h1 style={{fontSize: "30px",fontWeight: "400"}}>Elevate your Financial experience with RWFA Dapp - Decentralized power meets security, offering cross-border transactions and smart contract capabilities for a future forward journey</h1>
+      </Box>
+      <Box sx={{ textAlign: 'center',textTransform: 'capitalize',fontWeight: 'medium',fontSize: 20 }}>
+        <h1>join our community</h1>
+        <h1 style={{fontSize: "30px",fontWeight: "400"}}>Elevate your Financial experience with RWFA Dapp - Decentralized power meets security, offering cross-border transactions and smart contract capabilities for a future forward journey</h1>
+      </Box>
     <div style={containerStyle}>
       <h1>Token Request</h1>
       <ConnectWallet />
@@ -52,6 +81,7 @@ export default function Home() {
         onChange={handleAmountChange}
       />
 
+ 
       <Web3Button
         style={buttonStyle}
         contractAddress="0xe5b74B2ce28cf0FBb09bC611c5788001C99Df179"
@@ -67,8 +97,10 @@ export default function Home() {
             });
         }}
       >
-        Request Token
+        Buy with web3 wallet
       </Web3Button>
+
+      <Paymentusdc />
 
 
     </div>
