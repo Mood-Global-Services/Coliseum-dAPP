@@ -1,16 +1,41 @@
-# Coliseum-dAPP
-Coliseum dAPP Architecture
+## Getting Started
 
-Login feature Screenshot 1:
+Create a project using this example:
 
-![sds](https://github.com/Mood-Global-Services/Coliseum-dAPP/assets/87080195/8dc391ba-4bc8-42b6-b91d-42ce505897ed)
+```bash
+npx thirdweb create --template next-javascript-starter
+```
+<div style={{width: '100%', height: '100%', background: 'rgba(23.38, 23.38, 23.38, 0.30)', borderRadius: 11, border: '1px #FFDE2E solid', backdropFilter: 'blur(46px)'}} />
 
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-Mint Token Request Demo :
+On `pages/_app.js`, you'll find our `ThirdwebProvider` wrapping your app, this is necessary for our [hooks](https://portal.thirdweb.com/react) and
+[UI Components](https://portal.thirdweb.com/ui-components) to work.
 
-https://github.com/Mood-Global-Services/Coliseum-dAPP/assets/87080195/9c122f76-0fc1-4d5d-b366-a18be9fe5b5c
+## Environment Variables
 
-Burn Token Request Demo :
+To run this project, you will need to add environment variables. Check the `.env.example` file for all the environment variables required and add it to `.env.local` file or set them up on your hosting provider.
 
-https://github.com/Mood-Global-Services/Coliseum-dAPP/assets/87080195/0aeb2e0a-f57b-4de2-a393-4edcd55ee156
+## Deploy to IPFS
 
+Deploy a copy of your application to IPFS using the following command:
+
+```bash
+yarn deploy
+```
+
+## Learn More
+
+To learn more about thirdweb and Next.js, take a look at the following resources:
+
+- [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about our React SDK.
+- [thirdweb JavaScript Documentation](https://docs.thirdweb.com/react) - learn about our JavaScript/TypeScript SDK.
+- [thirdweb Portal](https://docs.thirdweb.com/react) - check our guides and development resources.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Templates](https://thirdweb.com/templates)
+
+You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
+
+## Join our Discord!
+
+For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
