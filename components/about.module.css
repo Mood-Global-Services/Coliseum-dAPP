@@ -1,0 +1,4141 @@
+.profileIpadPro1294Child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: radial-gradient(50% 50% at 50% 50%, rgba(202, 88, 255, 0.4), rgba(255, 255, 255, 0));
+    box-shadow: -5px -5px 250px rgba(255, 255, 255, 0.02) inset;
+    backdrop-filter: blur(42px);
+    width: 430px;
+    height: 90px;
+    opacity: 0.4;
+}
+
+.languageone {
+    position: absolute;
+    top: 35px;
+    right: 12%;
+}
+
+.maskGroupIcon {
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    width: 72.24px;
+    height: 69.85px;
+    object-fit: cover;
+}
+
+.groupChild {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 430px;
+    height: 578px;
+}
+
+.maskGroupIcon1 {
+    position: absolute;
+    bottom: 392px;
+    left: 158px;
+    width: 113.76px;
+    height: 110px;
+    object-fit: cover;
+}
+
+.mediaInquiresFor1 {
+    position: absolute;
+    bottom: 75px;
+    left: 0px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 321px;
+    opacity: 0.5;
+}
+
+.copyRight20231 {
+    position: absolute;
+    bottom: 0px;
+    left: 23px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 274px;
+    opacity: 0.5;
+}
+
+.mediaInquiresForCmaxContParent {
+    position: absolute;
+    bottom: 101px;
+    left: 54px;
+    width: 321px;
+    height: 123px;
+}
+
+.trade {
+    position: relative;
+    text-transform: capitalize;
+}
+
+.tradeParent {
+    position: absolute;
+    bottom: 293px;
+    left: 27px;
+    padding: 0 42px;
+    width: 375px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 31px;
+    text-align: left;
+}
+
+.rectangleParent {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+}
+
+.rimenuFillIcon1 {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.aboutParent {
+    position: initial;
+    top: 30px;
+    left: auto;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 17px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.hi {
+    margin-block-start: 0;
+    margin-block-end: 1.5px;
+}
+
+.sebastianMathew {
+    margin: 0;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.hiSebastianMathewContainer {
+    position: absolute;
+    top: 474px;
+    left: calc(50% - 184px);
+    font-size: 37px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    display: inline-block;
+    width: 334px;
+}
+
+.netWorth {
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    width: 334px;
+}
+
+.div {
+    position: relative;
+    font-size: 52px;
+    line-height: 44px;
+    text-transform: capitalize;
+    color: #fff;
+    display: inline-block;
+    width: 392px;
+}
+
+.netWorthParent {
+    position: absolute;
+    top: 740px;
+    left: 31px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 15px;
+    font-size: 32px;
+    color: #ffe500;
+}
+
+.frameChild {
+    position: relative;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+}
+
+.mdidiscordIcon1 {
+    position: absolute;
+    top: 1008.2px;
+    left: -15px;
+    width: 31.48px;
+    height: 31.48px;
+    overflow: hidden;
+    display: none;
+}
+
+.mdiredditIcon1 {
+    position: absolute;
+    top: 1009.77px;
+    left: 155px;
+    width: 31.48px;
+    height: 31.48px;
+    overflow: hidden;
+    display: none;
+}
+
+.mingcutenotionFillIcon1 {
+    position: relative;
+    width: 31.48px;
+    height: 35px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.mdigithubIcon1 {
+    position: relative;
+    width: 31.48px;
+    height: 31.48px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.mingcutenotionFillParent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 23px;
+}
+
+.mdidiscordParent {
+    position: relative;
+    width: 194.93px;
+    height: 35px;
+}
+
+.ellipseParent {
+    position: absolute;
+    top: 170px;
+    left: calc(50% - 96.96px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 30px;
+}
+
+.mdilocationIcon1 {
+    position: relative;
+    width: 29px;
+    height: 39px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.nwBobcatLane {
+    position: relative;
+    line-height: 36px;
+    display: inline-block;
+    width: 349px;
+    flex-shrink: 0;
+}
+
+.mdilocationParent {
+    position: absolute;
+    top: 618px;
+    left: 31px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 7px;
+    font-size: 24px;
+}
+
+.groupItem {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 392px;
+    height: 396px;
+}
+
+.pl {
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    width: 159.6px;
+    height: 27.81px;
+    flex-shrink: 0;
+}
+
+.vectorIcon1 {
+    position: relative;
+    width: 22px;
+    height: 13.58px;
+}
+
+.vectorParent {
+    border-radius: 7px;
+    background-color: #3e4057;
+    height: 41px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    box-sizing: border-box;
+    align-items: baseline;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-left: -63px;
+    text-align: right;
+    font-size: 20px;
+    color: #fff;
+}
+
+.plParent {
+    position: absolute;
+    top: 30px;
+    left: 26.72px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.frameItem {
+    align-self: stretch;
+    position: relative;
+    border-top: 1px solid #3e3e3e;
+    box-sizing: border-box;
+    height: 1px;
+    display: none;
+}
+
+.frameChild1 {
+    align-self: stretch;
+    position: relative;
+    border-top: 1px solid #3e3e3e;
+    box-sizing: border-box;
+    height: 1px;
+}
+
+.lineParent {
+    position: absolute;
+    top: 0px;
+    left: 14.39px;
+    width: 334px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+}
+
+.frameIcon {
+    position: absolute;
+    top: 13.09px;
+    left: 0px;
+    width: 347.5px;
+    height: 198.96px;
+    overflow: hidden;
+}
+
+.g {
+    position: relative;
+}
+
+.gWrapper {
+    border-radius: 6px;
+    background-color: #3e4057;
+    display: flex;
+    flex-direction: row;
+    padding: 2px 5px;
+    align-items: center;
+    justify-content: center;
+}
+
+.maxWrapper {
+    border-radius: 6px;
+    background-color: #ffe500;
+    display: flex;
+    flex-direction: row;
+    padding: 2px 5px;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+}
+
+.frameGroup {
+    position: absolute;
+    top: 229px;
+    left: 20.39px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 13px;
+}
+
+.frameParent {
+    position: absolute;
+    top: 111px;
+    left: 22px;
+    width: 348.39px;
+    height: 245px;
+    font-size: 10px;
+    color: #fff;
+}
+
+.rectangleGroup {
+    position: absolute;
+    top: 850px;
+    left: 22px;
+    width: 392px;
+    height: 396px;
+    cursor: pointer;
+    font-size: 32px;
+    color: #ffe500;
+}
+
+.holdings {
+    position: absolute;
+    top: 1300px;
+    left: 22px;
+    font-size: 28px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+    display: inline-block;
+    width: 187px;
+    height: 34.19px;
+}
+
+.groupInner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 392px;
+    height: 813px;
+}
+
+.fearrowDownIcon1 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.unfold10ResultParent {
+    position: absolute;
+    top: 425px;
+    display: flex;
+    font-size: 20px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    color: #ffe500;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.eth47c40f70Icon {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.wallet {
+    position: relative;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.walletWrapper {
+    width: 96px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.b {
+    position: relative;
+    font-size: 28px;
+    text-transform: capitalize;
+}
+
+.eth47c40f70Parent {
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    border: 1px solid #474353;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 130px;
+}
+
+.poolTogetherWrapper {
+    width: 96px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.eth47c40f70Group {
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(46px);
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 130px;
+}
+
+.frameDiv {
+    position: absolute;
+    top: 548px;
+    width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.b2 {
+    font-family: 'Neue Montreal';
+}
+
+.span {
+    font-size: 20px;
+    color: #7c7c7c;
+}
+
+.div2 {
+    position: relative;
+    text-transform: capitalize;
+    font-size: 28px;
+}
+
+.ethereumParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+
+.eth47c40f70Container {
+    border-radius: 10px;
+    border: 1px solid #474353;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 130px;
+}
+
+.mantle61752091Icon {
+    position: relative;
+    width: 58.78px;
+    height: 60px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.frameParent3 {
+    position: absolute;
+    top: 45px;
+    left: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+}
+
+.rectangleContainer {
+    position: absolute;
+    top: 1370px;
+    left: 19px;
+    width: 361px;
+    height: 813px;
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.profileIpadPro1294 {
+    position: relative;
+    background: linear-gradient(180deg, #201d26, #1d1b20);
+    width: 100%;
+    height: 3300px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 20px;
+    color: #fff;
+    font-family: 'Neue Montreal';
+}
+
+
+
+@media (min-width: 300px) and (max-width: 326px) {
+    .aboutParent {
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    .hiSebastianMathewContainer {
+        position: absolute;
+        top: 474px;
+        left: calc(74% - 184px);
+        font-size: 37px;
+        text-transform: capitalize;
+        font-family: 'Monument Extended';
+        display: inline-block;
+        width: 334px;
+    }
+
+    .mdilocationParent {
+        position: absolute;
+        top: 618px;
+        left: 80px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 7px;
+        font-size: 24px;
+    }
+
+    .netWorthParent {
+        position: absolute;
+        top: 740px;
+        left: 84px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 15px;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .groupItem {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 282px;
+        height: 396px;
+    }
+
+    .lineParent {
+        position: absolute;
+        top: 0px;
+        left: -18.61px;
+        width: 280px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+    }
+
+    .frameGroup {
+        osition: absolute;
+        top: 229px;
+        left: -24.61px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 7px;
+
+    }
+
+    .frameParent3 {
+        position: absolute;
+        top: 45px;
+        left: 24px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 20px;
+    }
+
+    .maskGroupIcon1 {
+        position: absolute;
+        bottom: 392px;
+        left: 146px;
+        width: 113.76px;
+        height: 110px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+
+    .copyRight20231 {
+        position: absolute;
+        bottom: 0px;
+        left: 12px;
+        text-transform: capitalize;
+        display: inline-block;
+        width: 274px;
+        opacity: 0.5;
+    }
+
+    .tradeParent {
+        position: absolute;
+        bottom: 293px;
+        left: 14px;
+        width: 375px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 38px;
+        text-align: left;
+    }
+
+    .frameDiv {
+        position: absolute;
+        top: 548px;
+        left: 24px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 20px;
+    }
+
+    .unfold10ResultParent {
+        position: absolute;
+        top: 425px;
+        left: 88px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 10px;
+        color: #ffe500;
+    }
+
+    .groupInner {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 288px;
+        height: 813px;
+    }
+
+
+    .eth47c40f70Container {
+        border-radius: 10px;
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 46px;
+    }
+
+    .eth47c40f70Parent {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 39px;
+    }
+
+    .eth47c40f70Group {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 43px;
+
+    }
+
+    .rectangleParent {
+        position: absolute;
+        bottom: 0px;
+        left: -40px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+
+}
+
+@media (min-width: 327px) and (max-width: 360px) {
+    .aboutParent {
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    .hiSebastianMathewContainer {
+        position: absolute;
+        top: 474px;
+        left: calc(74% - 184px);
+        font-size: 37px;
+        text-transform: capitalize;
+        font-family: 'Monument Extended';
+        display: inline-block;
+        width: 334px;
+    }
+
+    .mdilocationParent {
+        position: absolute;
+        top: 618px;
+        left: 80px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 7px;
+        font-size: 24px;
+    }
+
+    .netWorthParent {
+        position: absolute;
+        top: 740px;
+        left: 84px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 15px;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .groupItem {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 317px;
+        height: 396px;
+    }
+
+    .lineParent {
+        position: absolute;
+        top: 0px;
+        left: -18.61px;
+        width: 312px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+    }
+
+    .frameGroup {
+        position: absolute;
+        top: 229px;
+        left: -24.61px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 13px;
+
+    }
+
+    .groupInner {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 317px;
+        height: 813px;
+    }
+
+
+    .eth47c40f70Container {
+        border-radius: 10px;
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 46px;
+    }
+
+    .eth47c40f70Parent {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 39px;
+    }
+
+    .eth47c40f70Group {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 43px;
+
+    }
+
+    .rectangleParent {
+        position: absolute;
+        bottom: 0px;
+        left: -40px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+
+}
+
+
+@media (min-width: 361px) and (max-width: 375px) {
+    .aboutParent {
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    .hiSebastianMathewContainer {
+        position: absolute;
+        top: 474px;
+        left: calc(74% - 184px);
+        font-size: 37px;
+        text-transform: capitalize;
+        font-family: 'Monument Extended';
+        display: inline-block;
+        width: 334px;
+    }
+
+    .mdilocationParent {
+        position: absolute;
+        top: 618px;
+        left: 80px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 7px;
+        font-size: 24px;
+    }
+
+    .netWorthParent {
+        position: absolute;
+        top: 740px;
+        left: 84px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 15px;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .groupItem {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 330px;
+        height: 396px;
+    }
+
+    .lineParent {
+        position: absolute;
+        top: 0px;
+        left: -18.61px;
+        width: 312px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+    }
+
+    .frameGroup {
+        position: absolute;
+        top: 229px;
+        left: -24.61px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 13px;
+
+    }
+
+    .groupInner {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 331px;
+        height: 813px;
+    }
+
+
+    .eth47c40f70Container {
+        border-radius: 10px;
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 72px;
+
+    }
+
+    .eth47c40f70Parent {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 68px;
+    }
+
+    .eth47c40f70Group {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 70px;
+
+    }
+
+    .rectangleParent {
+        position: absolute;
+        bottom: 0px;
+        left: -22px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+
+}
+
+@media (min-width: 376px) and (max-width: 390px) {
+    .aboutParent {
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    .hiSebastianMathewContainer {
+        position: absolute;
+        top: 474px;
+        left: 10%;
+        font-size: 24px;
+        text-transform: capitalize;
+        font-family: 'Monument Extended';
+        display: inline-block;
+        width: 334px;
+    }
+
+    .mdilocationParent {
+        position: absolute;
+        top: 550px;
+        left: 8%;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 7px;
+        font-size: 18px;
+    }
+
+    .netWorthParent {
+        position: absolute;
+        top: 650px;
+        left: 10%;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 15px;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .groupItem {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 343px;
+        height: 396px;
+    }
+
+    .lineParent {
+        position: absolute;
+        top: 0px;
+        left: -18.61px;
+        width: 335px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+    }
+
+    .frameGroup {
+        position: absolute;
+        top: 229px;
+        left: -12.61px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 13px;
+
+    }
+
+    .groupInner {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 344px;
+        height: 813px;
+    }
+
+
+    .eth47c40f70Container {
+        border-radius: 10px;
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 85px;
+
+
+    }
+
+    .eth47c40f70Parent {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 77px;
+        width: fit-content !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .eth47c40f70Group {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 77px;
+        width: fit-content !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .rectangleParent {
+        position: absolute;
+        bottom: 0px;
+        left: -22px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+
+}
+
+
+
+
+@media (min-width: 391px) and (max-width: 393px) {
+    .aboutParent {
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    .hiSebastianMathewContainer {
+        position: absolute;
+        top: 474px;
+        left: calc(74% - 184px);
+        font-size: 37px;
+        text-transform: capitalize;
+        font-family: 'Monument Extended';
+        display: inline-block;
+        width: 334px;
+    }
+
+    .mdilocationParent {
+        position: absolute;
+        top: 618px;
+        left: 98px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 7px;
+        font-size: 24px;
+    }
+
+    .netWorthParent {
+        position: absolute;
+        top: 740px;
+        left: 103px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 15px;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .groupItem {
+        position: absolute;
+        top: 0px;
+        left: 2px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 343px;
+        height: 396px;
+    }
+
+    .lineParent {
+        position: absolute;
+        top: 0px;
+        left: -18.61px;
+        width: 335px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+    }
+
+    .frameGroup {
+        position: absolute;
+        top: 229px;
+        left: -12.61px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 4px;
+
+    }
+
+    .groupInner {
+        position: absolute;
+        top: 0px;
+        left: 5px;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 344px;
+        height: 813px;
+    }
+
+
+    .eth47c40f70Container {
+        border-radius: 10px;
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 85px;
+
+
+    }
+
+    .eth47c40f70Parent {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 77px;
+    }
+
+    .eth47c40f70Group {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 77px;
+
+    }
+
+    .rectangleParent {
+        position: absolute;
+        bottom: 0px;
+        left: -22px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+
+}
+
+
+@media (min-width: 394px) and (max-width: 412px) {
+    .aboutParent {
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    .hiSebastianMathewContainer {
+        position: absolute;
+        top: 474px;
+        left: calc(74% - 184px);
+        font-size: 37px;
+        text-transform: capitalize;
+        font-family: 'Monument Extended';
+        display: inline-block;
+        width: 334px;
+    }
+
+    .mdilocationParent {
+        position: absolute;
+        top: 618px;
+        left: 115px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 7px;
+        font-size: 24px;
+
+    }
+
+    .netWorthParent {
+        position: absolute;
+        top: 740px;
+        left: 122px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 15px;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .groupItem {
+        position: absolute;
+        top: 0px;
+        left: 2px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 358px;
+        height: 396px;
+    }
+
+    .lineParent {
+        position: absolute;
+        top: 0px;
+        left: -18.61px;
+        width: 355px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+    }
+
+    .frameGroup {
+        position: absolute;
+        top: 229px;
+        left: -3.61px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 4px;
+
+    }
+
+    .groupInner {
+        position: absolute;
+        top: 0px;
+        left: 5px;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 356px;
+        height: 813px;
+    }
+
+
+    .eth47c40f70Container {
+        border-radius: 10px;
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 98px;
+
+
+    }
+
+    .eth47c40f70Parent {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 89px;
+
+    }
+
+    .eth47c40f70Group {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 89px;
+
+    }
+
+    .rectangleParent {
+        position: absolute;
+        bottom: 0px;
+        left: -7px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+
+}
+
+@media (min-width: 413px) and (max-width: 414px) {
+    .aboutParent {
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    .hiSebastianMathewContainer {
+        position: absolute;
+        top: 474px;
+        left: calc(74% - 184px);
+        font-size: 37px;
+        text-transform: capitalize;
+        font-family: 'Monument Extended';
+        display: inline-block;
+        width: 334px;
+    }
+
+    .mdilocationParent {
+        position: absolute;
+        top: 618px;
+        left: 115px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 7px;
+        font-size: 24px;
+
+    }
+
+    .netWorthParent {
+        position: absolute;
+        top: 740px;
+        left: 122px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 15px;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .groupItem {
+        position: absolute;
+        top: 0px;
+        left: 2px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 358px;
+        height: 396px;
+    }
+
+    .lineParent {
+        position: absolute;
+        top: 0px;
+        left: -18.61px;
+        width: 355px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+    }
+
+    .frameGroup {
+        position: absolute;
+        top: 229px;
+        left: -3.61px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 13px;
+
+    }
+
+    .groupInner {
+        position: absolute;
+        top: 0px;
+        left: 5px;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 361px;
+        height: 813px;
+    }
+
+
+    .eth47c40f70Container {
+        border-radius: 10px;
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 106px;
+
+
+    }
+
+    .eth47c40f70Parent {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .eth47c40f70Group {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .rectangleParent {
+        position: absolute;
+        bottom: 0px;
+        left: -7px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+
+}
+
+@media (min-width: 415px) and (max-width: 430px) {
+    .aboutParent {
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    .hiSebastianMathewContainer {
+        position: absolute;
+        top: 474px;
+        left: calc(74% - 184px);
+        font-size: 37px;
+        text-transform: capitalize;
+        font-family: 'Monument Extended';
+        display: inline-block;
+        width: 334px;
+    }
+
+    .mdilocationParent {
+        position: absolute;
+        top: 618px;
+        left: 115px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 7px;
+        font-size: 24px;
+
+    }
+
+    .netWorthParent {
+        position: absolute;
+        top: 740px;
+        left: 122px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 15px;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .groupItem {
+        position: absolute;
+        top: 0px;
+        left: 2px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 358px;
+        height: 396px;
+    }
+
+    .lineParent {
+        position: absolute;
+        top: 0px;
+        left: -18.61px;
+        width: 355px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+    }
+
+    .frameGroup {
+        position: absolute;
+        top: 229px;
+        left: -3.61px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 4px;
+
+    }
+
+    .groupInner {
+        position: absolute;
+        top: 0px;
+        left: 5px;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 361px;
+        height: 813px;
+    }
+
+
+    .eth47c40f70Container {
+        border-radius: 10px;
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 106px;
+
+
+    }
+
+    .eth47c40f70Parent {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .eth47c40f70Group {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .rectangleParent {
+        position: absolute;
+        bottom: 0px;
+        left: -7px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+
+}
+
+@media (min-width: 431px) and (max-width: 455px) {
+    .aboutParent {
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    .rectangleGroup {
+        position: absolute;
+        top: 937px;
+        left: 32px;
+        width: 392px;
+        height: 396px;
+        cursor: pointer;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .rectangleContainer {
+        position: absolute;
+        top: 1497.19px;
+        left: 32px;
+        width: 392px;
+        height: 813px;
+        font-size: 16px;
+
+    }
+
+    .groupChild {
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        background-color: #141315;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+        width: 503px;
+    }
+
+    .hiSebastianMathewContainer {
+        position: absolute;
+        top: 474px;
+        left: calc(74% - 184px);
+        font-size: 37px;
+        text-transform: capitalize;
+        font-family: 'Monument Extended';
+        display: inline-block;
+        width: 334px;
+    }
+
+    .mdilocationParent {
+        position: absolute;
+        top: 618px;
+        left: 115px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 7px;
+        font-size: 24px;
+
+    }
+
+    .netWorthParent {
+        position: absolute;
+        top: 740px;
+        left: 122px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 15px;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .groupItem {
+        position: absolute;
+        top: 0px;
+        left: 2px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 358px;
+        height: 396px;
+    }
+
+    .lineParent {
+        position: absolute;
+        top: 0px;
+        left: -18.61px;
+        width: 355px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+    }
+
+    .frameGroup {
+        position: absolute;
+        top: 229px;
+        left: -3.61px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 4px;
+
+    }
+
+    .groupInner {
+        position: absolute;
+        top: 0px;
+        left: 5px;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 361px;
+        height: 813px;
+    }
+
+
+    .eth47c40f70Container {
+        border-radius: 10px;
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 106px;
+
+
+    }
+
+    .eth47c40f70Parent {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .eth47c40f70Group {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .rectangleParent {
+        position: absolute;
+        bottom: 0px;
+        left: -7px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+
+}
+
+@media (min-width: 456px) and (max-width: 470px) {
+    .aboutParent {
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    .rectangleGroup {
+        position: absolute;
+        top: 937px;
+        left: 32px;
+        width: 392px;
+        height: 396px;
+        cursor: pointer;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .rectangleContainer {
+        position: absolute;
+        top: 1497.19px;
+        left: 32px;
+        width: 392px;
+        height: 813px;
+        font-size: 16px;
+
+    }
+
+    .groupChild {
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        background-color: #141315;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+        width: 503px;
+    }
+
+    .hiSebastianMathewContainer {
+        position: absolute;
+        top: 474px;
+        left: calc(74% - 184px);
+        font-size: 37px;
+        text-transform: capitalize;
+        font-family: 'Monument Extended';
+        display: inline-block;
+        width: 334px;
+    }
+
+    .mdilocationParent {
+        position: absolute;
+        top: 618px;
+        left: 115px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 7px;
+        font-size: 24px;
+
+    }
+
+    .netWorthParent {
+        position: absolute;
+        top: 740px;
+        left: 122px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 15px;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .groupItem {
+        position: absolute;
+        top: 0px;
+        left: 2px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 358px;
+        height: 396px;
+    }
+
+    .lineParent {
+        position: absolute;
+        top: 0px;
+        left: -18.61px;
+        width: 355px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+    }
+
+    .frameGroup {
+        position: absolute;
+        top: 229px;
+        left: -3.61px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 4px;
+
+    }
+
+    .groupInner {
+        position: absolute;
+        top: 0px;
+        left: 5px;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 361px;
+        height: 813px;
+    }
+
+
+    .eth47c40f70Container {
+        border-radius: 10px;
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 106px;
+
+
+    }
+
+    .eth47c40f70Parent {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .eth47c40f70Group {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .rectangleParent {
+        position: absolute;
+        bottom: 0px;
+        left: -7px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+
+}
+
+
+@media (min-width: 471px) and (max-width: 490px) {
+    .aboutParent {
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    .rectangleGroup {
+        position: absolute;
+        top: 937px;
+        left: 48px;
+        width: 392px;
+        height: 396px;
+        cursor: pointer;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .rectangleContainer {
+        position: absolute;
+        top: 1497.19px;
+        left: 48px;
+        width: 392px;
+        height: 813px;
+        font-size: 16px;
+    }
+
+    .tradeParent {
+        position: absolute;
+        bottom: 293px;
+        left: 50px;
+        width: 375px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 38px;
+        text-align: left;
+    }
+
+    .copyRight20231 {
+        position: absolute;
+        bottom: 0px;
+        left: 46px;
+        text-transform: capitalize;
+        display: inline-block;
+        width: 274px;
+        opacity: 0.5;
+
+    }
+
+    .maskGroupIcon1 {
+        position: absolute;
+        bottom: 392px;
+        left: 179px;
+        width: 113.76px;
+        height: 110px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+
+    .groupChild {
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        background-color: #141315;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+        width: 503px;
+    }
+
+    .hiSebastianMathewContainer {
+        position: absolute;
+        top: 474px;
+        left: calc(74% - 184px);
+        font-size: 37px;
+        text-transform: capitalize;
+        font-family: 'Monument Extended';
+        display: inline-block;
+        width: 334px;
+    }
+
+    .mdilocationParent {
+        position: absolute;
+        top: 618px;
+        left: 115px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 7px;
+        font-size: 24px;
+
+    }
+
+    .netWorthParent {
+        position: absolute;
+        top: 740px;
+        left: 122px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 15px;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .groupItem {
+        position: absolute;
+        top: 0px;
+        left: 2px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 358px;
+        height: 396px;
+    }
+
+    .lineParent {
+        position: absolute;
+        top: 0px;
+        left: -18.61px;
+        width: 355px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+    }
+
+    .frameGroup {
+        position: absolute;
+        top: 229px;
+        left: -3.61px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 13px;
+
+    }
+
+    .groupInner {
+        position: absolute;
+        top: 0px;
+        left: 5px;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 361px;
+        height: 813px;
+    }
+
+
+    .eth47c40f70Container {
+        border-radius: 10px;
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 106px;
+
+
+    }
+
+    .eth47c40f70Parent {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .eth47c40f70Group {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .rectangleParent {
+        position: absolute;
+        bottom: 0px;
+        left: -7px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+
+}
+
+
+@media (min-width: 491px) and (max-width: 500px) {
+    .aboutParent {
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    .rectangleGroup {
+        position: absolute;
+        top: 937px;
+        left: 48px;
+        width: 392px;
+        height: 396px;
+        cursor: pointer;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .rectangleContainer {
+        position: absolute;
+        top: 1497.19px;
+        left: 48px;
+        width: 392px;
+        height: 813px;
+        font-size: 16px;
+    }
+
+    .tradeParent {
+        position: absolute;
+        bottom: 293px;
+        left: 50px;
+        width: 375px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 38px;
+        text-align: left;
+    }
+
+    .copyRight20231 {
+        position: absolute;
+        bottom: 0px;
+        left: 46px;
+        text-transform: capitalize;
+        display: inline-block;
+        width: 274px;
+        opacity: 0.5;
+
+    }
+
+    .maskGroupIcon1 {
+        position: absolute;
+        bottom: 392px;
+        left: 179px;
+        width: 113.76px;
+        height: 110px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+
+    .groupChild {
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        background-color: #141315;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+        width: 503px;
+    }
+
+    .hiSebastianMathewContainer {
+        position: absolute;
+        top: 474px;
+        left: calc(74% - 184px);
+        font-size: 37px;
+        text-transform: capitalize;
+        font-family: 'Monument Extended';
+        display: inline-block;
+        width: 334px;
+    }
+
+    .mdilocationParent {
+        position: absolute;
+        top: 618px;
+        left: 115px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 7px;
+        font-size: 24px;
+
+    }
+
+    .netWorthParent {
+        position: absolute;
+        top: 740px;
+        left: 122px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 15px;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .groupItem {
+        position: absolute;
+        top: 0px;
+        left: 2px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 358px;
+        height: 396px;
+    }
+
+    .lineParent {
+        position: absolute;
+        top: 0px;
+        left: -18.61px;
+        width: 355px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+    }
+
+    .frameGroup {
+        position: absolute;
+        top: 229px;
+        left: -3.61px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 13px;
+
+    }
+
+    .groupInner {
+        position: absolute;
+        top: 0px;
+        left: 5px;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 361px;
+        height: 813px;
+    }
+
+
+    .eth47c40f70Container {
+        border-radius: 10px;
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 106px;
+
+
+    }
+
+    .eth47c40f70Parent {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .eth47c40f70Group {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .rectangleParent {
+        position: absolute;
+        bottom: 0px;
+        left: -7px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+
+}
+
+
+
+@media (min-width: 501px) and (max-width: 520px) {
+    .aboutParent {
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    .rectangleGroup {
+        position: absolute;
+        top: 937px;
+        left: 61px;
+        width: 392px;
+        height: 396px;
+        cursor: pointer;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .rectangleContainer {
+        position: absolute;
+        top: 1497.19px;
+        left: 63px;
+        width: 392px;
+        height: 813px;
+        font-size: 16px;
+    }
+
+    .tradeParent {
+        position: absolute;
+        bottom: 293px;
+        left: 65px;
+        width: 375px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 38px;
+        text-align: left;
+    }
+
+    .copyRight20231 {
+        position: absolute;
+        bottom: 0px;
+        left: 51px;
+        text-transform: capitalize;
+        display: inline-block;
+        width: 274px;
+        opacity: 0.5;
+
+    }
+
+    .maskGroupIcon1 {
+        position: absolute;
+        bottom: 392px;
+        left: 200px;
+        width: 113.76px;
+        height: 110px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+
+    .groupChild {
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        background-color: #141315;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+        width: 503px;
+    }
+
+    .hiSebastianMathewContainer {
+        position: absolute;
+        top: 474px;
+        left: calc(74% - 184px);
+        font-size: 37px;
+        text-transform: capitalize;
+        font-family: 'Monument Extended';
+        display: inline-block;
+        width: 334px;
+    }
+
+    .mdilocationParent {
+        position: absolute;
+        top: 618px;
+        left: 115px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 7px;
+        font-size: 24px;
+
+    }
+
+    .netWorthParent {
+        position: absolute;
+        top: 740px;
+        left: 122px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 15px;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .groupItem {
+        position: absolute;
+        top: 0px;
+        left: 2px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 358px;
+        height: 396px;
+    }
+
+    .lineParent {
+        position: absolute;
+        top: 0px;
+        left: -18.61px;
+        width: 355px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+    }
+
+    .frameGroup {
+        position: absolute;
+        top: 229px;
+        left: -3.61px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 13px;
+
+    }
+
+    .groupInner {
+        position: absolute;
+        top: 0px;
+        left: 5px;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 361px;
+        height: 813px;
+    }
+
+
+    .eth47c40f70Container {
+        border-radius: 10px;
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 106px;
+
+
+    }
+
+    .eth47c40f70Parent {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .eth47c40f70Group {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .holdings {
+        position: absolute;
+        top: 1433px;
+        left: 65px;
+        font-size: 28px;
+        text-transform: capitalize;
+        font-weight: 500;
+        color: #ffe500;
+        display: inline-block;
+        width: 187px;
+        height: 34.19px;
+    }
+
+    .rectangleParent {
+        position: absolute;
+        bottom: 0px;
+        left: -7px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+
+}
+
+@media (min-width: 521px) and (max-width: 540px) {
+    .aboutParent {
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    .holdings {
+        position: absolute;
+        top: 1433px;
+        left: 65px;
+        font-size: 28px;
+        text-transform: capitalize;
+        font-weight: 500;
+        color: #ffe500;
+        display: inline-block;
+        width: 187px;
+        height: 34.19px;
+    }
+
+    .rectangleGroup {
+        position: sticky;
+        top: 937px;
+        left: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        font-size: 32px;
+        color: #ffe500;
+        margin: auto;
+    }
+
+    .rectangleContainer {
+        position: sticky;
+        top: 1497.19px;
+        left: 0;
+        display: flex;
+        align-items: center;
+        height: 813px;
+        font-size: 16px;
+        justify-content: center;
+        margin: auto;
+    }
+
+    .tradeParent {
+        position: absolute;
+        bottom: 293px;
+        margin: 0 0 0 47px;
+        width: 375px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 38px;
+        text-align: left;
+    }
+
+    .copyRight20231 {
+        position: absolute;
+        bottom: 0px;
+        left: 51px;
+        margin: 0 0 0 20px;
+        text-transform: capitalize;
+        display: inline-block;
+        width: 274px;
+        opacity: 0.5;
+
+    }
+
+    .maskGroupIcon1 {
+        position: absolute;
+        bottom: 392px;
+        left: 200px;
+        width: 113.76px;
+        height: 110px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+
+    .groupChild {
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        background-color: #141315;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+        width: 562px;
+    }
+
+    .hiSebastianMathewContainer {
+        position: absolute;
+        top: 474px;
+        left: calc(74% - 184px);
+        font-size: 37px;
+        text-transform: capitalize;
+        font-family: 'Monument Extended';
+        display: inline-block;
+        width: 334px;
+    }
+
+    .mdilocationParent {
+        position: absolute;
+        top: 618px;
+        left: 115px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 7px;
+        font-size: 24px;
+
+    }
+
+    .netWorthParent {
+        position: absolute;
+        top: 740px;
+        left: 122px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 15px;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .groupItem {
+        position: absolute;
+        top: 0px;
+        left: auto;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 358px;
+        height: 396px;
+    }
+
+    .lineParent {
+        position: absolute;
+        top: 0px;
+        left: auto;
+        width: 355px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+    }
+
+    .frameGroup {
+        position: absolute;
+        top: 229px;
+        left: auto;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 13px;
+
+
+    }
+
+    .groupInner {
+        position: absolute;
+        top: 0px;
+        left: auto;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 361px;
+        height: 813px;
+    }
+
+
+    .eth47c40f70Container {
+        border-radius: 10px;
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 106px;
+
+
+    }
+
+    .eth47c40f70Parent {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .eth47c40f70Group {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .rectangleParent {
+        position: absolute;
+        bottom: 0px;
+        left: -7px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+
+}
+
+@media (min-width: 541px) and (max-width: 600px) {
+    .aboutParent {
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    .holdings {
+        position: absolute;
+        top: 1433px;
+        left: 118px;
+        font-size: 28px;
+        text-transform: capitalize;
+        font-weight: 500;
+        color: #ffe500;
+        display: inline-block;
+        width: 187px;
+        height: 34.19px;
+    }
+
+    .rectangleGroup {
+        position: sticky;
+        top: 937px;
+        left: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        font-size: 32px;
+        color: #ffe500;
+        margin: auto;
+    }
+
+    .rectangleContainer {
+        position: sticky;
+        top: 1497.19px;
+        left: 0;
+        display: flex;
+        align-items: center;
+        height: 813px;
+        font-size: 16px;
+        justify-content: center;
+        margin: auto;
+    }
+
+    .tradeParent {
+        position: absolute;
+        bottom: 293px;
+        margin: 0 0 0 81px;
+        width: 375px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 38px;
+        text-align: left;
+    }
+
+    .copyRight20231 {
+        position: absolute;
+        bottom: 0px;
+        left: 51px;
+        margin: 0 0 0 47px;
+        text-transform: capitalize;
+        display: inline-block;
+        width: 274px;
+        opacity: 0.5;
+
+    }
+
+    .maskGroupIcon1 {
+        position: absolute;
+        bottom: 392px;
+        left: 237px;
+        width: 113.76px;
+        height: 110px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+
+    .groupChild {
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        background-color: #141315;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+        width: 650px;
+    }
+
+    .hiSebastianMathewContainer {
+        position: absolute;
+        top: 474px;
+        left: calc(74% - 184px);
+        font-size: 37px;
+        text-transform: capitalize;
+        font-family: 'Monument Extended';
+        display: inline-block;
+        width: 334px;
+    }
+
+    .mdilocationParent {
+        position: absolute;
+        top: 618px;
+        left: 115px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 7px;
+        font-size: 24px;
+
+    }
+
+    .netWorthParent {
+        position: absolute;
+        top: 740px;
+        left: 122px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 15px;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .groupItem {
+        position: absolute;
+        top: 0px;
+        left: auto;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 358px;
+        height: 396px;
+    }
+
+    .lineParent {
+        position: absolute;
+        top: 0px;
+        left: auto;
+        width: 355px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+    }
+
+    .frameGroup {
+        position: absolute;
+        top: 229px;
+        left: auto;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 13px;
+
+
+    }
+
+    .groupInner {
+        position: absolute;
+        top: 0px;
+        left: auto;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 361px;
+        height: 813px;
+    }
+
+
+    .eth47c40f70Container {
+        border-radius: 10px;
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 106px;
+
+
+    }
+
+    .eth47c40f70Parent {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .eth47c40f70Group {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .rectangleParent {
+        position: absolute;
+        bottom: 0px;
+        left: -7px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+
+}
+
+
+
+
+@media (min-width: 601px) and (max-width: 640px) {
+    .aboutParent {
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    .holdings {
+        position: absolute;
+        top: 1433px;
+        left: 118px;
+        font-size: 28px;
+        text-transform: capitalize;
+        font-weight: 500;
+        color: #ffe500;
+        display: inline-block;
+        width: 187px;
+        height: 34.19px;
+    }
+
+    .rectangleGroup {
+        position: sticky;
+        top: 937px;
+        left: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        font-size: 32px;
+        color: #ffe500;
+        margin: auto;
+    }
+
+    .rectangleContainer {
+        position: sticky;
+        top: 1497.19px;
+        left: 0;
+        display: flex;
+        align-items: center;
+        height: 813px;
+        font-size: 16px;
+        justify-content: center;
+        margin: auto;
+    }
+
+    .tradeParent {
+        position: absolute;
+        bottom: 293px;
+        margin: 0 0 0 97px;
+        width: 375px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 38px;
+        text-align: left;
+
+    }
+
+    .copyRight20231 {
+        position: absolute;
+        bottom: 0px;
+        left: 51px;
+        margin: 0 0 0 65px;
+        text-transform: capitalize;
+        display: inline-block;
+        width: 274px;
+        opacity: 0.5;
+    }
+
+    .maskGroupIcon1 {
+        position: absolute;
+        bottom: 392px;
+        left: 254px;
+        width: 113.76px;
+        height: 110px;
+        -o-object-fit: cover;
+        object-fit: cover;
+
+    }
+
+    .groupChild {
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        background-color: #141315;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+        width: 650px;
+    }
+
+    .hiSebastianMathewContainer {
+        position: absolute;
+        top: 474px;
+        left: calc(74% - 184px);
+        font-size: 37px;
+        text-transform: capitalize;
+        font-family: 'Monument Extended';
+        display: inline-block;
+        width: 334px;
+    }
+
+    .mdilocationParent {
+        position: absolute;
+        top: 618px;
+        left: 286px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 7px;
+        font-size: 24px;
+
+    }
+
+    .netWorthParent {
+        position: absolute;
+        top: 740px;
+        left: 291px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 15px;
+        font-size: 32px;
+        color: #ffe500;
+    }
+
+    .groupItem {
+        position: absolute;
+        top: 0px;
+        left: auto;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 358px;
+        height: 396px;
+    }
+
+    .lineParent {
+        position: absolute;
+        top: 0px;
+        left: auto;
+        width: 355px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+    }
+
+    .frameGroup {
+        position: absolute;
+        top: 229px;
+        left: auto;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 13px;
+
+
+    }
+
+    .groupInner {
+        position: absolute;
+        top: 0px;
+        left: auto;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 361px;
+        height: 813px;
+    }
+
+
+    .eth47c40f70Container {
+        border-radius: 10px;
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 106px;
+
+
+    }
+
+    .eth47c40f70Parent {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .eth47c40f70Group {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .rectangleParent {
+        position: absolute;
+        bottom: 0px;
+        left: -7px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+
+}
+
+@media (min-width: 641px) and (max-width: 680px) {
+    .aboutParent {
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    .holdings {
+        position: absolute;
+        top: 1433px;
+        left: 160px;
+        font-size: 28px;
+        text-transform: capitalize;
+        font-weight: 500;
+        color: #ffe500;
+        display: inline-block;
+        width: 187px;
+        height: 34.19px;
+    }
+
+    .rectangleGroup {
+        position: sticky;
+        top: 937px;
+        left: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        font-size: 32px;
+        color: #ffe500;
+        margin: auto;
+    }
+
+    .rectangleContainer {
+        position: sticky;
+        top: 1497.19px;
+        left: 0;
+        display: flex;
+        align-items: center;
+        height: 813px;
+        font-size: 16px;
+        justify-content: center;
+        margin: auto;
+    }
+
+    .tradeParent {
+        position: absolute;
+        bottom: 293px;
+        margin: 0 0 0 132px;
+        width: 375px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 38px;
+        text-align: left;
+
+    }
+
+    .copyRight20231 {
+        position: absolute;
+        bottom: 0px;
+        left: 51px;
+        margin: 0 0 0 99px;
+        text-transform: capitalize;
+        display: inline-block;
+        width: 274px;
+        opacity: 0.5;
+
+    }
+
+    .maskGroupIcon1 {
+        position: absolute;
+        bottom: 392px;
+        left: 290px;
+        width: 113.76px;
+        height: 110px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+
+    .groupChild {
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        background-color: #141315;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+        width: 776px;
+    }
+
+    .hiSebastianMathewContainer {
+        position: absolute;
+        top: 474px;
+        left: calc(74% - 184px);
+        font-size: 37px;
+        text-transform: capitalize;
+        font-family: 'Monument Extended';
+        display: inline-block;
+        width: 334px;
+    }
+
+    .mdilocationParent {
+        position: absolute;
+        top: 618px;
+        left: 291px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 7px;
+        font-size: 24px;
+
+    }
+
+    .netWorthParent {
+        position: absolute;
+        top: 740px;
+        left: 292px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 15px;
+        font-size: 32px;
+        color: #ffe500;
+
+    }
+
+    .groupItem {
+        position: absolute;
+        top: 0px;
+        left: auto;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 358px;
+        height: 396px;
+    }
+
+    .lineParent {
+        position: absolute;
+        top: 0px;
+        left: auto;
+        width: 355px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+    }
+
+    .frameGroup {
+        position: absolute;
+        top: 229px;
+        left: auto;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 13px;
+
+
+    }
+
+    .groupInner {
+        position: absolute;
+        top: 0px;
+        left: auto;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 361px;
+        height: 813px;
+    }
+
+
+    .eth47c40f70Container {
+        border-radius: 10px;
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 106px;
+
+
+    }
+
+    .eth47c40f70Parent {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .eth47c40f70Group {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .rectangleParent {
+        position: absolute;
+        bottom: 0px;
+        left: -7px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+
+}
+
+@media (min-width: 681px) and (max-width: 700px) {
+    .aboutParent {
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    .holdings {
+        position: absolute;
+        top: 1433px;
+        left: 160px;
+        font-size: 28px;
+        text-transform: capitalize;
+        font-weight: 500;
+        color: #ffe500;
+        display: inline-block;
+        width: 187px;
+        height: 34.19px;
+    }
+
+    .rectangleGroup {
+        position: sticky;
+        top: 937px;
+        left: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        font-size: 32px;
+        color: #ffe500;
+        margin: auto;
+    }
+
+    .rectangleContainer {
+        position: sticky;
+        top: 1497.19px;
+        left: 0;
+        display: flex;
+        align-items: center;
+        height: 813px;
+        font-size: 16px;
+        justify-content: center;
+        margin: auto;
+    }
+
+    .tradeParent {
+        position: absolute;
+        bottom: 293px;
+        margin: 0 0 0 132px;
+        width: 375px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 38px;
+        text-align: left;
+
+    }
+
+    .copyRight20231 {
+        position: absolute;
+        bottom: 0px;
+        left: 51px;
+        margin: 0 0 0 99px;
+        text-transform: capitalize;
+        display: inline-block;
+        width: 274px;
+        opacity: 0.5;
+
+    }
+
+    .maskGroupIcon1 {
+        position: absolute;
+        bottom: 392px;
+        left: 290px;
+        width: 113.76px;
+        height: 110px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+
+    .groupChild {
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        background-color: #141315;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+        width: 776px;
+    }
+
+    .hiSebastianMathewContainer {
+        position: absolute;
+        top: 474px;
+        left: calc(74% - 184px);
+        font-size: 37px;
+        text-transform: capitalize;
+        font-family: 'Monument Extended';
+        display: inline-block;
+        width: 334px;
+    }
+
+    .mdilocationParent {
+        position: absolute;
+        top: 618px;
+        left: 291px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 7px;
+        font-size: 24px;
+
+    }
+
+    .netWorthParent {
+        position: absolute;
+        top: 740px;
+        left: 292px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 15px;
+        font-size: 32px;
+        color: #ffe500;
+
+    }
+
+    .groupItem {
+        position: absolute;
+        top: 0px;
+        left: auto;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 358px;
+        height: 396px;
+    }
+
+    .lineParent {
+        position: absolute;
+        top: 0px;
+        left: auto;
+        width: 355px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+    }
+
+    .frameGroup {
+        position: absolute;
+        top: 229px;
+        left: auto;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 13px;
+
+
+    }
+
+    .groupInner {
+        position: absolute;
+        top: 0px;
+        left: auto;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 361px;
+        height: 813px;
+    }
+
+
+    .eth47c40f70Container {
+        border-radius: 10px;
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 106px;
+
+
+    }
+
+    .eth47c40f70Parent {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        border: 1px solid #474353;
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .eth47c40f70Group {
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 100px;
+
+    }
+
+    .rectangleParent {
+        position: absolute;
+        bottom: 0px;
+        left: -7px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+
+}

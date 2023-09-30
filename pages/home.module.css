@@ -1,0 +1,3573 @@
+.homepageBlackChild {
+    position: absolute;
+    bottom: 196px;
+    left: 303px;
+    width: 834px;
+    height: 834px;
+}
+
+.homepageBlackItem {
+    position: absolute;
+    bottom: 1210px;
+    left: 194px;
+    border-radius: 50%;
+    background-color: rgba(237, 188, 92, 0.56);
+    filter: blur(44px);
+    width: 194px;
+    height: 194px;
+    opacity: 0.4;
+}
+.homepageBlackInner {
+    position: absolute;
+    bottom: 2655px;
+    left: 99px;
+    border-radius: 50%;
+    background-color: rgba(163, 106, 255, 0.26);
+    filter: blur(114px);
+    width: 290px;
+    height: 290px;
+    opacity: 0.7;
+}
+.ellipseDiv {
+    position: absolute;
+    bottom: 2081px;
+    left: 1085px;
+    border-radius: 50%;
+    background-color: rgba(145, 255, 106, 0.26);
+    filter: blur(84px);
+    width: 206px;
+    height: 206px;
+}
+.ellipseDivtwo{
+    position: absolute;
+    bottom: 2146px;
+    left: 158px;
+    border-radius: 50%;
+    background-color: rgb(160 8 237 / 26%);
+    filter: blur(84px);
+    width: 206px;
+    height: 206px;
+}
+.homepageBlackChild1 {
+    position: absolute;
+    top: 1033px;
+    left: 900px;
+    border-radius: 50%;
+    background: linear-gradient(263.1deg, #bbfa09, #9efa09);
+    width: 97px;
+    height: 97px;
+    opacity: 0.3;
+}
+.homepageBlackChild2 {
+    position: absolute;
+    top: 1244px;
+    left: 888px;
+    border-radius: 50%;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    width: 226px;
+    height: 226px;
+    opacity: 0.4;
+}
+.homepageBlackChild3 {
+    position: absolute;
+    top: 1050px;
+    left: 1108px;
+    width: 576px;
+    height: 576px;
+    opacity: 0.6;
+}
+.homepageBlackChild4 {
+    position: absolute;
+    bottom: 2243px;
+    left: 1108px;
+    width: 576px;
+    height: 576px;
+    opacity: 0.6;
+}
+.homepageBlackChild5 {
+    position: absolute;
+    top: 1774px;
+    left: 0px;
+    width: 576px;
+    height: 576px;
+    opacity: 0.6;
+}
+.homepageBlackChild6 {
+    position: absolute;
+    top: -346px;
+    left: calc(50% + 112.28px);
+    border-radius: 50%;
+    background-color: #000;
+    filter: blur(304px);
+    width: 1024.95px;
+    height: 1024.95px;
+    transform:  rotate(15deg);
+    transform-origin: 0 0;
+    opacity: 0.35;
+}
+.homepageBlackChild7 {
+    position: absolute;
+    top: 0px;
+    left: calc(35% - 720px);
+    width: 741px;
+    height: 741px;
+    opacity: 0.6;
+
+    
+}
+.rwfa {
+    position: absolute;
+    top: 52px;
+    left: calc(50% - 585px);
+    font-size: 30px;
+    font-family: 'MonumentExtended-Regular';
+    color: #bbfa09;
+    display: none;
+}
+.unveilingANew1 {
+    position: absolute;
+    top: 236px;
+    left: calc(50% - 585px);
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.discoverTheRwfa {
+    position: absolute;
+    top: 308px;
+    left: calc(50% - 585px);
+    font-size: 44px;
+    text-transform: capitalize;
+    font-family: 'MonumentExtended-Regular';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 661px;
+
+}
+.homepageBlackChild8 {
+    position: absolute;
+    top: 87px;
+    left: calc(50% - 402px);
+    width: 18px;
+    height: 10px;
+}
+.btnChild {
+    position: absolute;
+    top: -12px;
+    left: -20px;
+    border-radius: 4.69px;
+    width: 310px;
+    height: 120px;
+}
+.startTrading {
+    position: absolute;
+    font-size: 17px;
+    top: calc(49% - 20px);
+    left: calc(36% - 54px);
+    text-transform: uppercase;
+    font-weight: 500;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    border-radius: 4px;
+    padding: 5%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    clip-path: polygon(20% 0, 100% 0, 100% 70%, 85% 100%, 0 100%, 0 30%);
+}
+.btn {
+    position: relative;
+    width: 315px;
+    height: 55px;
+}
+.carbonplayFilledIcon1 {
+    position: relative;
+    width: 26px;
+    height: 26px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.watchTutorial {
+    position: relative;
+    font-weight: 500;
+}
+.carbonplayFilledParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 11px;
+    color: #fff;
+}
+.btnParent {
+    position: absolute;
+    top: 733px;
+    left: 7%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 37px;
+    font-size: 16px;
+    color: #1f1330;
+}
+.rectangleDiv {
+    position: absolute;
+    top: 881px;
+    left: calc(50% - 572px);
+    background: linear-gradient(90deg, rgba(163, 107, 255, 0), #707071 49.48%, rgba(163, 110, 253, 0));
+    width: 1143px;
+    height: 2px;
+}
+.text3 {
+    position: absolute;
+    top: 1124px;
+    left: 608px;
+    font-size: 18px;
+    letter-spacing: 0.04em;
+    font-weight: 500;
+}
+.downloadOurWhite1 {
+    position: absolute;
+    top: 0px;
+    font-size: 37px;
+    left: 0px;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    width: 527px;
+}
+.diveIntoThe1 {
+    position: absolute;
+    top: 134px;
+    left: 0px;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: bold;
+
+    color: #fff;
+    display: inline-block;
+    width: 90%;
+}
+.downloadOurWhitePaperForIParent {
+    position: relative;
+    width: 670px;
+    height: 350px;
+}
+.downloadWhitepaper {
+    position: relative;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.mingcutewallet4FillParent {
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    backdrop-filter: blur(12px);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 22px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 16px;
+    color: #1f1330;
+    margin-top: 5%;
+}
+.groupParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 60px;
+}
+.groupChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 462px;
+    height: 472px;
+}
+.frameIcon {
+    position: relative;
+    width: 241px;
+    height: 189px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.rwfa1 {
+    position: absolute;
+    top: 0px;
+    left: 65px;
+}
+.whitepaper {
+    position: absolute;
+    top: 46px;
+    text-align: center;
+    left: 0px;
+    color: #fff;
+}
+.rwfaParent {
+    position: relative;
+    width: 251px;
+    height: 82px;
+}
+.frameGroup {
+    position: absolute;
+    top: 81px;
+    left: 106px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 41px;
+}
+.rectangleParent {
+    position: relative;
+    width: 462px;
+    height: 472px;
+    font-size: 30px;
+    color: #fff931;
+    font-family: 'MonumentExtended-Regular';
+}
+.frameParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 38px;
+    color: #ffe500;
+    width: 80vw;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+.discoverOurBenefits1 {
+    position: absolute;
+    bottom: 2555px;
+    left: calc(50% - 459px);
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #fff931;
+    text-align: center;
+    display: inline-block;
+    width: 917px;
+}
+.elevateYourFinancial1 {
+    position: absolute;
+    bottom: 2459px;
+    left: calc(50% - 557px);
+    font-size: 24px;
+    font-weight: bold;
+   
+    line-height: 36px;
+    text-align: center;
+    display: inline-block;
+    width: 1113px;
+}
+.maskGroupIcon {
+    position: absolute;
+    top: 15px;
+    left: 121px;
+    width: 113.76px;
+    
+    height: 110px;
+    object-fit: cover;
+}
+.homepageBlackChild9 {
+    position: absolute;
+    bottom: 1773px;
+    left: 931px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 370px;
+    height: 582px;
+}
+.homepageBlackChild10 {
+    position: absolute;
+    bottom: 1175px;
+    left: 931px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 370px;
+    height: 564px;
+}
+.homepageBlackChild11 {
+    position: absolute;
+    bottom: 1773px;
+    left: 533px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 370px;
+    height: 582px;
+}
+.homepageBlackChild12 {
+    position: absolute;
+    bottom: 1175px;
+    left: 533px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 370px;
+    height: 564px;
+}
+.homepageBlackChild13 {
+    position: absolute;
+    bottom: 1773px;
+    left: 133px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 370px;
+    height: 582px;
+}
+.homepageBlackChild14 {
+    position: absolute;
+    bottom: 1175px;
+    left: 133px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 370px;
+    height: 564px;
+}
+.seamlessFinancialInclusion1 {
+    position: absolute;
+    bottom: 2088px;
+    left: 162px;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: 'MonumentExtended-Regular';
+    color: #fff931;
+    display: inline-block;
+    width: 230px;
+}
+.decentralizedControl {
+    position: absolute;
+    bottom: 1521px;
+    left: 957px;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: 'MonumentExtended-Regular';
+    color: #fff931;
+    display: inline-block;
+    width: 274px;
+
+}
+.groupIcon1 {
+    position: absolute;
+    bottom: 1603px;
+    left: 957px;
+    width: 76.57px;
+    height: 80px;
+}
+.enhancedSecurity {
+    position: absolute;
+    bottom: 1519px;
+    left: 162px;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: 'MonumentExtended-Regular';
+    color: #fff931;
+    display: inline-block;
+    width: 230px;
+}
+.smartContractCapabilities1 {
+    position: absolute;
+    bottom: 2090px;
+    left: 961px;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: 'MonumentExtended-Regular';
+    color: #fff931;
+    display: inline-block;
+    width: 270px;
+
+}
+.reducedFees {
+    position: absolute;
+    bottom: 1519px;
+    left: 561px;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: 'MonumentExtended-Regular';
+    color: #fff931;
+    display: inline-block;
+    width: 230px;
+}
+.effortlessCrossBorderTransa1 {
+    position: absolute;
+    bottom: 2089px;
+    left: 554px;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: 'MonumentExtended-Regular';
+    color: #fff931;
+    display: inline-block;
+    width: 320px;
+}
+.joinAPlatform1 {
+    position: absolute;
+    bottom: 1856px;
+    left: 162px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 300px;
+    height: 213px;
+}
+.enjoyThePower1 {
+    position: absolute;
+    bottom: 1282px;
+    left: 957px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 300px;
+    height: 213px;
+}
+.experienceEnhancedSecurity1 {
+    position: absolute;
+    bottom: 1282px;
+    left: 162px;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    font-weight: bold;
+    display: inline-block;
+    width: 300px;
+    height: 213px;
+}
+.leverageSmartContracts1 {
+    position: absolute;
+    bottom: 1856px;
+    left: 961px;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    font-weight: bold;
+    display: inline-block;
+    width: 300px;
+    height: 213px;
+}
+.benefitFromLower1 {
+    position: absolute;
+    bottom: 1282px;
+    left: 561px;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 300px;
+    height: 213px;
+}
+.sendAndReceive1 {
+    position: absolute;
+    bottom: 1856px;
+    left: 554px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 300px;
+    height: 213px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.homepageBlackChild15 {
+    position: absolute;
+    top: 2839px;
+    left: 162px;
+    width: 56.93px;
+    height: 80px;
+}
+.groupIcon2 {
+    position: absolute;
+    bottom: 1603px;
+    left: 162px;
+    width: 73.03px;
+    height: 80px;
+}
+.groupicon1{
+    position: absolute;
+    bottom: 2203px;
+    left: 164px;
+    width: 73.03px;
+    height: 80px;
+}
+.groupIcon3 {
+    position: absolute;
+    bottom: 2203px;
+    left: 554px;
+    width: 80.01px;
+    height: 80px;
+}
+.groupIcon4 {
+    position: absolute;
+    bottom: 2203px;
+    left: 961px;
+    width: 72.38px;
+    height: 80px;
+}
+.groupIcon5 {
+    position: absolute;
+    bottom: 1603px;
+    left: 561px;
+    width: 98.25px;
+    height: 80px;
+}
+.rectangleIcon {
+    position: absolute;
+    bottom: 1043px;
+    background-size: cover;
+    width: 100%;
+    height: 568px;
+}
+.homepageBlackChild16 {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 100%;
+    height: 328px;
+}
+.maskGroupIcon1 {
+    position: absolute;
+    bottom: 139px;
+    left: 303px;
+    width: 113.76px;
+    height: 110px;
+    object-fit: cover;
+}
+.mediaInquiresFor1 {
+    position: relative;
+    opacity: 0.5;
+}
+.mediaInquiresForCmaxContParent {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 226px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+.trade {
+    position: relative;
+}
+.tradeParent {
+    position: absolute;
+    bottom: 88px;
+    left: calc(50% - 360px);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+}
+.maskGroupParent {
+    position: absolute;
+    bottom: 51px;
+    left: 360px;
+    width: 720px;
+    height: 249px;
+    text-align: center;
+    font-size: 20px;
+}
+.ourPartners {
+    position: absolute;
+    bottom: 1439px;
+    left: calc(50% - 459px);
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #fff931;
+    text-align: center;
+    display: inline-block;
+    width: 917px;
+}
+.fuelingInnovationThrough1 {
+    position: absolute;
+    bottom: 1337px;
+    left: calc(50% - 557px);
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    width: 1113px;
+}
+.clipPathGroup5 {
+    position: relative;
+    width: 100.8px;
+    height: 56px;
+}
+.maskGroupIcon2 {
+    position: relative;
+    width: 146px;
+    height: 25.96px;
+    object-fit: cover;
+}
+.clipPathGroup6 {
+    position: relative;
+    width: 115.9px;
+    height: 38px;
+}
+.maskGroupIcon3 {
+    position: relative;
+    width: 150.62px;
+    height: 41.82px;
+    object-fit: cover;
+}
+.partnersLogosChild {
+    position: relative;
+    width: 141.83px;
+    height: 53.07px;
+}
+.clipPathGroup7 {
+    position: relative;
+    width: 123.33px;
+    height: 40px;
+}
+.frameIcon1 {
+    position: relative;
+    width: 118px;
+    height: 50px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.frameIcon2 {
+    position: relative;
+    width: 148px;
+    height: 22px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.partnersLogos {
+    position: absolute;
+    bottom: 1196px;
+    left: calc(50% - 720px);
+    width: 170%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 130px;
+}
+.joinOurCommunity1 {
+    position: absolute;
+    bottom: 226px;
+    left: calc(50% - 458.5px);
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    width: 917px;
+}
+.diveIntoA1 {
+    position: absolute;
+    bottom: 120px;
+    left: calc(50% - 556.5px);
+    font-size: 24px;
+    line-height: 36px;
+    color: #fff;
+    font-weight: bold;
+    display: inline-block;
+    width: 1113px;
+}
+.groupItem {
+    position: absolute;
+    top: 221px;
+    left: 411px;
+    width: 292.33px;
+    height: 50px;
+}
+.joinOurCommunityParent {
+    position: absolute;
+    bottom: 541px;
+    left: calc(50% - 557px);
+    width: 1113px;
+    height: 271px;
+    text-align: center;
+    color: #fff931;
+}
+.homepageBlackChild17 {
+    position: absolute;
+    top: 2325.57px;
+    left: calc(50% - 532px);
+    border-radius: 11px;
+    background-color: #ffd6fd;
+    filter: blur(154px);
+    width: 1064.51px;
+    height: 111.77px;
+    opacity: 0.09;
+}
+.shutterstock2152297015ConveIcon {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 275px);
+    width: 995px;
+    height: 895.75px;
+    object-fit: cover;
+    mix-blend-mode: luminosity;
+}
+.home {
+    position: relative;
+    color: #ffe500;
+}
+.trade1 {
+    position: relative;
+    cursor: pointer;
+}
+.homeParent {
+    position: absolute;
+    top: 58px;
+    left: calc(50% - 415px);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    font-size: 20px;
+}
+.homepageBlackChild18 {
+    position: absolute;
+    top: 48px;
+    left: calc(50% + 298px);
+    border-radius: 50%;
+    width: 44px;
+    height: 44px;
+    object-fit: cover;
+    cursor: pointer;
+}
+.mingcutewallet4FillGroup {
+    position: absolute;
+    top: 40px;
+    left: calc(40% + 364px);
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    backdrop-filter: blur(12px);
+    display: flex;
+    flex-direction: row;
+    padding: 0.5vh 1vw;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 16px;
+    color: #1f1330;
+}
+.mingcutewallet4FillLang {
+    position: absolute;
+    top: 45px;
+    left: calc(57% + 364px);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 22px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 16px;
+}
+.unionIcon3 {
+    position: relative;
+    width: 30px;
+    height: 30px;
+}
+.unionIcon4 {
+    position: relative;
+    width: 20px;
+    height: 20px;
+}
+.unionIcon5 {
+    position: relative;
+    width: 34px;
+    top: 152px;
+    height: 34px;
+    left: 50px;
+}
+.groupInner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, #2b2a26, rgba(43, 42, 38, 0));
+    backdrop-filter: blur(46px);
+    width: 1170px;
+    height: 499px;
+}
+.groupChild1 {
+    position: absolute;
+    top: 0.86px;
+    left: 1px;
+    border-radius: 10px;
+    background-color: #fff931;
+    width: 1168px;
+    height: 497.28px;
+    display: none;
+    opacity: 0.5;
+    mix-blend-mode: color;
+}
+.carbonplayFilledIcon2 {
+    position: absolute;
+    top: 206.84px;
+    left: 535px;
+    width: 100px;
+    height: 86.18px;
+    overflow: hidden;
+}
+.rectangleGroup {
+    position: absolute;
+    top: 1875px;
+    left: 135px;
+    box-shadow: 0px 20px 90px rgba(0, 0, 0, 0.35);
+    width: 1170px;
+    height: 499px;
+}
+.treasuryTokens1 {
+    position: absolute;
+    top: 1665px;
+    left: calc(50% - 459px);
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+    text-align: center;
+    display: inline-block;
+    width: 917px;
+}
+.immerseYourselfIn1 {
+    position: absolute;
+    top: 1747px;
+    left: calc(50% - 557px);
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    width: 1113px;
+}
+
+.maskGroupIcon6 {
+    position: absolute;
+    top: 1939px;
+    left: 177px;
+    width: 613px;
+    height: 370px;
+    object-fit: cover;
+}
+.homepageBlackChild20 {
+    position: absolute;
+    top: 1941px;
+    left: 814px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, #2b2a26, rgba(43, 42, 38, 0));
+    backdrop-filter: blur(46px);
+    width: 447px;
+    height: 160px;
+}
+.frameIcon3 {
+    position: absolute;
+    top: 1972px;
+    left: 1106px;
+    width: 130px;
+    height: 98.38px;
+    overflow: hidden;
+}
+.totalTradingVolume2 {
+    position: absolute;
+    top: 1978.43px;
+    left: 857px;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+}
+.homepageBlackChild21 {
+    position: absolute;
+    top: 2147px;
+    left: 814px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, #2b2a26, rgba(43, 42, 38, 0));
+    backdrop-filter: blur(46px);
+    width: 447px;
+    height: 160px;
+}
+.frameIcon4 {
+    position: absolute;
+    top: 2178px;
+    left: 1106px;
+    width: 130px;
+    height: 98.38px;
+    overflow: hidden;
+}
+.cmax24 {
+    position: absolute;
+    top: 2023px;
+    left: 857px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #0ce770;
+}
+.totalTradingVolume3 {
+    position: absolute;
+    top: 2179px;
+    left: 857px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 36px;
+    text-transform: capitalize;
+}
+.tita24 {
+    position: absolute;
+    top: 2225px;
+    left: 857px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+}
+.div {
+    position: absolute;
+    top: 2065px;
+    left: 219px;
+    font-size: 58px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.treasury {
+    position: absolute;
+    top: 1983px;
+    left: 219px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.rsc {
+    position: absolute;
+    top: 2187px;
+    left: 219px;
+    font-size: 58px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.div1 {
+    position: absolute;
+    top: 2135px;
+    left: 219px;
+    font-size: 42px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #fff931;
+}
+.homepageBlack {
+    position: relative;
+    background: linear-gradient(180deg, #201d26, #1d1b20);
+    width: 100%;
+    overflow: hidden;
+    text-align: left;
+    font-size: 43px;
+    color: #fff;
+    font-family: 'NeueMontreal-Light';
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 350px) and (max-width: 662px) {
+    .discoverTheRwfa {
+        position: sticky;
+        top: 308px;
+        display: flex;
+        text-align: center;
+        font-size: 40px;
+        text-transform: capitalize;
+        font-family: 'MonumentExtended-Regular';
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        display: flex;
+        width: 100%;
+        }
+        .homepageBlackChild6 {
+           display: none;
+        }
+        .groupicon1{
+            position: absolute;
+    bottom: 2735px;
+    width: auto;
+    left: 0;
+    padding-left: 30px;
+    height: 80px;
+        }
+        .homeParent {
+            position: absolute;
+            top: 58px;
+            left: calc(50% - 415px);
+            display: none;
+            flex-direction: row;
+            align-items: flex-start;
+            justify-content: flex-start;
+            gap: 38px;
+            font-size: 20px;
+        }
+        .maskGroupIcon{
+            position: absolute;
+            top: 2px;
+            left: 150px;
+            width: 72.76px;
+            height: 74px;
+            -o-object-fit: cover;
+            object-fit: cover;
+        }
+        .benefitFromLower1{
+            position: absolute;
+    bottom: 4364px;
+    left: 101px;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 300px;
+    height: 213px;
+        }
+        .homepageBlackChild{
+            position: absolute;
+            bottom: 267px;
+            height: 834px;
+            left: 0;
+        }
+        .ourPartners{
+            position: absolute;
+    bottom: 1490px;
+    left: calc(50% - 459px);
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #fff931;
+    text-align: center;
+    display: inline-block;
+    width: 917px;
+        }
+        .homepageBlackChild13 {
+            position: absolute;
+            bottom: 2322px;
+            left: auto;
+            border-radius: 11px;
+            background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+            -webkit-backdrop-filter: blur(46px);
+            backdrop-filter: blur(46px);
+            width: inherit;
+            height: 582px;
+        
+        }
+        .homepageBlackChild4 {
+            position: absolute;
+            bottom: 2243px;
+            left: 47px;
+            width: 576px;
+            height: 576px;
+            opacity: 0.6;
+        }
+        .homepageBlackChild14 {
+            position: absolute;
+            bottom: 1670px;
+            left: auto;
+            border-radius: 11px;
+            background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+            -webkit-backdrop-filter: blur(46px);
+            backdrop-filter: blur(46px);
+            width: inherit;
+            height: 582px;
+        
+        }
+
+        .groupChild{
+           
+            position: absolute;
+    top: 93px;
+    left: 0px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 462px;
+    height: 472px;
+           
+        }
+       
+        .frameGroup{
+            position: absolute;
+            top: 183px;
+            left: 106px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            gap: 41px;
+        }
+        .fuelingInnovationThrough1{
+            position: absolute;
+    bottom: 1291px;
+    font-size: 24px;
+    line-height: 36px;
+    left: 0;
+    width: auto;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+        }
+        .btnParent{
+            position: sticky;
+            top: 584px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            font-size: 16px;
+            color: #1f1330;
+        }
+        .experienceEnhancedSecurity1{
+            position: absolute;
+    bottom: 1753px;
+    left: auto;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: auto;
+    height: 213px;
+    padding: 30px;
+        }
+        .enhancedSecurity{
+            position: absolute;
+    bottom: 1927px;
+    left: auto;
+    border-radius: 11px;
+    width: auto;
+    padding: 30px;
+    
+        }
+        .groupIcon2{
+            position: absolute;
+            bottom: 2097px;
+            left: 102px;
+            left: auto;
+            width: auto;
+            height: 80px;
+            padding-left: 30px;
+        }
+        
+        .joinAPlatform1{
+            position: absolute;
+    bottom: 2428px;
+    left: auto;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: auto;
+    height: 213px;
+    padding: 30px;
+        }
+        .seamlessFinancialInclusion1{
+            position: absolute;
+    bottom: 2594px;
+    left: auto;
+    border-radius: 11px;
+    width: auto;
+    padding: 30px;
+    
+        }
+        .shutterstock2152297015ConveIcon{
+            display: none;
+        }
+        .frameParent{
+            position: sticky;
+        top: 1006px;
+        display: flex;
+        left: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 38px;
+        color: #ffe500;
+        }
+        .unveilingANew1{
+            position: sticky;
+            top: 248px;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            font-weight: 500;
+            justify-content: center;
+            font-size: 38px;
+        }
+        .mingcutewallet4FillParent{
+            margin-top: 240px;
+        }
+        .diveIntoThe1{
+            position: absolute;
+            top: 205px;
+            left: 0px;
+            text-align: center;
+            font-size: 24px;
+            line-height: 36px;
+            font-weight: bold;
+            color: #fff;
+            display: inline-block;
+            width: 729px;
+            padding-left: 156px;
+            padding-right: 222px;
+        }
+        .downloadOurWhite1{
+            
+                position: sticky;
+                top: 0px;
+                left: 0px;
+                text-transform: capitalize;
+                font-weight: 500;
+                padding-left: 157px;
+                padding-right: 146px;
+                display: flex;
+                width: auto;
+                align-items: center;
+                justify-content: center;
+                text-align: center;
+           
+        }
+        .groupParent{
+            display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+        }
+        .rectangleGroup{
+            position: absolute;
+    top: 2422px;
+    box-shadow: 0px 20px 90px rgba(0, 0, 0, 0.35);
+    width: 1170px;
+    height: 499px;
+    left: 0;
+        }
+        .maskGroupIcon6{
+            position: absolute;
+        top: 2803px;
+        width: -webkit-fill-available;
+        height: 370px;
+        -o-object-fit: cover;
+        object-fit: cover;
+        left: 0;
+        }
+        .treasury{
+            position: sticky;
+            top: 2802px;
+            text-align: center;
+            left: auto;
+            text-transform: capitalize;
+            font-weight: 500;
+        }
+        .div{
+            position: sticky;
+    top: 2875px;
+    text-align: center;
+    font-size: 40px;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    left: 0;
+        }
+        .rsc{
+            position: sticky;
+    top: 2950px;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    justify-content: center;
+    left: 0;
+        }
+        .div1{
+            position: sticky;
+    top: 2906px;
+    margin: auto;
+    font-size: 42px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #fff931;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 0;
+        }
+        .immerseYourselfIn1{
+            position: absolute;
+            top: 2600px;
+            font-size: 24px;
+            line-height: 36px;
+            font-weight: bold;
+            text-align: center;
+            display: inline-block;
+            left: 0;
+            width: auto;
+        }
+        .treasuryTokens1{
+            position: sticky;
+    top: 2446px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    width: auto;
+        }
+        .groupInner{
+            position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, #2b2a26, rgba(43, 42, 38, 0));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 1170px;
+    height: 968px;
+        }
+        .totalTradingVolume3{
+            position: absolute;
+            top: 3326px;
+            font-size: 22px;
+            text-align: center;
+            line-height: 36px;
+            text-transform: capitalize;
+            left: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: inherit;
+        }
+        .tita24{
+            position: sticky;
+            top: 3360px;
+            text-transform: capitalize;
+            font-weight: 500;
+            color: #0ce770;
+            text-align: center;
+            left: 0;
+        }
+        .frameIcon4{
+            position: absolute;
+            top: 3425px;
+            width: inherit;
+            height: 98.38px;
+            overflow: hidden;
+            left: 0;
+        }
+        .discoverOurBenefits1{
+            position: sticky;
+    top: 4300px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    width: auto;
+        }
+        .elevateYourFinancial1{
+            position: absolute;
+    top: 3920px;
+    left: auto;
+    border-radius: 11px;
+    width: auto;
+    padding: 30px;
+    height: 582px;
+        }
+        .homepageBlack{
+            position: relative;
+    background: linear-gradient(180deg, #201d26, #1d1b20);
+    width: 100%;
+    height: 9720px;
+    display: none;
+    overflow: hidden;
+    text-align: left;
+    font-size: 43px;
+    color: #fff;
+    font-family: 'NeueMontreal-Light';
+        }
+        .joinOurCommunity1{
+            position: absolute;
+    bottom: 219px;
+    left: calc(50% - 459px);
+    text-transform: capitalize;
+    font-weight: 500;
+    font-size: 37px;
+    color: #fff931;
+    text-align: center;
+    display: inline-block;
+    width: 917px;
+        }
+        .diveIntoA1{
+            position: absolute;
+            bottom: -41px;
+            padding-left: 389px;
+            font-size: 24px;
+            line-height: 36px;
+            left: 0;
+            width: auto;
+            font-weight: bold;
+            text-align: center;
+            display: flex;
+            padding-right: 389px;
+        }
+        .homepageBlackChild20{
+            position: absolute;
+    top: 3072px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, #2b2a26, rgba(43, 42, 38, 0));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: inherit;
+    height: 207px;
+    left: 0;
+        }
+        .totalTradingVolume2{
+            position: absolute;
+            top: 3092px;
+            font-size: 22px;
+            text-align: center;
+            line-height: 36px;
+            text-transform: capitalize;
+            left: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: inherit;
+        }
+        .cmax24{
+            position: sticky;
+            top: 3123px;
+            text-transform: capitalize;
+            font-weight: 500;
+            color: #0ce770;
+            text-align: center;
+            left: 0;
+        }
+        .frameIcon3{
+            position: absolute;
+            top: 3184px;
+            width: inherit;
+            height: 98.38px;
+            overflow: hidden;
+            left: 0;
+        }
+        .homepageBlackChild21{
+            position: absolute;
+    top: 3301px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, #2b2a26, rgba(43, 42, 38, 0));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: -webkit-fill-available;
+    height: 218px;
+    left: 0;
+        }
+        .homepageBlackChild11{
+            position: absolute;
+            bottom: 2970px;
+            left: auto;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: inherit;
+    height: 582px;
+
+        }
+      
+
+        .homepageBlackChild9{
+            position: absolute;
+            bottom: 3603px;
+            left: auto;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: inherit;
+    height: 582px;
+        }
+        .homepageBlackChild12{
+            position: absolute;
+            bottom: 4240px;
+            left: auto;
+            border-radius: 11px;
+            background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+            -webkit-backdrop-filter: blur(46px);
+            backdrop-filter: blur(46px);
+            width: inherit;
+            height: 582px;
+        }
+
+        .homepageBlackChild10{
+            position: absolute;
+            bottom: 4883px;
+            left: auto;
+            border-radius: 11px;
+            background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+            -webkit-backdrop-filter: blur(46px);
+            backdrop-filter: blur(46px);
+            width: inherit;
+            height: 582px;
+        }
+
+  .smartContractCapabilities1{
+    position: absolute;
+    bottom: 3428px;
+    left: auto;
+    border-radius: 11px;
+    width: auto;
+    padding: 30px;
+    height: 582px;
+  }
+  .reducedFees{
+    position: absolute;
+    bottom: 4054px;
+    left: auto;
+    border-radius: 11px;
+    width: auto;
+    padding: 30px;
+    height: 582px;
+  }
+  .enjoyThePower1{
+    position: absolute;
+    bottom: 4967px;
+    left: 101px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 300px;
+    height: 213px;
+  }
+ .decentralizedControl{
+    position: absolute;
+    bottom: 4696px;
+    left: auto;
+    border-radius: 11px;
+    width: auto;
+    padding: 30px;
+    height: 582px;
+ }
+ .leverageSmartContracts1{
+
+ }
+.benefitFromLower1{
+    position: absolute;
+    bottom: 4364px;
+    left: auto;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: auto;
+    height: 213px;
+    padding: 30px;
+}
+.enjoyThePower1{
+    position: absolute;
+    bottom: 4982px;
+    left: auto;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: auto;
+    height: 213px;
+    padding: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        .effortlessCrossBorderTransa1{
+            position: absolute;
+            bottom: 3231px;
+            left: auto;
+    border-radius: 11px;
+    width: auto;
+    padding: 30px;
+    
+
+        }
+        .leverageSmartContracts1{
+            position: absolute;
+    bottom: 3700px;
+    left: auto;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: auto;
+    height: 213px;
+    padding: 30px;
+        }
+        .sendAndReceive1{
+            position: absolute;
+            bottom: 3060px;
+            left: auto;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: auto;
+    height: 213px;
+    padding: 30px;
+        }
+        .groupIcon3{
+            position: absolute;
+            bottom: 3430px;
+            left: auto;
+            padding-left: 30px;
+            width: auto;
+            height: 80px;
+        }
+       .groupIcon1{
+        position: absolute;
+    bottom: 5330px;
+    left: auto;
+    width: auto;
+    height: 80px;
+    padding-left: 30px;
+       }
+       .groupIcon5{
+        position: absolute;
+    bottom: 4687px;
+    left: auto;
+    width: auto;
+    padding-left: 30px;
+    height: 80px;
+       }
+       .groupIcon4{
+        position: absolute;
+    bottom: 4037px;
+    left: auto;
+    width: auto;
+    padding-left: 30px;
+    height: 80px;
+       }
+       .homepageBlackChild15{
+    position: absolute;
+    bottom: 3000px;
+    left: auto;
+    width: auto;
+    padding-left: 30px;
+    height: 80px;
+       }
+      
+  }
+
+
+
+
+
+
+
+@media (min-width: 663px) and (max-width: 890px) {
+    .discoverTheRwfa {
+        position: sticky;
+        top: 308px;
+        left: auto;
+        font-size: 66px;
+        text-transform: capitalize;
+        font-family: 'MonumentExtended-Regular';
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        display: flex;
+        width: auto;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+   
+    
+    .rectangleGroup{
+        position: absolute;
+top: 2345px;
+box-shadow: 0px 20px 90px rgba(0, 0, 0, 0.35);
+width: 1170px;
+height: 499px;
+left: 0;
+    }
+    .maskGroupIcon6{
+        position: absolute;
+    top: 2405px;
+    width: -webkit-fill-available;
+    height: 370px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    left: 0;
+    }
+    .fuelingInnovationThrough1{
+        position: absolute;
+bottom: 1337px;
+font-size: 24px;
+line-height: 36px;
+left: 0;
+width: auto;
+font-weight: bold;
+text-align: center;
+display: flex;
+    }
+    .groupParent{
+        display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+gap: 60px;
+    }
+    
+    .diveIntoThe1{
+        position: absolute;
+top: 134px;
+left: 0px;
+text-align: center;
+font-size: 24px;
+line-height: 36px;
+font-weight: bold;
+color: #fff;
+display: inline-block;
+width: 670px;
+    }
+    .shutterstock2152297015ConveIcon{
+        display: none;
+    }
+    .btnParent {
+        position: sticky;
+        top: 615px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        gap: 37px;
+        font-size: 16px;
+        color: #1f1330;
+    }
+    .unveilingANew1{
+        position: sticky;
+    top: 236px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 500;
+    }
+    .frameParent{
+        position: sticky;
+    top: 1006px;
+    display: flex;
+    display: flex;
+    left: 0;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 38px;
+    color: #ffe500;
+    }
+    .downloadOurWhite1{
+        position: sticky;
+        top: 0px;
+        left: 0px;
+        text-transform: capitalize;
+        font-weight: 500;
+        padding-left: 157px;
+        padding-right: 146px;
+        display: flex;
+        width: auto;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    
+    
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  @media (min-width: 681px) {
+    .navbars {
+        display: none; /* Show the entire header */
+    }
+}
+
+/* Hide the navigation bar for screens 680px or less (optional) */
+@media (max-width: 680px) {
+    .navbars {
+        display: block; /* Hide the entire header */
+       
+    }
+}
+
+
+
+
+@media (min-width: 681px) {
+    .navbars {
+        display: none; /* Show the entire header */
+    }
+    .mobile{
+        display: none;
+    }
+   
+}
+
+/* Hide the navigation bar for screens 680px or less (optional) */
+@media (max-width: 680px) {
+    .navbars {
+        display: block; /* Hide the entire header */
+       
+    }
+    .mobile{
+        display: block;
+    }
+   
+}
+
+
+
+/* Hide the navigation bar for screens 680px or less (optional) */
+
+@media (min-width: 100px) and (max-width: 600px){
+    .ipad{
+        display: none;
+    }
+    .homepageBlack{
+        display: none;
+    }
+}
+@media (min-width: 601px) and (max-width: 700px){
+   
+    .homepageBlack{
+        display: none;
+    }
+}
+
+@media (min-width: 701px) and (max-width: 1056px){
+    .ipad{
+        display: block;
+    }
+   .mobile{
+    display: none;
+   }
+    .homepageBlack{
+        display: none;
+    }
+}
+
+@media (min-width: 1057px) and (max-width: 5000px){
+    .ipad{
+        display: none;
+    }
+    .homepageBlack{
+        display: block;
+    }
+}
+
+@media (min-width: 1057px) and (max-width: 1100px){
+   .homeParent{
+    position: absolute;
+    top: 58px;
+    left: calc(65% - 415px);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    font-size: 20px;
+
+   }
+   .homepageBlackChild8{
+    position: absolute;
+    top: 87px;
+    left: calc(65% - 402px);
+    width: 18px;
+    height: 10px;
+   }
+   .mingcutewallet4FillGroup{
+    position: absolute;
+    top: 46px;
+    left: calc(35% + 364px);
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    display: flex;
+    flex-direction: row;
+    padding: 11px 22px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 16px;
+    color: #1f1330;
+   }
+   .discoverTheRwfa{
+    position: absolute;
+    top: 308px;
+    left: calc(58% - 585px);
+    font-size: 44px;
+    text-transform: capitalize;
+    font-family: 'MonumentExtended-Regular';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 661px;
+   }
+   .unveilingANew1{
+    position: absolute;
+    top: 236px;
+    left: calc(58% - 585px);
+    text-transform: capitalize;
+    font-weight: 500;
+   }
+   .btnParent{
+    position: absolute;
+    top: 733px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 37px;
+    font-size: 16px;
+    color: #1f1330;
+   }
+   
+   .groupChild{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 349px;
+    height: 472px;
+   }
+   .frameParent{
+    position: absolute;
+    top: 1006px;
+    left: 37px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0;
+    color: #ffe500;
+   }
+   .frameGroup{
+    position: absolute;
+    top: 81px;
+    left: 54px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 41px;
+
+   }
+   .homepageBlackChild{
+    position: absolute;
+    bottom: 196px;
+    left: 122px;
+    width: 834px;
+    height: 834px;
+
+   }
+   .groupIcon4{
+    display: none;
+   }
+   .leverageSmartContracts1{
+    position: absolute;
+    bottom: 1856px;
+    left: 961px;
+    display: none;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    font-weight: bold;
+    display: none;
+    width: 300px;
+    height: 213px;
+
+   }
+   .homepageBlackChild10{
+    position: absolute;
+    bottom: 1175px;
+    left: 931px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 370px;
+    display: none;
+    height: 564px;
+   }
+   .groupIcon1{
+    position: absolute;
+    bottom: 1175px;
+    left: 931px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 370px;
+    display: none;
+    height: 564px;
+   }
+   .decentralizedControl{
+    position: absolute;
+    bottom: 1506px;
+    left: 957px;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: 'MonumentExtended-Regular';
+    color: #fff931;
+    display: none;
+    width: 274px;
+   }
+   .enjoyThePower1{
+    position: absolute;
+    bottom: 1282px;
+    left: 957px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: none;
+    width: 300px;
+    height: 213px;
+
+   }
+   .homepageBlackChild2{
+    position: absolute;
+    top: 1244px;
+    left: 780px;
+    border-radius: 50%;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    width: 226px;
+    height: 226px;
+    opacity: 0.4;
+
+   }
+   .groupInner{
+    position: absolute;
+    top: 0px;
+    left: -103px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, #2b2a26, rgba(43, 42, 38, 0));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 1017px;
+    height: 499px;
+
+   }
+   .div{
+    position: absolute;
+    top: 2065px;
+    left: 132px;
+    font-size: 58px;
+    text-transform: capitalize;
+    font-weight: 500;
+   }
+   .homepageBlackChild20{
+    position: absolute;
+    top: 1941px;
+    left: 704px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, #2b2a26, rgba(43, 42, 38, 0));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 323px;
+    height: 160px;
+
+   }
+   .homepageBlackChild21{
+    position: absolute;
+    top: 2147px;
+    left: 708px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, #2b2a26, rgba(43, 42, 38, 0));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 320px;
+    height: 160px;
+   }
+   .totalTradingVolume3{
+    position: absolute;
+    top: 2179px;
+    left: 748px;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+   }
+   .totalTradingVolume2{
+    position: absolute;
+    top: 1978.43px;
+    left: 747px;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+   }
+   .tita24{
+    position: absolute;
+    top: 2225px;
+    font-size: 33px;
+    left: 749px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+   }
+   .cmax24{
+    position: absolute;
+    top: 2023px;
+    left: 745px;
+    font-size: 33px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #0ce770;
+   }
+   .carbonplayFilledIcon2{
+    display: none;
+   }
+   .div1{
+    position: absolute;
+    top: 2135px;
+    left: 151px;
+    font-size: 42px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #fff931;
+   }
+   .rsc{
+    position: absolute;
+    top: 2187px;
+    left: 129px;
+    font-size: 58px;
+    text-transform: capitalize;
+    font-weight: 500;
+   }
+   .treasury{
+    position: absolute;
+    top: 1983px;
+    left: 131px;
+    text-transform: capitalize;
+    font-weight: 500;
+   }
+   .maskGroupIcon6{
+    position: absolute;
+    top: 1939px;
+    left: 73px;
+    width: 613px;
+    height: 370px;
+    -o-object-fit: cover;
+    object-fit: cover;
+   }
+   .diveIntoA1{
+    position: absolute;
+    bottom: 120px;
+    left: calc(50% - 556.5px);
+    font-size: 24px;
+    padding: 0 55px;
+    line-height: 36px;
+    color: #fff;
+    font-weight: bold;
+    display: inline-block;
+    width: 1113px;
+   }
+   .smartContractCapabilities1{
+    position: absolute;
+    bottom: 2077px;
+    left: 961px;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: 'MonumentExtended-Regular';
+    color: #fff931;
+    display: none;
+    width: 270px;
+   }
+   .homepageBlackChild9{
+    position: absolute;
+    bottom: 1773px;
+    left: 931px;
+    display: none;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 370px;
+    height: 582px;
+   }
+   .elevateYourFinancial1{
+    position: absolute;
+    padding: 0 70px;
+    bottom: 2459px;
+    left: calc(50% - 557px);
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 36px;
+    text-align: center;
+    display: inline-block;
+    width: 1113px;
+   }
+   .immerseYourselfIn1{
+    position: absolute;
+    top: 1747px;
+    left: calc(50% - 557px);
+    font-size: 24px;
+    line-height: 36px;
+    padding: 0 73px;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    width: 1127px;
+   }
+}
+
+
+@media (min-width: 1101px) and (max-width: 1160px){
+    .homeParent{
+     position: absolute;
+     top: 58px;
+     left: calc(65% - 415px);
+     display: flex;
+     flex-direction: row;
+     align-items: flex-start;
+     justify-content: flex-start;
+     gap: 38px;
+     font-size: 20px;
+ 
+    }
+    .frameIcon3{
+        position: absolute;
+    top: 1875px;
+    left: 144px;
+    box-shadow: 0px 20px 90px rgba(0, 0, 0, 0.35);
+    width: 916px;
+    display: none;
+    height: 499px;
+    }
+    .frameIcon4{
+        display: none;
+    }
+    .rectangleGroup{
+        position: absolute;
+    top: 1875px;
+    left: 144px;
+    box-shadow: 0px 20px 90px rgba(0, 0, 0, 0.35);
+    width: 916px;
+    height: 499px;
+    }
+    .homepageBlackChild8{
+     position: absolute;
+     top: 87px;
+     left: calc(65% - 402px);
+     width: 18px;
+     height: 10px;
+    }
+    .mingcutewallet4FillGroup{
+     position: absolute;
+     top: 46px;
+     left: calc(35% + 364px);
+     border-radius: 10px;
+     background: linear-gradient(180deg, #ffe500, #fff492);
+     -webkit-backdrop-filter: blur(12px);
+     backdrop-filter: blur(12px);
+     display: flex;
+     flex-direction: row;
+     padding: 11px 22px;
+     align-items: center;
+     justify-content: center;
+     gap: 10px;
+     font-size: 16px;
+     color: #1f1330;
+    }
+    .discoverTheRwfa{
+     position: absolute;
+     top: 308px;
+     left: calc(58% - 585px);
+     font-size: 44px;
+     text-transform: capitalize;
+     font-family: 'MonumentExtended-Regular';
+     background: linear-gradient(180deg, #ffe500, #fff492);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     display: inline-block;
+     width: 661px;
+    }
+    .unveilingANew1{
+     position: absolute;
+     top: 236px;
+     left: calc(58% - 585px);
+     text-transform: capitalize;
+     font-weight: 500;
+    }
+    .btnParent{
+     position: absolute;
+     top: 733px;
+     left: 4%;
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+     justify-content: flex-start;
+     gap: 37px;
+     font-size: 16px;
+     color: #1f1330;
+    }
+    
+    .groupChild{
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border-radius: 11px;
+     background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+     -webkit-backdrop-filter: blur(46px);
+     backdrop-filter: blur(46px);
+     width: 349px;
+     height: 472px;
+    }
+    .frameParent{
+     position: absolute;
+     top: 1006px;
+     left: 37px;
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+     justify-content: flex-start;
+     gap: 0;
+     color: #ffe500;
+    }
+    .frameGroup{
+     position: absolute;
+     top: 81px;
+     left: 54px;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: flex-start;
+     gap: 41px;
+ 
+    }
+    .homepageBlackChild{
+        position: absolute;
+        bottom: 196px;
+        left: 158px;
+        width: 834px;
+        height: 834px;
+ 
+    }
+    .groupIcon4{
+     display: none;
+    }
+    .leverageSmartContracts1{
+     position: absolute;
+     bottom: 1856px;
+     left: 961px;
+     display: none;
+     font-size: 22px;
+     line-height: 36px;
+     text-transform: capitalize;
+     font-weight: bold;
+     display: none;
+     width: 300px;
+     height: 213px;
+ 
+    }
+    .homepageBlackChild10{
+     position: absolute;
+     bottom: 1175px;
+     left: 931px;
+     border-radius: 11px;
+     background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+     -webkit-backdrop-filter: blur(46px);
+     backdrop-filter: blur(46px);
+     width: 370px;
+     display: none;
+     height: 564px;
+    }
+    .groupIcon1{
+     position: absolute;
+     bottom: 1175px;
+     left: 931px;
+     border-radius: 11px;
+     background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+     -webkit-backdrop-filter: blur(46px);
+     backdrop-filter: blur(46px);
+     width: 370px;
+     display: none;
+     height: 564px;
+    }
+    .decentralizedControl{
+     position: absolute;
+     bottom: 1506px;
+     left: 957px;
+     font-size: 24px;
+     text-transform: uppercase;
+     font-family: 'MonumentExtended-Regular';
+     color: #fff931;
+     display: none;
+     width: 274px;
+    }
+    .enjoyThePower1{
+     position: absolute;
+     bottom: 1282px;
+     left: 957px;
+     font-size: 22px;
+     font-weight: bold;
+     line-height: 36px;
+     text-transform: capitalize;
+     display: none;
+     width: 300px;
+     height: 213px;
+ 
+    }
+    .homepageBlackChild2{
+     position: absolute;
+     top: 1244px;
+     left: 780px;
+     border-radius: 50%;
+     background: linear-gradient(180deg, #ffe500, #fff492);
+     width: 226px;
+     height: 226px;
+     opacity: 0.4;
+ 
+    }
+    .groupInner{
+        position: absolute;
+        top: 0px;
+        left: -103px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, #2b2a26, rgba(43, 42, 38, 0));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 1064px;
+        height: 499px;
+ 
+    }
+    .homepageBlackChild11{
+        position: absolute;
+    bottom: 1773px;
+    left: 625px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 370px;
+    height: 582px;
+
+    }
+    .homepageBlackChild12{
+        position: absolute;
+    bottom: 1175px;
+    left: 625px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 370px;
+    height: 564px;
+    }
+    .effortlessCrossBorderTransa1{
+        position: absolute;
+    bottom: 2077px;
+    left: 652px;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: 'MonumentExtended-Regular';
+    color: #fff931;
+    display: inline-block;
+    width: 320px;
+    }
+    .groupIcon3{
+        position: absolute;
+    bottom: 2203px;
+    left: 649px;
+    width: 80.01px;
+    height: 80px;
+
+    }
+    .sendAndReceive1{
+        position: absolute;
+    bottom: 1856px;
+    left: 659px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 300px;
+    height: 213px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    .benefitFromLower1{
+        position: absolute;
+    bottom: 1282px;
+    left: 672px;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 300px;
+    height: 213px;
+    }
+    .reducedFees{
+        position: absolute;
+    bottom: 1506px;
+    left: 670px;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: 'MonumentExtended-Regular';
+    color: #fff931;
+    display: inline-block;
+    width: 230px;
+    }
+    .groupIcon5{
+        position: absolute;
+    bottom: 1603px;
+    left: 663px;
+    width: 98.25px;
+    height: 80px;
+
+    }
+    .div{
+     position: absolute;
+     top: 2065px;
+     left: 132px;
+     font-size: 58px;
+     text-transform: capitalize;
+     font-weight: 500;
+    }
+    .homepageBlackChild20{
+     position: absolute;
+     top: 1941px;
+     left: 704px;
+     border-radius: 11px;
+     background: linear-gradient(180deg, #2b2a26, rgba(43, 42, 38, 0));
+     -webkit-backdrop-filter: blur(46px);
+     backdrop-filter: blur(46px);
+     width: 323px;
+     height: 160px;
+ 
+    }
+    .homepageBlackChild21{
+     position: absolute;
+     top: 2147px;
+     left: 708px;
+     border-radius: 11px;
+     background: linear-gradient(180deg, #2b2a26, rgba(43, 42, 38, 0));
+     -webkit-backdrop-filter: blur(46px);
+     backdrop-filter: blur(46px);
+     width: 320px;
+     height: 160px;
+    }
+    .totalTradingVolume3{
+     position: absolute;
+     top: 2179px;
+     left: 748px;
+     font-size: 22px;
+     line-height: 36px;
+     text-transform: capitalize;
+    }
+    .totalTradingVolume2{
+     position: absolute;
+     top: 1978.43px;
+     left: 747px;
+     font-size: 22px;
+     line-height: 36px;
+     text-transform: capitalize;
+    }
+    .tita24{
+     position: absolute;
+     top: 2225px;
+     font-size: 33px;
+     left: 749px;
+     text-transform: capitalize;
+     font-weight: 500;
+     color: #ffe500;
+    }
+    .cmax24{
+     position: absolute;
+     top: 2023px;
+     left: 745px;
+     font-size: 33px;
+     text-transform: capitalize;
+     font-weight: 500;
+     color: #0ce770;
+    }
+    .carbonplayFilledIcon2{
+     display: none;
+    }
+    .div1{
+     position: absolute;
+     top: 2135px;
+     left: 151px;
+     font-size: 42px;
+     text-transform: capitalize;
+     font-weight: 500;
+     color: #fff931;
+    }
+    .rsc{
+     position: absolute;
+     top: 2187px;
+     left: 129px;
+     font-size: 58px;
+     text-transform: capitalize;
+     font-weight: 500;
+    }
+    .treasury{
+     position: absolute;
+     top: 1983px;
+     left: 131px;
+     text-transform: capitalize;
+     font-weight: 500;
+    }
+    .maskGroupIcon6{
+     position: absolute;
+     top: 1939px;
+     left: 73px;
+     width: 613px;
+     height: 370px;
+     -o-object-fit: cover;
+     object-fit: cover;
+    }
+    .diveIntoA1{
+     position: absolute;
+     bottom: 120px;
+     left: calc(50% - 556.5px);
+     font-size: 24px;
+     padding: 0 55px;
+     line-height: 36px;
+     color: #fff;
+     font-weight: bold;
+     display: inline-block;
+     width: 1113px;
+    }
+    .smartContractCapabilities1{
+     position: absolute;
+     bottom: 2077px;
+     left: 961px;
+     font-size: 24px;
+     text-transform: uppercase;
+     font-family: 'MonumentExtended-Regular';
+     color: #fff931;
+     display: none;
+     width: 270px;
+    }
+    .homepageBlackChild9{
+     position: absolute;
+     bottom: 1773px;
+     left: 931px;
+     display: none;
+     border-radius: 11px;
+     background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+     -webkit-backdrop-filter: blur(46px);
+     backdrop-filter: blur(46px);
+     width: 370px;
+     height: 582px;
+    }
+    .elevateYourFinancial1{
+     position: absolute;
+     padding: 0 70px;
+     bottom: 2459px;
+     left: calc(50% - 557px);
+     font-size: 24px;
+     font-weight: bold;
+     line-height: 36px;
+     text-align: center;
+     display: inline-block;
+     width: 1113px;
+    }
+    .immerseYourselfIn1{
+     position: absolute;
+     top: 1747px;
+     left: calc(50% - 557px);
+     font-size: 24px;
+     line-height: 36px;
+     padding: 0 73px;
+     font-weight: bold;
+     text-align: center;
+     display: inline-block;
+     width: 1127px;
+    }
+ }
+ 
+ 
+ @media (min-width: 1161px) and (max-width: 1210px){
+    .homeParent{
+     position: absolute;
+     top: 58px;
+     left: calc(65% - 415px);
+     display: flex;
+     flex-direction: row;
+     align-items: flex-start;
+     justify-content: flex-start;
+     gap: 38px;
+     font-size: 20px;
+ 
+    }
+    .frameIcon3{
+        position: absolute;
+    top: 1875px;
+    left: 144px;
+    box-shadow: 0px 20px 90px rgba(0, 0, 0, 0.35);
+    width: 916px;
+    display: none;
+    height: 499px;
+    }
+    .frameIcon4{
+        display: none;
+    }
+    .rectangleGroup{
+        position: absolute;
+    top: 1875px;
+    left: 144px;
+    box-shadow: 0px 20px 90px rgba(0, 0, 0, 0.35);
+    width: 916px;
+    height: 499px;
+    }
+    .homepageBlackChild8{
+     position: absolute;
+     top: 87px;
+     left: calc(65% - 402px);
+     width: 18px;
+     height: 10px;
+    }
+    .mingcutewallet4FillGroup{
+     position: absolute;
+     top: 46px;
+     left: calc(35% + 364px);
+     border-radius: 10px;
+     background: linear-gradient(180deg, #ffe500, #fff492);
+     -webkit-backdrop-filter: blur(12px);
+     backdrop-filter: blur(12px);
+     display: flex;
+     flex-direction: row;
+     padding: 11px 22px;
+     align-items: center;
+     justify-content: center;
+     gap: 10px;
+     font-size: 16px;
+     color: #1f1330;
+    }
+    .discoverTheRwfa{
+     position: absolute;
+     top: 308px;
+     left: calc(58% - 585px);
+     font-size: 44px;
+     text-transform: capitalize;
+     font-family: 'MonumentExtended-Regular';
+     background: linear-gradient(180deg, #ffe500, #fff492);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     display: inline-block;
+     width: 661px;
+    }
+    .joinAPlatform1{
+        position: absolute;
+    bottom: 1856px;
+    left: 228px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 300px;
+    height: 213px;
+    }
+    .seamlessFinancialInclusion1{
+        position: absolute;
+    bottom: 2077px;
+    left: 230px;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: 'MonumentExtended-Regular';
+    color: #fff931;
+    display: inline-block;
+    width: 230px;
+    }
+    .groupicon1{
+        position: absolute;
+    bottom: 2203px;
+    left: 232px;
+    width: 73.03px;
+    height: 80px;
+
+    }
+    .unveilingANew1{
+     position: absolute;
+     top: 236px;
+     left: calc(58% - 585px);
+     text-transform: capitalize;
+     font-weight: 500;
+    }
+    .btnParent{
+     position: absolute;
+     top: 733px;
+     left: 3%;
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+     justify-content: flex-start;
+     gap: 37px;
+     font-size: 16px;
+     color: #1f1330;
+    }
+    
+    .groupChild{
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border-radius: 11px;
+     background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+     -webkit-backdrop-filter: blur(46px);
+     backdrop-filter: blur(46px);
+     width: 349px;
+     height: 472px;
+    }
+    .frameParent{
+        position: absolute;
+        top: 1006px;
+        left: 77px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 0;
+        color: #ffe500;
+    }
+    .frameGroup{
+     position: absolute;
+     top: 81px;
+     left: 54px;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: flex-start;
+     gap: 41px;
+ 
+    }
+    .homepageBlackChild{
+        position: absolute;
+        bottom: 196px;
+        left: 192px;
+        width: 834px;
+        height: 834px;
+ 
+    }
+    .enhancedSecurity{
+        position: absolute;
+    bottom: 1506px;
+    left: 220px;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: 'MonumentExtended-Regular';
+    color: #fff931;
+    display: inline-block;
+    width: 230px;
+
+    }
+    .experienceEnhancedSecurity1{
+        position: absolute;
+    bottom: 1282px;
+    left: 218px;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    font-weight: bold;
+    display: inline-block;
+    width: 300px;
+    height: 213px;
+    }
+
+    .groupIcon2{
+        position: absolute;
+    bottom: 1603px;
+    left: 220px;
+    width: 73.03px;
+    height: 80px;
+    }
+    .homepageBlackChild14{
+        position: absolute;
+    bottom: 1175px;
+    left: 181px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 370px;
+    height: 564px;
+
+    }
+    .homepageBlackChild13{
+        position: absolute;
+    bottom: 1773px;
+    left: 180px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 370px;
+    height: 582px;
+    }
+    .groupIcon4{
+     display: none;
+    }
+    .leverageSmartContracts1{
+     position: absolute;
+     bottom: 1856px;
+     left: 961px;
+     display: none;
+     font-size: 22px;
+     line-height: 36px;
+     text-transform: capitalize;
+     font-weight: bold;
+     display: none;
+     width: 300px;
+     height: 213px;
+ 
+    }
+    .homepageBlackChild10{
+     position: absolute;
+     bottom: 1175px;
+     left: 931px;
+     border-radius: 11px;
+     background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+     -webkit-backdrop-filter: blur(46px);
+     backdrop-filter: blur(46px);
+     width: 370px;
+     display: none;
+     height: 564px;
+    }
+    .groupIcon1{
+     position: absolute;
+     bottom: 1175px;
+     left: 931px;
+     border-radius: 11px;
+     background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+     -webkit-backdrop-filter: blur(46px);
+     backdrop-filter: blur(46px);
+     width: 370px;
+     display: none;
+     height: 564px;
+    }
+    .decentralizedControl{
+     position: absolute;
+     bottom: 1506px;
+     left: 957px;
+     font-size: 24px;
+     text-transform: uppercase;
+     font-family: 'MonumentExtended-Regular';
+     color: #fff931;
+     display: none;
+     width: 274px;
+    }
+    .enjoyThePower1{
+     position: absolute;
+     bottom: 1282px;
+     left: 957px;
+     font-size: 22px;
+     font-weight: bold;
+     line-height: 36px;
+     text-transform: capitalize;
+     display: none;
+     width: 300px;
+     height: 213px;
+ 
+    }
+    .homepageBlackChild2{
+     position: absolute;
+     top: 1244px;
+     left: 780px;
+     border-radius: 50%;
+     background: linear-gradient(180deg, #ffe500, #fff492);
+     width: 226px;
+     height: 226px;
+     opacity: 0.4;
+ 
+    }
+    .groupInner{
+        position: absolute;
+        top: 0px;
+        left: -103px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, #2b2a26, rgba(43, 42, 38, 0));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 1117px;
+        height: 499px;
+ 
+    }
+    .homepageBlackChild11{
+        position: absolute;
+    bottom: 1773px;
+    left: 625px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 370px;
+    height: 582px;
+
+    }
+    .homepageBlackChild12{
+        position: absolute;
+    bottom: 1175px;
+    left: 625px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 370px;
+    height: 564px;
+    }
+    .effortlessCrossBorderTransa1{
+        position: absolute;
+    bottom: 2077px;
+    left: 652px;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: 'MonumentExtended-Regular';
+    color: #fff931;
+    display: inline-block;
+    width: 320px;
+    }
+    .groupIcon3{
+        position: absolute;
+    bottom: 2203px;
+    left: 649px;
+    width: 80.01px;
+    height: 80px;
+
+    }
+    .sendAndReceive1{
+        position: absolute;
+    bottom: 1856px;
+    left: 659px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 300px;
+    height: 213px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    .benefitFromLower1{
+        position: absolute;
+    bottom: 1282px;
+    left: 672px;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 300px;
+    height: 213px;
+    }
+    .reducedFees{
+        position: absolute;
+    bottom: 1506px;
+    left: 670px;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: 'MonumentExtended-Regular';
+    color: #fff931;
+    display: inline-block;
+    width: 230px;
+    }
+    .groupIcon5{
+        position: absolute;
+    bottom: 1603px;
+    left: 663px;
+    width: 98.25px;
+    height: 80px;
+
+    }
+    .div{
+     position: absolute;
+     top: 2065px;
+     left: 132px;
+     font-size: 58px;
+     text-transform: capitalize;
+     font-weight: 500;
+    }
+    .homepageBlackChild20{
+        position: absolute;
+        top: 1941px;
+        left: 737px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, #2b2a26, rgba(43, 42, 38, 0));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 323px;
+        height: 160px;
+ 
+    }
+    .homepageBlackChild21{
+        position: absolute;
+        top: 2147px;
+        left: 745px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, #2b2a26, rgba(43, 42, 38, 0));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 320px;
+        height: 160px;
+    
+    }
+    .totalTradingVolume3{
+        position: absolute;
+        top: 2179px;
+        left: 795px;
+        font-size: 22px;
+        line-height: 36px;
+        text-transform: capitalize;
+    }
+    .totalTradingVolume2{
+        position: absolute;
+        top: 1978.43px;
+        left: 786px;
+        font-size: 22px;
+        line-height: 36px;
+        text-transform: capitalize;
+    }
+    .tita24{
+        position: absolute;
+    top: 2225px;
+    font-size: 33px;
+    left: 815px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+
+    }
+    .cmax24{
+        position: absolute;
+        top: 2023px;
+        left: 795px;
+        font-size: 33px;
+        text-transform: capitalize;
+        font-weight: 500;
+        color: #0ce770;
+    }
+    .carbonplayFilledIcon2{
+     display: none;
+    }
+    .div1{
+     position: absolute;
+     top: 2135px;
+     left: 151px;
+     font-size: 42px;
+     text-transform: capitalize;
+     font-weight: 500;
+     color: #fff931;
+    }
+    .rsc{
+     position: absolute;
+     top: 2187px;
+     left: 129px;
+     font-size: 58px;
+     text-transform: capitalize;
+     font-weight: 500;
+    }
+    .treasury{
+     position: absolute;
+     top: 1983px;
+     left: 131px;
+     text-transform: capitalize;
+     font-weight: 500;
+    }
+    .maskGroupIcon6{
+     position: absolute;
+     top: 1939px;
+     left: 73px;
+     width: 613px;
+     height: 370px;
+     -o-object-fit: cover;
+     object-fit: cover;
+    }
+    .diveIntoA1{
+     position: absolute;
+     bottom: 120px;
+     left: calc(50% - 556.5px);
+     font-size: 24px;
+     padding: 0 55px;
+     line-height: 36px;
+     color: #fff;
+     font-weight: bold;
+     display: inline-block;
+     width: 1113px;
+    }
+    .smartContractCapabilities1{
+     position: absolute;
+     bottom: 2077px;
+     left: 961px;
+     font-size: 24px;
+     text-transform: uppercase;
+     font-family: 'MonumentExtended-Regular';
+     color: #fff931;
+     display: none;
+     width: 270px;
+    }
+    .homepageBlackChild9{
+     position: absolute;
+     bottom: 1773px;
+     left: 931px;
+     display: none;
+     border-radius: 11px;
+     background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+     -webkit-backdrop-filter: blur(46px);
+     backdrop-filter: blur(46px);
+     width: 370px;
+     height: 582px;
+    }
+    .elevateYourFinancial1{
+     position: absolute;
+     padding: 0 70px;
+     bottom: 2430px;
+     left: calc(50% - 557px);
+     font-size: 24px;
+     font-weight: bold;
+     line-height: 36px;
+     text-align: center;
+     display: inline-block;
+     width: 1113px;
+    }
+    .immerseYourselfIn1{
+     position: absolute;
+     top: 1747px;
+     left: calc(50% - 557px);
+     font-size: 24px;
+     line-height: 36px;
+     padding: 0 73px;
+     font-weight: bold;
+     text-align: center;
+     display: inline-block;
+     width: 1127px;
+    }
+ }
+ 
+ 
+
+
+
+
+ .unitedKingdomIcon1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.flag {
+    position: relative;
+    width: 18px;
+    height: 18px;
+}
+.en {
+    position: relative;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.eparrowDownBoldIcon1 {
+    position: relative;
+    width: 19px;
+    height: 19px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.flagParent {
+    position: relative;
+    border-radius: 10px;
+    background-color: #242222;
+    backdrop-filter: blur(12px);
+    border: 1px solid #ffe500;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 15px 11px 15px 12px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+    font-family: 'Neue Montreal';
+}
+
+
+

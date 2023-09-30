@@ -1,0 +1,1708 @@
+.tradeSubpageIpadPro129Child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: radial-gradient(50% 50% at 50% 50%, rgba(202, 88, 255, 0.4), rgba(255, 255, 255, 0));
+    box-shadow: -5px -5px 250px rgba(255, 255, 255, 0.02) inset;
+    backdrop-filter: blur(42px);
+    width: 430px;
+    height: 90px;
+    opacity: 0.4;
+}
+.maskGroupIcon {
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    width: 72.24px;
+    height: 69.85px;
+    object-fit: cover;
+}
+.groupChild {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 430px;
+    height: 578px;
+}
+.maskGroupIcon1 {
+    position: absolute;
+    bottom: 392px;
+    left: 158px;
+    width: 113.76px;
+    height: 110px;
+    object-fit: cover;
+}
+.mediaInquiresFor1 {
+    position: absolute;
+    bottom: 75px;
+    left: 0px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 321px;
+    opacity: 0.5;
+}
+.copyRight20231 {
+  
+    bottom: 0px;
+    left: 23px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 274px;
+    opacity: 0.5;
+}
+.mediaInquiresForCmaxContParent {
+    position: absolute;
+    bottom: 101px;
+    left: 54px;
+    width: 321px;
+    height: 123px;
+}
+.trade {
+    position: relative;
+    text-transform: capitalize;
+}
+.tradeParent {
+    position: absolute;
+    bottom: 293px;
+    left: 27px;
+    width: 375px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 38px;
+    text-align: left;
+}
+.rectangleParent {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+}
+.rimenuFillIcon1 {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.aboutParent {
+    position: initial;
+    top: 30px;
+    left: auto;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 17px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.swapMintburnChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 370px;
+    height: 692px;
+}
+.frameChild {
+    position: relative;
+    width: 21.5px;
+    height: 21.5px;
+}
+.commitMint {
+    position: relative;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.groupParent {
+    position: absolute;
+    top: 592px;
+    left: calc(50% - 158px);
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    backdrop-filter: blur(12px);
+    width: 316px;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 90px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    color: #1f1330;
+}
+.swapMintburnItem {
+    position: absolute;
+    top: 23.51px;
+    left: 25px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 320px;
+    height: 60px;
+}
+.swapMintburnInner {
+    position: absolute;
+    top: 103.95px;
+    left: 25px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 320px;
+    height: 382.61px;
+}
+.rectangleDiv {
+    position: absolute;
+    top: 103.95px;
+    left: 26px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(20, 19, 25, 0), #44484b 96.22%);
+    width: 318px;
+    height: 248px;
+}
+.max {
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.antDesignswapOutlined {
+    position: absolute;
+    top: 338.95px;
+    left: 48px;
+    border-radius: 8px;
+    background-color: #3f4145;
+    height: 26px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    padding: 6px 16px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: #ffe500;
+}
+.mint {
+    position: absolute;
+    top: 125.94px;
+    left: 100.11px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+}
+.burn {
+    position: absolute;
+    top: 125.94px;
+    left: 238.16px;
+    text-transform: capitalize;
+    font-weight: 500;
+    opacity: 0.7;
+}
+.swapMintburnChild1 {
+    position: absolute;
+    top: 33.51px;
+    left: 183.49px;
+    border-radius: 7px;
+    background-color: #ffe500;
+    width: 150px;
+    height: 40px;
+}
+.swap {
+    position: absolute;
+    top: 40.51px;
+    left: 87.11px;
+    font-size: 20px;
+    text-transform: capitalize;
+    opacity: 0.79;
+}
+.mintburn {
+    position: absolute;
+    top: 41.51px;
+    left: 214.99px;
+    font-size: 20px;
+    text-transform: capitalize;
+    color: #000;
+}
+.youPay {
+    position: absolute;
+    top: 194.95px;
+    left: 47px;
+    font-size: 14px;
+    text-transform: capitalize;
+}
+.totalCost {
+    position: absolute;
+    top: 384.95px;
+    left: 47px;
+    font-size: 10px;
+    text-transform: capitalize;
+    color: #676767;
+}
+.div {
+    position: absolute;
+    top: 384.95px;
+    left: 289px;
+    font-size: 11px;
+    text-transform: capitalize;
+    text-align: right;
+}
+.expectedTokensMinted1 {
+    position: absolute;
+    top: 415.95px;
+    left: 47px;
+    font-size: 10px;
+    text-transform: capitalize;
+    color: #676767;
+}
+.div1 {
+    position: absolute;
+    top: 415.95px;
+    left: 290px;
+    font-size: 11px;
+    text-transform: capitalize;
+    text-align: right;
+}
+.expectedEquivalentExpousure1 {
+    position: absolute;
+    top: 446.95px;
+    left: 47px;
+    font-size: 10px;
+    text-transform: capitalize;
+    color: #676767;
+}
+.div2 {
+    position: absolute;
+    top: 446.95px;
+    left: 295px;
+    font-size: 11px;
+    text-transform: capitalize;
+    text-align: right;
+}
+.frameDiv {
+    position: absolute;
+    top: 119.72px;
+    left: 26.47px;
+}
+.balance323400 {
+    position: absolute;
+    top: 194.95px;
+    left: 204px;
+    font-size: 14px;
+    text-transform: capitalize;
+    text-align: right;
+}
+.expectedPrice124681 {
+    position: absolute;
+    top: 293.95px;
+    left: 48px;
+    font-size: 14px;
+    text-transform: capitalize;
+    color: #676767;
+    text-align: right;
+}
+.swapMintburnChild2 {
+    position: absolute;
+    top: 159.06px;
+    left: 57.77px;
+    width: 115.68px;
+    height: 1px;
+}
+.swapMintburnChild3 {
+    position: absolute;
+    top: 159.06px;
+    left: 197.32px;
+    width: 115.68px;
+    height: 1px;
+}
+.span {
+    text-transform: capitalize;
+}
+.div3 {
+    position: absolute;
+    top: 246px;
+    left: 48px;
+    font-size: 32px;
+    font-weight: 500;
+}
+.frameItem {
+    position: relative;
+    border-radius: 50%;
+    width: 31.74px;
+    height: 30px;
+    object-fit: cover;
+}
+.ellipseParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 7px;
+}
+.riarrowUpSLineIcon1 {
+    position: relative;
+    width: 19px;
+    height: 19px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.frameParent {
+    position: absolute;
+    top: 240.03px;
+    left: 201px;
+    border-radius: 40px;
+    background-color: #3f4145;
+    width: 120px;
+    display: flex;
+    flex-direction: row;
+    padding: 6px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.swapMintburn {
+    position: absolute;
+    top: 629px;
+    left: 30px;
+    width: 370px;
+    height: 692px;
+    overflow: hidden;
+    font-size: 16px;
+}
+.groupItem {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 370px;
+    height: 319px;
+}
+.frameInner {
+    align-self: stretch;
+    position: relative;
+    border-top: 1px solid #3e3e3e;
+    box-sizing: border-box;
+    height: 1px;
+    display: none;
+}
+.frameChild2 {
+    align-self: stretch;
+    position: relative;
+    border-top: 1px solid #3e3e3e;
+    box-sizing: border-box;
+    height: 1px;
+}
+.lineParent {
+    position: absolute;
+    top: 0px;
+    left: 13.59px;
+    width: 315.26px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+}
+.frameIcon {
+    position: absolute;
+    top: 13.09px;
+    left: 0px;
+    width: 328px;
+    height: 198.96px;
+    overflow: hidden;
+}
+.g {
+    position: relative;
+}
+.gWrapper {
+    border-radius: 6px;
+    background-color: #3e4057;
+    display: flex;
+    flex-direction: row;
+    padding: 2px 5px;
+    align-items: center;
+    justify-content: center;
+}
+.maxWrapper {
+    border-radius: 6px;
+    background-color: #ffe500;
+    display: flex;
+    flex-direction: row;
+    padding: 2px 5px;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+}
+.frameParent1 {
+    position: absolute;
+    top: 234px;
+    left: 19.25px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+}
+.frameGroup {
+    position: absolute;
+    top: 34px;
+    left: 8.77px;
+    width: 334.25px;
+    height: 250px;
+}
+.rectangleGroup {
+    position: absolute;
+    top: 268px;
+    left: 30px;
+    width: 370px;
+    height: 319px;
+    cursor: pointer;
+    font-size: 10px;
+}
+.titaEtf {
+    position: absolute;
+    top: 140px;
+    left: 28px;
+    font-family: 'Monument Extended';
+}
+.wrapper {
+    border-radius: 7px;
+    background-color: #3e4057;
+    height: 31px;
+    display: flex;
+    flex-direction: row;
+    padding: 6px;
+    box-sizing: border-box;
+    align-items: baseline;
+    justify-content: flex-end;
+}
+.vectorIcon1 {
+    position: relative;
+    width: 19.43px;
+    height: 12px;
+}
+.vectorParent {
+    border-radius: 7px;
+    background-color: #3e4057;
+    height: 31px;
+    display: flex;
+    flex-direction: row;
+    padding: 6px;
+    box-sizing: border-box;
+    align-items: baseline;
+    justify-content: flex-end;
+    gap: 10px;
+}
+.frameParent3 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+}
+.ter033 {
+    position: relative;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+}
+.frameParent2 {
+    position: absolute;
+    top: 170px;
+    left: 28px;
+    display: flex;
+    font-size: 16px;
+    height: fit-content !important;
+    padding-top: 2%;
+    display: flex;
+    flex-direction: column;
+
+}
+.tradeSubpageIpadPro129 {
+    position: relative;
+    background: linear-gradient(180deg, #201d26, #1d1b20);
+    width: 100%;
+    height: 1977px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 20px;
+    color: #fff;
+    font-family: 'Neue Montreal';
+}
+
+@media (min-width: 300px) and (max-width: 360px) {
+    .groupItem{
+        position: absolute;
+    top: 0px;
+    left: -12px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 329px;
+    height: 319px;
+    }
+    .swapMintburn{
+        position: absolute;
+    top: 629px;
+    left: -1px;
+    width: 370px;
+    height: 692px;
+    overflow: hidden;
+    font-size: 16px;
+    }
+    .lineParent{
+        position: absolute;
+    top: 0px;
+    left: -15.41px;
+    width: 315.26px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    }
+    .frameParent1{
+        position: absolute;
+    top: 234px;
+    left: -16.75px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+    }
+    .rectangleParent{
+        position: absolute;
+    bottom: 0px;
+    left: -33px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    }
+    .ter033{
+        position: relative;
+    font-size: 22px;
+    right: 30px;
+    line-height: 36px;
+    text-transform: capitalize;
+    }
+    .aboutParent{
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+}
+
+
+@media (min-width: 361px) and (max-width: 375px) {
+    .groupItem{
+        position: absolute;
+        top: 0px;
+        left: -12px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 337px;
+        height: 319px;
+    
+    }
+    .swapMintburn{
+        position: absolute;
+    top: 629px;
+    left: 2px;
+    width: 370px;
+    height: 692px;
+    overflow: hidden;
+    font-size: 16px;
+    }
+    .lineParent{
+        position: absolute;
+    top: 0px;
+    left: -15.41px;
+    width: 315.26px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    }
+    .frameParent1{
+        position: absolute;
+        top: 234px;
+        left: -12.75px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 12px;
+    }
+    .rectangleParent{
+        position: absolute;
+        bottom: 0px;
+        left: -26px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+    .ter033{
+        position: relative;
+    font-size: 22px;
+    right: 30px;
+    line-height: 36px;
+    text-transform: capitalize;
+    }
+    .aboutParent{
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+}
+
+
+@media (min-width: 376px) and (max-width: 390px) {
+    .groupItem{
+        position: absolute;
+        top: 0px;
+        left: -12px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 351px;
+        height: 319px;
+    
+    }
+    .swapMintburn{
+        position: absolute;
+    top: 629px;
+    left: 9px;
+    width: 370px;
+    height: 692px;
+    overflow: hidden;
+    font-size: 16px;
+    }
+    .lineParent{
+        position: absolute;
+        top: 0px;
+        left: -3.41px;
+        width: 315.26px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;  
+    
+    }
+    .frameParent1{
+        position: absolute;
+    top: 234px;
+    left: -7.75px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+
+    }
+    .rectangleParent{
+        position: absolute;
+        bottom: 0px;
+        left: -15px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+    .ter033{
+        position: relative;
+    font-size: 22px;
+    right: 30px;
+    line-height: 36px;
+    text-transform: capitalize;
+    }
+    .aboutParent{
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 391px) and (max-width: 393px) {
+    .groupItem{
+        position: absolute;
+        top: 0px;
+        left: -12px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 351px;
+        height: 319px;
+    
+    }
+    .swapMintburn{
+        position: absolute;
+    top: 629px;
+    left: 10px;
+    width: 370px;
+    height: 692px;
+    overflow: hidden;
+    font-size: 16px;
+    }
+    .lineParent{
+        position: absolute;
+        top: 0px;
+        left: -7.41px;
+        width: 315.26px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+    }
+    .frameParent1{
+        position: absolute;
+    top: 234px;
+    left: -7.75px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+
+    }
+    .rectangleParent{
+        position: absolute;
+        bottom: 0px;
+        left: -15px;
+        width: 430px;
+        height: 578px;
+        text-align: center;
+    }
+    .ter033{
+        position: relative;
+    font-size: 22px;
+    right: 30px;
+    line-height: 36px;
+    text-transform: capitalize;
+    }
+    .aboutParent{
+        position: initial;
+    top: 30px;
+    left: auto;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 17px;
+    cursor: pointer;
+    font-size: 20px;
+    }
+}
+
+
+@media (min-width: 394px) and (max-width: 412px) {
+    .groupItem{
+        position: absolute;
+        top: 0px;
+        left: -12px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 372px;
+        height: 319px;
+    
+    }
+    .swapMintburn{
+        position: absolute;
+    top: 629px;
+    left: 19px;
+    width: 370px;
+    height: 692px;
+    overflow: hidden;
+    font-size: 16px;
+    }
+    .lineParent{
+        position: absolute;
+    top: 0px;
+    left: -7.41px;
+    width: 337.26px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+
+    }
+    .frameParent1{
+        position: absolute;
+    top: 234px;
+    left: -7.75px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+
+    }
+    .rectangleParent{
+        position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    }
+    .ter033{
+        position: relative;
+    font-size: 22px;
+    right: 30px;
+    line-height: 36px;
+    text-transform: capitalize;
+    }
+    .aboutParent{
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 413px) and (max-width: 414px) {
+    .groupItem{
+        position: absolute;
+        top: 0px;
+        left: -12px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 372px;
+        height: 319px;
+    
+    }
+    .swapMintburn{
+        position: absolute;
+    top: 629px;
+    left: 19px;
+    width: 370px;
+    height: 692px;
+    overflow: hidden;
+    font-size: 16px;
+    }
+    .lineParent{
+        position: absolute;
+    top: 0px;
+    left: -7.41px;
+    width: 337.26px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+
+    }
+    .frameParent1{
+        position: absolute;
+    top: 234px;
+    left: -7.75px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+
+    }
+    .rectangleParent{
+        position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    }
+    .ter033{
+        position: relative;
+    font-size: 22px;
+    right: 30px;
+    line-height: 36px;
+    text-transform: capitalize;
+    }
+    .aboutParent{
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+}
+
+
+@media (min-width: 415px) and (max-width: 450px) {
+    .groupItem{
+        position: absolute;
+        top: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 372px;
+        height: 319px;
+    
+    }
+    .rectangleGroup{
+        position: sticky;
+    top: 268px;
+    left: 0;
+    display: flex;
+    align-items: center;
+    height: 319px;
+    cursor: pointer;
+    font-size: 10px;
+    justify-content: center;
+    margin: auto;
+
+    }
+    .swapMintburn{
+        position: absolute;
+    top: 629px;
+    display: flex;
+    align-items: center;
+    height: 692px;
+    overflow: hidden;
+    font-size: 16px;
+    justify-content: center;
+    margin: auto;
+    }
+    .groupChild{
+        position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 526px;
+    height: 578px;
+    }
+    .lineParent{
+        position: absolute;
+        top: 0px;
+        width: 337.26px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+
+    }
+    .frameParent1{
+        position: absolute;
+        top: 234px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 4px;
+    
+
+    }
+    .rectangleParent{
+        position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    }
+    .ter033{
+        position: relative;
+    font-size: 22px;
+    right: 30px;
+    line-height: 36px;
+    text-transform: capitalize;
+    }
+    .aboutParent{
+        position: initial;
+    top: 30px;
+    left: auto;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 17px;
+    cursor: pointer;
+    font-size: 20px;
+    }
+}
+
+
+@media (min-width: 451px) and (max-width: 480px) {
+    .groupItem{
+        position: absolute;
+        top: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 372px;
+        height: 319px;
+    
+    }
+    .rectangleGroup{
+        position: sticky;
+    top: 268px;
+    left: 0;
+    display: flex;
+    align-items: center;
+    height: 319px;
+    cursor: pointer;
+    font-size: 10px;
+    justify-content: center;
+    margin: auto;
+
+    }
+    .swapMintburn{
+        position: absolute;
+        top: 629px;
+        display: flex;
+        align-items: center;
+        height: 692px;
+        overflow: hidden;
+        font-size: 16px;
+        justify-content: center;
+        margin: 0 0 0 20px;
+    }
+    .groupChild{
+        position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 526px;
+    height: 578px;
+    }
+    .lineParent{
+        position: absolute;
+        top: 0px;
+        width: 337.26px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+
+    }
+    .frameParent1{
+        position: absolute;
+        top: 234px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 9px;
+    
+
+    }
+    .rectangleParent{
+        position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    }
+    .ter033{
+        position: relative;
+    font-size: 22px;
+    right: 30px;
+    line-height: 36px;
+    text-transform: capitalize;
+    }
+    .aboutParent{
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 500px) {
+    .groupItem{
+        position: absolute;
+        top: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 372px;
+        height: 319px;
+    
+    }
+    .tradeParent{
+        position: absolute;
+    bottom: 293px;
+    left: 58px;
+    width: 375px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 38px;
+    text-align: left;
+    }
+    .maskGroupIcon1{
+        position: absolute;
+    bottom: 392px;
+    left: 191px;
+    width: 113.76px;
+    height: 110px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .copyRight20231{
+        position: absolute;
+    bottom: 0px;
+    left: 53px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 274px;
+    opacity: 0.5;
+    }
+    .rectangleGroup{
+        position: sticky;
+    top: 268px;
+    left: 0;
+    display: flex;
+    align-items: center;
+    height: 319px;
+    cursor: pointer;
+    font-size: 10px;
+    justify-content: center;
+    margin: auto;
+
+    }
+    .swapMintburn{
+        position: absolute;
+        top: 629px;
+        display: flex;
+        align-items: center;
+        height: 692px;
+        overflow: hidden;
+        font-size: 16px;
+        justify-content: center;
+        margin: 0 0 0 26px;
+    
+    }
+    .groupChild{
+        position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 526px;
+    height: 578px;
+    }
+    .lineParent{
+        position: absolute;
+        top: 0px;
+        width: 337.26px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+
+    }
+    .frameParent1{
+        position: absolute;
+        top: 234px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 10px;
+    
+
+    }
+    .rectangleParent{
+        position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    }
+    .ter033{
+        position: relative;
+    font-size: 22px;
+    right: 30px;
+    line-height: 36px;
+    text-transform: capitalize;
+    }
+    .aboutParent{
+        position: initial;
+    top: 30px;
+    left: auto;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 17px;
+    cursor: pointer;
+    font-size: 20px;
+    }
+}
+
+@media (min-width: 501px) and (max-width: 530px) {
+    .groupItem{
+        position: absolute;
+        top: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 372px;
+        height: 319px;
+    
+    }
+    .tradeParent{
+        position: absolute;
+        bottom: 293px;
+        left: 78px;
+        width: 375px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 38px;
+        text-align: left;
+    }
+    .maskGroupIcon1{
+        position: absolute;
+    bottom: 392px;
+    left: 208px;
+    width: 113.76px;
+    height: 110px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .copyRight20231{
+        position: absolute;
+        bottom: 0px;
+        left: 71px;
+        text-transform: capitalize;
+        display: inline-block;
+        width: 274px;
+        opacity: 0.5;
+    
+    }
+    .rectangleGroup{
+        position: sticky;
+    top: 268px;
+    left: 0;
+    display: flex;
+    align-items: center;
+    height: 319px;
+    cursor: pointer;
+    font-size: 10px;
+    justify-content: center;
+    margin: auto;
+
+    }
+    .swapMintburn{
+        position: absolute;
+        top: 629px;
+        display: flex;
+        align-items: center;
+        height: 692px;
+        overflow: hidden;
+        font-size: 16px;
+        justify-content: center;
+        margin: 0 0 0 43px;
+    
+    }
+    .groupChild{
+        position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 526px;
+    height: 578px;
+    }
+    .lineParent{
+        position: absolute;
+        top: 0px;
+        width: 337.26px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+
+    }
+    .frameParent1{
+        position: absolute;
+        top: 234px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 12px;
+    
+
+    }
+    .rectangleParent{
+        position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    }
+    .ter033{
+        position: relative;
+    font-size: 22px;
+    right: 30px;
+    line-height: 36px;
+    text-transform: capitalize;
+    }
+    .aboutParent{
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+}
+
+
+@media (min-width: 531px) and (max-width: 560px) {
+    .groupItem{
+        position: absolute;
+        top: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 372px;
+        height: 319px;
+    
+    }
+    .tradeParent{
+        position: absolute;
+        bottom: 293px;
+        left: 93px;
+        width: 375px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 38px;
+        text-align: left;
+    }
+    .maskGroupIcon1{
+        position: absolute;
+        bottom: 392px;
+        left: 228px;
+        width: 113.76px;
+        height: 110px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+    .copyRight20231{
+        position: absolute;
+        bottom: 0px;
+        left: 84px;
+        text-transform: capitalize;
+        display: inline-block;
+        width: 274px;
+        opacity: 0.5;
+    
+    }
+    .rectangleGroup{
+        position: sticky;
+    top: 268px;
+    left: 0;
+    display: flex;
+    align-items: center;
+    height: 319px;
+    cursor: pointer;
+    font-size: 10px;
+    justify-content: center;
+    margin: auto;
+
+    }
+    .swapMintburn{
+        position: absolute;
+        top: 629px;
+        display: flex;
+        align-items: center;
+        height: 692px;
+        overflow: hidden;
+        font-size: 16px;
+        justify-content: center;
+        margin: 0 0 0 67px;
+    
+    }
+    .groupChild{
+        position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 706px;
+    height: 578px;
+    }
+    .lineParent{
+        position: absolute;
+        top: 0px;
+        width: 337.26px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+
+    }
+    .frameParent1{
+        position: absolute;
+        top: 234px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 12px;
+    
+
+    }
+    .rectangleParent{
+        position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    }
+    .ter033{
+        position: relative;
+    font-size: 22px;
+    right: 30px;
+    line-height: 36px;
+    text-transform: capitalize;
+    }
+    .aboutParent{
+        position: initial;
+        top: 30px;
+        left: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+}
+
+
+@media (min-width: 561px) and (max-width: 600px) {
+    .groupItem{
+        position: absolute;
+        top: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 372px;
+        height: 319px;
+    
+    }
+    .tradeParent{
+        position: absolute;
+        bottom: 293px;
+        left: 109px;
+        width: 375px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 38px;
+        text-align: left;
+    }
+    .maskGroupIcon1{
+        position: absolute;
+    bottom: 392px;
+    left: 244px;
+    width: 113.76px;
+    height: 110px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .copyRight20231{
+        position: absolute;
+    bottom: 0px;
+    left: 101px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 274px;
+    opacity: 0.5;
+    
+    }
+    .rectangleGroup{
+        position: sticky;
+    top: 268px;
+    left: 0;
+    display: flex;
+    align-items: center;
+    height: 319px;
+    cursor: pointer;
+    font-size: 10px;
+    justify-content: center;
+    margin: auto;
+
+    }
+    .swapMintburn{
+        position: absolute;
+    top: 629px;
+    display: flex;
+    align-items: center;
+    height: 692px;
+    overflow: hidden;
+    font-size: 16px;
+    justify-content: center;
+    margin: 0 0 0 84px;
+
+    
+    }
+    .groupChild{
+        position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 706px;
+    height: 578px;
+    }
+    .lineParent{
+        position: absolute;
+        top: 0px;
+        width: 337.26px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+
+    }
+    .frameParent1{
+        position: absolute;
+        top: 234px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 10px;
+    
+
+    }
+    .rectangleParent{
+        position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    }
+    .ter033{
+        position: relative;
+    font-size: 22px;
+    right: 30px;
+    line-height: 36px;
+    text-transform: capitalize;
+    }
+    .aboutParent{
+        position: initial;
+    top: 30px;
+    left: auto;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 17px;
+    cursor: pointer;
+    font-size: 20px;
+    }
+}

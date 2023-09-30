@@ -1,0 +1,983 @@
+.profileIpadPro1294Child {
+    position: absolute;
+    top: -235.84px;
+    left: 526.65px;
+    border-radius: 50%;
+    background-color: #000;
+    filter: blur(304px);
+    width: 855.45px;
+    height: 855.45px;
+    transform:  rotate(15deg);
+    transform-origin: 0 0;
+    opacity: 0.35;
+}
+
+.mingcutewallet4FillLang{
+    position: absolute;
+    top: 55px;
+    right: 2%;
+    background-color: red;
+}
+
+.circleBgIcon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 412px;
+    height: 461px;
+    object-fit: cover;
+    opacity: 0.8;
+}
+.maskGroupIcon {
+    position: absolute;
+    top: 26px;
+    left: 2%;
+    width: 90.24px;
+    height: 87.25px;
+    object-fit: cover;
+}
+.home {
+    position: relative;
+    text-transform: capitalize;
+}
+.trade {
+    position: relative;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+.homeParent {
+    position: absolute;
+    top: 60px;
+    left: 215px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+}
+.profileIpadPro1294Item {
+    position: absolute;
+    top: 52px;
+    left: 701px;
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    object-fit: cover;
+}
+.mingcutewallet4FillIcon1 {
+    position: relative;
+    width: 23px;
+    height: 23px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.connectWallet {
+    position: relative;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.mingcutewallet4FillParent {
+    position: absolute;
+    top: 49px;
+    left: 763.5px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    backdrop-filter: blur(12px);
+    display: flex;
+    flex-direction: row;
+    padding: 9px 16px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 14px;
+    color: #1f1330;
+}
+.unionIcon2 {
+    position: relative;
+    width: 20.31px;
+    height: 20.31px;
+    object-fit: cover;
+}
+.unionIcon3 {
+    position: relative;
+    width: 13.54px;
+    height: 13.54px;
+    object-fit: cover;
+}
+.groupChild {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 1024px;
+    height: 328px;
+}
+.maskGroupIcon1 {
+    position: absolute;
+    bottom: 139px;
+    left: 303px;
+    width: 113.76px;
+    height: 110px;
+    object-fit: cover;
+}
+.mediaInquiresFor1 {
+    position: relative;
+    text-transform: capitalize;
+    opacity: 0.5;
+}
+.mediaInquiresForCmaxContParent {
+    position: absolute;
+    bottom: 0px;
+    left: 127.5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+.tradeParent {
+    position: absolute;
+    bottom: 88px;
+    left: 141px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: center;
+}
+.maskGroupParent {
+    position: absolute;
+    bottom: 51px;
+    left: 152px;
+    width: 720px;
+    height: 249px;
+}
+.rectangleParent {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 1024px;
+    height: 328px;
+    text-align: center;
+    font-size: 20px;
+}
+.profileIpadPro1294Inner {
+    position: absolute;
+    top: 200.4px;
+    left: 79.46px;
+    border-radius: 50%;
+    width: 230px;
+    height: 230px;
+    object-fit: cover;
+}
+.sebastianMathew {
+    position: absolute;
+    top: 269.4px;
+    left: 338px;
+    font-size: 47px;
+    letter-spacing: -0.03em;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.networth {
+    position: absolute;
+    top: 411.4px;
+    left: 338px;
+    font-size: 32px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+}
+.div {
+    position: absolute;
+    top: 463.4px;
+    left: 338px;
+    font-size: 48px;
+    line-height: 44px;
+    text-transform: capitalize;
+}
+.hi {
+    position: absolute;
+    top: 197.4px;
+    left: 338px;
+    font-size: 42px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+}
+.mdilocationIcon1 {
+    position: relative;
+    width: 29px;
+    height: 29px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.nwBobcatLane {
+    position: relative;
+    line-height: 36px;
+}
+.mdilocationParent {
+    position: absolute;
+    top: 341.4px;
+    left: 338px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 7px;
+    font-size: 24px;
+}
+.rectangleDiv {
+    position: absolute;
+    top: 688.38px;
+    left: 79px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 858px;
+    height: 721.62px;
+}
+.gWrapper {
+    border-radius: 6px;
+    background-color: #3e4057;
+    display: flex;
+    flex-direction: row;
+    padding: 2px 10px;
+    align-items: center;
+    justify-content: center;
+}
+.maxWrapper {
+    border-radius: 6px;
+    background-color: #ffe500;
+    display: flex;
+    flex-direction: row;
+    padding: 2px 10px;
+    align-items: center;
+    justify-content: center;
+    color: #363636;
+}
+.frameParent {
+    position: absolute;
+    top: 1347px;
+    left: 193px;
+    width: 663px;
+    height: 21px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.frameChild {
+    position: relative;
+    border-top: 1px solid #3e3e3e;
+    box-sizing: border-box;
+    width: 687.02px;
+    height: 1px;
+}
+.lineParent {
+    position: absolute;
+    height: 115.79%;
+    width: 93.98%;
+    top: -23.03%;
+    right: 1.91%;
+    bottom: 7.24%;
+    left: 4.12%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 48px;
+}
+.groupIcon3 {
+    position: absolute;
+    height: 1.18%;
+    width: 85.78%;
+    top: 98.82%;
+    right: 8.37%;
+    bottom: 0%;
+    left: 5.85%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.groupIcon4 {
+    position: absolute;
+    height: 1.18%;
+    width: 1.76%;
+    top: 98.82%;
+    right: 3.09%;
+    bottom: 0%;
+    left: 95.15%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.groupIcon5 {
+    position: absolute;
+    height: 1.18%;
+    width: 1.76%;
+    top: 98.82%;
+    right: 6.04%;
+    bottom: 0%;
+    left: 92.2%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.groupIcon6 {
+    position: absolute;
+    height: 1.18%;
+    width: 1.76%;
+    top: 98.82%;
+    right: 8.68%;
+    bottom: 0%;
+    left: 89.56%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.frameChild8 {
+    position: absolute;
+    height: 32.47%;
+    width: 89.87%;
+    top: 37.88%;
+    right: 2.79%;
+    bottom: 29.65%;
+    left: 7.34%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.frameChild9 {
+    position: absolute;
+    height: 53.23%;
+    width: 88.71%;
+    top: -0.12%;
+    right: 3.79%;
+    bottom: 46.89%;
+    left: 7.5%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.frame {
+    position: absolute;
+    top: 885px;
+    left: 157px;
+    width: 730px;
+    height: 422px;
+}
+.pl {
+    position: absolute;
+    top: 714px;
+    left: 177px;
+    font-size: 32px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+}
+.vectorIcon1 {
+    position: relative;
+    width: 22px;
+    height: 13.58px;
+    object-fit: cover;
+}
+.vectorParent {
+    position: absolute;
+    top: 714px;
+    left: 251px;
+    border-radius: 7px;
+    background-color: #3e4057;
+    height: 41px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    box-sizing: border-box;
+    align-items: baseline;
+    justify-content: flex-end;
+    gap: 10px;
+    text-align: right;
+    font-size: 20px;
+}
+.holdings {
+    position: absolute;
+    top: 1551px;
+    left: 79px;
+    font-size: 43px;
+    text-transform: capitalize;
+    font-weight: 500;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.profileIpadPro1294Child1 {
+    position: absolute;
+    top: 1636.98px;
+    left: 79px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 873px;
+    height: 449px;
+}
+.unfold11Coin1 {
+    position: absolute;
+    top: 1813.98px;
+    left: 132px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+}
+.polygon31b1e7a0Icon {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.polygon {
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.b {
+    font-family: 'Neue Montreal';
+}
+.span {
+    font-size: 20px;
+    color: #7c7c7c;
+}
+.div2 {
+    position: relative;
+    text-transform: capitalize;
+    font-size: 28px;
+}
+.polygonParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.polygon31b1e7a0Parent {
+    position: absolute;
+    top: 1683.98px;
+    left: 683px;
+    border-radius: 10px;
+    border: 1px solid #474353;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 22px;
+}
+.mantle61752091Icon {
+    position: relative;
+    width: 58.78px;
+    height: 60px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.mantle61752091Parent {
+    position: absolute;
+    top: 1683.98px;
+    left: 409px;
+    border-radius: 10px;
+    border: 1px solid #474353;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 22px;
+}
+.eth47c40f70Parent {
+    position: absolute;
+    top: 1683.98px;
+    left: 132px;
+    border-radius: 10px;
+    border: 1px solid #474353;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 22px;
+}
+.text8 {
+    position: absolute;
+    top: 1619.98px;
+    left: 837px;
+    font-size: 28px;
+    text-transform: capitalize;
+}
+.walletWrapper {
+    width: 96px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.b3 {
+    position: relative;
+    font-size: 28px;
+    text-transform: capitalize;
+}
+.eth47c40f70Group {
+    position: absolute;
+    top: 1900.98px;
+    left: 132px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    border: 1px solid #474353;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 22px;
+}
+.poolTogetherWrapper {
+    width: 96px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.eth47c40f70Container {
+    position: absolute;
+    top: 1900.98px;
+    left: 409px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(46px);
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 22px;
+}
+.profileIpadPro1294 {
+    position: relative;
+    background: linear-gradient(180deg, #201d26, #1d1b20);
+    width: 100%;
+    
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+    font-family: 'Neue Montreal';
+}
+
+@media (min-width: 700px) and (max-width: 767px){
+    .homeParent{
+        position: absolute;
+    top: 60px;
+    left: 167px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 18px;
+
+    }
+    .mingcutewallet4FillParent{
+        position: absolute;
+        top: 49px;
+        left: 499.5px;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+        display: flex;
+        flex-direction: row;
+        padding: 9px 16px;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        font-size: 14px;
+        color: #1f1330;
+    
+    }
+    .maskGroupParent{
+        position: absolute;
+        bottom: 51px;
+        left: 29px;
+        width: 720px;
+        height: 249px;
+    }
+    .polygon31b1e7a0Parent{
+        position: absolute;
+    top: 1683.98px;
+    left: 683px;
+    border-radius: 10px;
+    border: 1px solid #474353;
+    display: none;
+    flex-direction: row;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 22px;
+
+    }
+    .profileIpadPro1294Child1{
+        position: absolute;
+        top: 1636.98px;
+        left: 20px;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 703px;
+        height: 449px;
+    
+    }
+    .frameParent{
+        position: absolute;
+    top: 1347px;
+    left: 76px;
+    width: 602px;
+    height: 21px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    }
+    .lineParent{
+        position: absolute;
+    height: 115.79%;
+    width: 93.98%;
+    top: -23.03%;
+    right: 1.91%;
+    bottom: 7.24%;
+    left: -14.88%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 48px;
+
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 688.38px;
+        left: 12px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 730px;
+        height: 721.62px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 800px){
+    .homeParent{
+        position: absolute;
+        top: 60px;
+        left: 167px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 17px;
+    }
+    .mingcutewallet4FillParent{
+        position: absolute;
+        top: 49px;
+        left: 457.5px;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+        display: flex;
+        flex-direction: row;
+        padding: 9px 0px;
+        align-items: center;
+        justify-content: center;
+        gap: -4px;
+        font-size: 14px;
+        color: #1f1330;
+    
+      }
+    
+      
+    .maskGroupParent{
+        position: absolute;
+        bottom: 51px;
+        left: 29px;
+        width: 720px;
+        height: 249px;
+    }
+    .polygon31b1e7a0Parent{
+        position: absolute;
+    top: 1683.98px;
+    left: 683px;
+    border-radius: 10px;
+    border: 1px solid #474353;
+    display: none;
+    flex-direction: row;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 22px;
+
+    }
+    .profileIpadPro1294Child1{
+        position: absolute;
+    top: 1636.98px;
+    left: 20px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 732px;
+    height: 449px;
+    }
+    .frameParent{
+        position: absolute;
+    top: 1347px;
+    left: 76px;
+    width: 663px;
+    height: 21px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    }
+    .lineParent{
+        position: absolute;
+    height: 115.79%;
+    width: 93.98%;
+    top: -23.03%;
+    right: 1.91%;
+    bottom: 7.24%;
+    left: -14.88%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 48px;
+
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 688.38px;
+        left: 12px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 748px;
+        height: 721.62px;
+    }
+}
+
+@media (min-width: 801px) and (max-width: 900px){
+    .homeParent{
+        position: absolute;
+        top: 60px;
+        left: 15%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-evenly;
+        gap: 14px; 
+    }
+    .mingcutewallet4FillParent{
+        position: absolute;
+        top: 40px;
+        left: 55%;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+        display: flex;
+        flex-direction: row;
+        padding: 9px 16px;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        font-size: 14px;
+        color: #1f1330;
+    
+    }
+    .maskGroupParent{
+        position: absolute;
+    bottom: 51px;
+    left: 50px;
+    width: 720px;
+    height: 249px;
+    }
+    .polygon31b1e7a0Parent{
+        position: absolute;
+    top: 1683.98px;
+    left: 683px;
+    border-radius: 10px;
+    border: 1px solid #474353;
+    display: none;
+    flex-direction: row;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 22px;
+
+    }
+    .profileIpadPro1294Child1{
+        position: absolute;
+    top: 1636.98px;
+    left: 20px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 95%;
+    height: 449px;
+    }
+    .frameParent{
+        position: absolute;
+    top: 1347px;
+    left: 76px;
+    width: 663px;
+    height: 21px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    }
+    .lineParent{
+        position: absolute;
+    height: 115.79%;
+    width: 93.98%;
+    top: -23.03%;
+    right: 1.91%;
+    bottom: 7.24%;
+    left: -14.88%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 48px;
+
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 688.38px;
+        left: 12px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 97%;
+        height: 721.62px;
+    }
+}
+
+@media (min-width: 901px) and (max-width: 954px){
+    .homeParent{
+        position: absolute;
+        top: 60px;
+        left: 167px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px; 
+    }
+    .mingcutewallet4FillParent{
+        position: absolute;
+        top: 49px;
+        left: 566.5px;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+        display: flex;
+        flex-direction: row;
+        padding: 9px 16px;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        font-size: 14px;
+        color: #1f1330;
+    
+    }
+    .maskGroupParent{
+        position: absolute;
+    bottom: 51px;
+    left: 81px;
+    width: 720px;
+    height: 249px;
+    }
+    .polygon31b1e7a0Parent{
+        position: absolute;
+    top: 1683.98px;
+    left: 683px;
+    border-radius: 10px;
+    border: 1px solid #474353;
+    display: none;
+    flex-direction: row;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 22px;
+
+    }
+    .profileIpadPro1294Child1{
+        position: absolute;
+    top: 1636.98px;
+    left: 20px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 732px;
+    height: 449px;
+    }
+    .frameParent{
+        position: absolute;
+    top: 1347px;
+    left: 76px;
+    width: 663px;
+    height: 21px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    }
+    .lineParent{
+        position: absolute;
+    height: 115.79%;
+    width: 93.98%;
+    top: -23.03%;
+    right: 1.91%;
+    bottom: 7.24%;
+    left: -14.88%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 48px;
+
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 688.38px;
+        left: 12px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 748px;
+        height: 721.62px;
+    }
+}

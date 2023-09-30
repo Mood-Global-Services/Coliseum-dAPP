@@ -1,0 +1,1734 @@
+.homepageTradeChild {
+    position: absolute;
+    bottom: 95px;
+    left: 303px;
+    width: 834px;
+    height: 834px;
+}
+
+.homepageTradeItem {
+    position: absolute;
+    top: -346px;
+    left: 832.28px;
+    border-radius: 50%;
+    background-color: #000;
+    filter: blur(304px);
+    width: 1024.95px;
+    height: 1024.95px;
+    transform:  rotate(15deg);
+    transform-origin: 0 0;
+    opacity: 0.35;
+}
+.homepageTradeInner {
+    position: absolute;
+    top: 0px;
+    left:calc(33% - 720px);
+    width: 741px;
+    height: 741px;
+    opacity: 0.6;
+}
+.rwfa {
+    position: absolute;
+    top: 52px;
+    left: calc(50% - 585px);
+    font-size: 30px;
+    font-family: 'MonumentExtended-Regular';
+    color: #bbfa09;
+    display: none;
+}
+.homepageTradeChild1 {
+    position: absolute;
+    top: 87px;
+    left: calc(50% - 309px);
+    width: 18px;
+    height: 10px;
+}
+.maskGroupIcon {
+    position: absolute;
+    top: 15px;
+    left: 121px;
+    width: 113.76px;
+    height: 110px;
+    object-fit: cover;
+}
+.rectangleIcon {
+    position: absolute;
+    bottom: 1043px;
+    background-size: cover;
+    width: 100%;
+    height: 568px;
+}
+.rectangleDiv {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 100%;
+    height: 328px;
+}
+.maskGroupIcon1 {
+    position: absolute;
+    bottom: 139px;
+    left: 303px;
+    width: 113.76px;
+    height: 110px;
+    object-fit: cover;
+}
+.mediaInquiresFor1 {
+    position: relative;
+    opacity: 0.5;
+}
+.mediaInquiresForCmaxContParent {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 226px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+.trade {
+    position: relative;
+}
+.tradeParent {
+    position: absolute;
+    bottom: 88px;
+    left: calc(50% - 360px);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+}
+.maskGroupParent {
+    position: absolute;
+    bottom: 51px;
+    left: 360px;
+    width: 720px;
+    height: 249px;
+    text-align: center;
+    font-size: 20px;
+}
+.ourPartners {
+    position: absolute;
+    bottom: 1439px;
+    left: calc(50% - 459px);
+    font-size: 43px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #fff931;
+    text-align: center;
+    display: inline-block;
+    width: 917px;
+}
+.fuelingInnovationThrough1 {
+    position: absolute;
+    bottom: 1337px;
+    left: calc(50% - 557px);
+    line-height: 36px;
+    text-align: center;
+    display: inline-block;
+    width: 1113px;
+}
+.clipPathGroup5 {
+    position: relative;
+    width: 100.8px;
+    height: 56px;
+}
+.maskGroupIcon2 {
+    position: relative;
+    width: 146px;
+    height: 25.96px;
+    object-fit: cover;
+}
+.clipPathGroup6 {
+    position: relative;
+    width: 115.9px;
+    height: 38px;
+}
+.maskGroupIcon3 {
+    position: relative;
+    width: 150.62px;
+    height: 41.82px;
+    object-fit: cover;
+}
+.partnersLogosChild {
+    position: relative;
+    width: 141.83px;
+    height: 53.07px;
+}
+.clipPathGroup7 {
+    position: relative;
+    width: 123.33px;
+    height: 40px;
+}
+.frameIcon {
+    position: relative;
+    width: 118px;
+    height: 50px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.frameIcon1 {
+    position: relative;
+    width: 148px;
+    height: 22px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.partnersLogos {
+    position: absolute;
+    bottom: 1196px;
+    left: calc(50% - 720px);
+    width: 1440px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 130px;
+}
+.joinOurCommunity1 {
+    position: absolute;
+    bottom: 120px;
+    left: calc(50% - 458.5px);
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    width: 917px;
+}
+.diveIntoA1 {
+    position: absolute;
+    bottom: 17px;
+    left: calc(50% - 556.5px);
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 36px;
+    color: #fff;
+    display: inline-block;
+    width: 1113px;
+
+}
+.groupChild {
+    position: absolute;
+    top: 221px;
+    left: 411px;
+    width: 292.33px;
+    height: 50px;
+}
+.joinOurCommunityParent {
+    position: absolute;
+    bottom: 541px;
+    left: calc(50% - 557px);
+    width: 1113px;
+    height: 271px;
+    text-align: center;
+    font-size: 43px;
+    color: #fff931;
+}
+.home {
+    position: relative;
+    cursor: pointer;
+}
+.trade1 {
+    position: relative;
+    color: #ffe500;
+}
+.homeParent {
+    position: absolute;
+    top: 58px;
+    left: calc(50% - 415px);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    font-size: 20px;
+}
+.homepageTradeChild2 {
+    position: absolute;
+    top: 48px;
+    left: calc(50% + 298px);
+    border-radius: 50%;
+    width: 44px;
+    height: 44px;
+    object-fit: cover;
+    cursor: pointer;
+}
+.mingcutewallet4FillIcon1 {
+    position: relative;
+    width: 26px;
+    height: 26px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.connectWallet {
+    position: relative;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.mingcutewallet4FillParent {
+    position: absolute;
+    top: 46px;
+    left: 65%;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    backdrop-filter: blur(12px);
+    display: flex;
+    flex-direction: row;
+    padding: 0.5vh 1vw;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 16px;
+    color: #1f1330;
+}
+.mingcutewallet4FillLang {
+    position: absolute;
+    top: -763px;
+    left: calc(57% + 364px);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 22px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 16px;
+}
+.unionIcon2 {
+    position: relative;
+    width: 30px;
+    height: 30px;
+}
+.unionIcon3 {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    top: 161px;
+   
+    left: 63px;
+   
+   
+}
+.homepageTradeChild3 {
+    position: absolute;
+    top: 623px;
+    left: 934px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 370px;
+    height: 333px;
+}
+.homepageTradeChild4 {
+    position: absolute;
+    top: 623px;
+    left: 536px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 370px;
+    height: 333px;
+}
+.homepageTradeChild5 {
+    position: absolute;
+    top: 623px;
+    left: 136px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 370px;
+    height: 333px;
+}
+.comingSoon {
+    position: absolute;
+    top: 656px;
+    font-weight: bold;
+    left: 165px;
+    font-family: 'MonumentExtended-Regular';
+}
+.comingSoon1 {
+    position: absolute;
+    top: 656px;
+    left: 964px;
+    font-family: 'MonumentExtended-Regular';
+    display: inline-block;
+    width: 270px;
+}
+.comingSoon2 {
+    position: absolute;
+    top: 656px;
+    left: 557px;
+    font-family: 'MonumentExtended-Regular';
+    display: inline-block;
+    width: 320px;
+}
+.groupItem {
+    
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 100%;
+    aspect-ratio: 1/1;
+}
+.titaEtf {
+    position: absolute;
+    top: 33px;
+    left: 29px;
+}
+.vectorIcon4 {
+    position: relative;
+    width: 22px;
+    height: 13.58px;
+}
+.vectorParent {
+    position: absolute;
+    top: 33px;
+    left: 290px;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: flex-end;
+    gap: 6px;
+    text-align: right;
+    font-size: 20px;
+    font-family: 'NeueMontreal-Light';
+}
+.frameIcon2 {
+    position: absolute;
+    top: 86px;
+    left: 27px;
+    width: 90%;
+    height: 211px;
+    overflow: hidden;
+}
+.rectangleParent {
+    aspect-ratio: 1/1;
+    height: 333px;
+    cursor: pointer;
+    font-family: 'MonumentExtended-Regular';
+}
+.vectorGroup {
+    position: absolute;
+    top: 33px;
+    left: 284px;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: flex-end;
+    gap: 6px;
+}
+.tusaEtf {
+    position: absolute;
+    top: 33px;
+    left: 21px;
+    font-size: 24px;
+    font-family: 'MonumentExtended-Regular';
+    text-align: left;
+}
+.frameIcon3 {
+    position: absolute;
+    top: 86px;
+    left: 20px;
+    width: 328px;
+    height: 211px;
+    overflow: hidden;
+}
+.rectangleGroup {
+    position: absolute;
+    top: 260px;
+    left: 34%;
+    width: 370px;
+    height: 333px;
+    cursor: pointer;
+    text-align: right;
+    font-size: 20px;
+}
+.vectorContainer {
+    position: absolute;
+    top: 33px;
+    left: 283px;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: flex-end;
+    gap: 6px;
+}
+.tgermEtf {
+    position: absolute;
+    top: 33px;
+    left: 30px;
+    font-size: 24px;
+    font-family: 'MonumentExtended-Regular';
+    text-align: left;
+}
+.frameIcon4 {
+    position: absolute;
+    top: 86px;
+    left: 21px;
+    width: 328px;
+    height: 211px;
+    overflow: hidden;
+}
+.rectangleContainer {
+    position: absolute;
+    top: 260px;
+    left: 67%;
+    width: 370px;
+    height: 333px;
+    cursor: pointer;
+    text-align: right;
+    font-size: 20px;
+}
+.frameIcon5 {
+    position: absolute;
+    top: 709px;
+    left: 163px;
+    width: 328px;
+    height: 211px;
+    overflow: hidden;
+}
+.frameIcon6 {
+    position: absolute;
+    top: 709px;
+    left: 556px;
+    width: 328px;
+    height: 211px;
+    overflow: hidden;
+}
+.frameIcon7 {
+    position: absolute;
+    top: 709px;
+    left: 955px;
+    width: 328px;
+    height: 211px;
+    overflow: hidden;
+}
+.groupChild2 {
+    position: absolute;
+    top: 90.31px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 50%;
+    height: 80px;
+}
+.groupChild3 {
+    position: absolute;
+    top: 190.62px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 50%;
+    height: 80px;
+}
+.groupChild4 {
+    position: absolute;
+    top: 290.92px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 50%;
+    height: 80px;
+}
+.groupChild5 {
+    position: absolute;
+    top: 90.62px;
+    left: 51%;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 50%;
+    height: 80px;
+}
+.groupChild6 {
+    position: absolute;
+    top: 190.62px;
+    left: 51%;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 50%;
+    height: 80px;
+}
+.groupChild7 {
+    position: absolute;
+    top: 291.62px;
+    left: 51%;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 50%;
+    height: 80px;
+}
+.trendingProducts {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 43px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+}
+.tita {
+    position: absolute;
+    top: 117.31px;
+    left: 8%;
+    font-weight: bold;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 136.08px;
+}
+.aptos {
+    position: absolute;
+    top: 217.62px;
+    left: 3%;
+    line-height: 36px;
+    font-weight: bold;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 136.08px;
+}
+.quant {
+    position: absolute;
+    top: 317.92px;
+    left: 3%;
+    line-height: 36px;
+    font-weight: bold;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 136.08px;
+}
+.pepe {
+    position: absolute;
+    top: 117.31px;
+    font-weight: bold;
+    left: 55%;
+    line-height: 36px;
+    text-transform: capitalize;
+}
+.shibaInu {
+    position: absolute;
+    top: 217.62px;
+    left: 55%;
+    font-weight: bold;
+    line-height: 36px;
+    text-transform: capitalize;
+}
+.worldcoin {
+    position: absolute;
+    top: 317.92px;
+    font-weight: bold;
+    left: 55%;
+    line-height: 36px;
+    text-transform: capitalize;
+}
+.div3 {
+    position: absolute;
+    top: 117.31px;
+    left: 37.02px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 8.46px;
+}
+.div4 {
+    position: absolute;
+    top: 217.62px;
+    left: 37.02px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 13.75px;
+}
+.div5 {
+    position: absolute;
+    top: 317.92px;
+    left: 37.02px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 13.75px;
+}
+.div6 {
+    position: absolute;
+    top: 117.31px;
+    left: 633.82px;
+    text-transform: capitalize;
+}
+.div7 {
+    position: absolute;
+    top: 217.62px;
+    left: 633.82px;
+    text-transform: capitalize;
+}
+.div8 {
+    position: absolute;
+    top: 317.92px;
+    left: 633.82px;
+    text-transform: capitalize;
+}
+.groupChild8 {
+    position: absolute;
+    top: 110.31px;
+    left: 3%;
+    border-radius: 50%;
+    width: 42.31px;
+    height: 40px;
+    object-fit: cover;
+}
+.groupChild9 {
+    position: absolute;
+    top: 210.62px;
+    left: 72.99px;
+    border-radius: 50%;
+    width: 42.31px;
+    height: 40px;
+    object-fit: cover;
+}
+.groupChild10 {
+    position: absolute;
+    top: 310.92px;
+    left: 72.99px;
+    border-radius: 50%;
+    width: 42.31px;
+    height: 40px;
+    object-fit: cover;
+}
+.groupChild11 {
+    position: absolute;
+    top: 110.31px;
+    left: 667.82px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+.groupChild12 {
+    position: absolute;
+    top: 210.62px;
+    left: 667.82px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+.groupChild13 {
+    position: absolute;
+    top: 310.92px;
+    left: 667.82px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+.frameChild {
+    position: relative;
+    border-radius: 2px;
+    width: 19.24px;
+    height: 12px;
+}
+.div9 {
+    position: relative;
+    line-height: 36px;
+    text-transform: capitalize;
+}
+.polygonParent {
+    position: absolute;
+    top: 117.31px;
+    right: 52%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 9px;
+    color: #0ce770;
+}
+.polygonGroup {
+    position: absolute;
+    top: 217.62px;
+    left: 469.35px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 9px;
+    color: #0ce770;
+}
+.polygonContainer {
+    position: absolute;
+    top: 317.62px;
+    left: 1060px;
+    width: 80px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 9px;
+    color: #0ce770;
+}
+.frameDiv {
+    position: absolute;
+    top: 117.62px;
+    left: 1066px;
+    width: 78px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 9px;
+    color: #ff2c2c;
+}
+.polygonParent1 {
+    position: absolute;
+    top: 217.62px;
+    left: 1066px;
+    width: 76px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 9px;
+    color: #ff2c2c;
+}
+.polygonParent2 {
+    position: absolute;
+    top: 317.92px;
+    left: 469.35px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 9px;
+    color: #ff2c2c;
+}
+.groupDiv {
+    position: absolute;
+    top: 1098px;
+    left: 3%;
+    width: 93%;
+    height: 371.62px;
+    font-size: 22px;
+}
+.search {
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.vectorParent1 {
+    position: absolute;
+    top: 184.5px;
+    left: 1156px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 18px;
+    font-size: 32px;
+}
+.frameChild4 {
+    position: relative;
+    width: 18.71px;
+    height: 18.71px;
+}
+.moreParent {
+    position: absolute;
+    top: 1096px;
+    left: 1184px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    align-items: baseline;
+    justify-content: center;
+    gap: 10px;
+    font-size: 32px;
+    color: #ffe500;
+}
+.homepageTrade {
+    position: relative;
+    background: linear-gradient(180deg, #201d26, #1d1b20);
+    width: 100%;
+    height: 2500px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 24px;
+    color: #fff;
+    font-family: 'NeueMontreal-Light';
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 350px) and (max-width: 662px) {
+   .groupChild5{
+    position: absolute;
+    top: 390.62px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 570px;
+    height: 80px;
+    left: 0;
+   }
+   .homeParent {
+    display: none;
+}
+.maskGroupIcon{
+    position: absolute;
+    top: 2px;
+    left: 150px;
+    width: 72.76px;
+    height: 74px;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+   .comingSoon{
+    position: absolute;
+    top: 656px;
+    left: 62px;
+    font-family: 'MonumentExtended-Regular';
+   }
+   .frameIcon5{
+    position: absolute;
+    top: 709px;
+    left: 39px;
+    width: 328px;
+    height: 211px;
+    overflow: hidden;
+    
+   }
+   .homepageTrade{
+    position: relative;
+background: linear-gradient(180deg, #201d26, #1d1b20);
+width: 100%;
+height: 9000px;
+overflow: hidden;
+text-align: left;
+font-size: 24px;
+color: #fff;
+font-family: 'NeueMontreal-Light';
+   }
+
+.rectangleParent{
+    position: absolute;
+    top: 260px;
+    left: 14px;
+    width: 370px;
+    height: 333px;
+    cursor: pointer;
+    font-family: 'MonumentExtended-Regular';
+}
+.homepageTradeChild5{
+    position: absolute;
+    top: 623px;
+    left: 13px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 370px;
+    height: 333px;
+}
+
+
+
+
+
+
+
+
+   .groupChild5{
+    position: absolute;
+    top: 390.62px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 570px;
+    height: 80px;
+    left: 0;
+   }
+   .rectangleGroup{
+    position: absolute;
+    top: 997px;
+    left: 12px;
+    width: 370px;
+    height: 333px;
+    cursor: pointer;
+    text-align: right;
+    font-size: 20px;
+   }  
+   .homepageTradeChild4{
+    position: absolute;
+    top: 1364px;
+    left: 13px;
+    width: 370px;
+    height: 333px;
+    cursor: pointer;
+    text-align: right;
+    font-size: 20px;
+   }
+   .homepageTradeChild3{
+    position: absolute;
+    top: 2149px;
+    left: 15px;
+    width: 370px;
+    height: 333px;
+    cursor: pointer;
+    text-align: right;
+    font-size: 20px;
+   }
+   .frameIcon7{
+    position: absolute;
+    top: 2228px;
+    left: 40px;
+    width: 328px;
+    height: 211px;
+    overflow: hidden;
+    
+ }
+ .comingSoon1{
+    position: absolute;
+top: 2190px;
+left: 62px;
+font-family: 'MonumentExtended-Regular';
+display: inline-block;
+width: 270px;
+ }
+
+.frameIcon6{
+    position: absolute;
+    top: 1440px;
+    left: 37px;
+    width: 328px;
+    height: 211px;
+    overflow: hidden;
+}
+.comingSoon2{
+position: absolute;
+top: 1396px;
+left: 62px;
+width: 328px;
+height: 211px;
+overflow: hidden;
+}
+.rectangleContainer{
+    position: absolute;
+    top: 1748px;
+    left: 13px;
+    width: 370px;
+    height: 333px;
+    cursor: pointer;
+    text-align: right;
+    font-size: 20px;
+}
+
+
+
+
+
+   .groupChild6{
+    position: absolute;
+    top: 490.62px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 570px;
+    height: 80px;
+    left: 0;
+   }
+   .groupChild7{
+    position: absolute;
+    top: 590.62px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 570px;
+    height: 80px;
+    left: 0;
+   }
+   .groupChild11{
+    position: absolute;
+top: 410.31px;
+left: 72.82px;
+border-radius: 50%;
+width: 40px;
+height: 40px;
+-o-object-fit: cover;
+object-fit: cover;
+   }
+   .groupChild12{
+    position: absolute;
+top: 510.31px;
+left: 72.82px;
+border-radius: 50%;
+width: 40px;
+height: 40px;
+-o-object-fit: cover;
+object-fit: cover;
+   }
+   .groupChild13{
+    position: absolute;
+top: 610.31px;
+left: 72.82px;
+border-radius: 50%;
+width: 40px;
+height: 40px;
+-o-object-fit: cover;
+object-fit: cover;
+   }
+   .div6{
+    position: absolute;
+top: 417.31px;
+left: 37px;
+text-transform: capitalize;
+
+   }
+   .div7{
+    position: absolute;
+top: 517.31px;
+left: 37px;
+text-transform: capitalize;
+
+   }
+   .div8{
+    position: absolute;
+top: 617.31px;
+left: 37px;
+text-transform: capitalize;
+
+   }
+   .pepe{
+    position: absolute;
+top: 417.31px;
+left: 135.47px;
+line-height: 36px;
+text-transform: capitalize;
+   }
+   .shibaInu{
+    position: absolute;
+    top: 517.31px;
+    left: 135.47px;
+    line-height: 36px;
+    text-transform: capitalize;
+   }
+   .worldcoin{
+    position: absolute;
+    top: 617.31px;
+    left: 135.47px;
+    line-height: 36px;
+    text-transform: capitalize;
+   }
+   .frameDiv{
+    position: absolute;
+    top: 401.62px;
+    left: 495.35px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+   }
+   .polygonParent1{
+    position: absolute;
+    top: 501.62px;
+    left: 495.35px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+   }
+   .polygonContainer{
+    
+    position: absolute;
+    top: 601.62px;
+    left: 297.35px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+       
+   }
+   .joinOurCommunity1{
+    position: absolute;
+    bottom: 219px;
+    left: calc(50% - 458.5px);
+    text-transform: capitalize;
+    font-weight: 500;
+    font-size: 34px;
+    display: inline-block;
+    width: 917px;
+   }
+   .diveIntoA1{
+    position: absolute;
+    bottom: -50px;
+    line-height: 36px;
+    text-align: center;
+    display: inline-block;
+    left: 0;
+    padding-left: 372px;
+    width: auto;
+    padding-right: 372px;
+   }
+   .homepageTradeChild{
+    position: absolute;
+    bottom: 267px;
+    height: 834px;
+    left: 0;
+   }
+   .groupDiv{
+    position: absolute;
+    top: 2687px;
+    left: 21px;
+    width: 1169px;
+    height: 371.62px;
+    font-size: 22px;
+   }
+   .groupChild2{
+    position: absolute;
+    top: 90.31px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 362.18px;
+    height: 80px;
+   }
+   .groupChild3{
+    position: absolute;
+    top: 190.62px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 363px;
+    height: 80px
+   }
+  .groupChild4{
+    position: absolute;
+    top: 290.92px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 362px;
+    height: 80px;
+  }
+  .groupChild5{
+    position: absolute;
+    top: 390.62px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 360px;
+    height: 80px;
+    left: 0;
+  }
+ .groupChild6{
+    position: absolute;
+    top: 490.62px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 360px;
+    height: 80px;
+    left: 0;
+ }
+ .groupChild7{
+    position: absolute;
+    top: 590.62px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 360px;
+    height: 80px;
+    left: 0;
+ }
+   .fuelingInnovationThrough1{
+    position: absolute;
+    bottom: 1294px;
+    line-height: 36px;
+    text-align: center;
+    display: inline-block;
+    left: 0;
+    width: auto;
+   }
+   .polygonParent{
+    position: absolute;
+    top: 117.31px;
+    left: 273.35px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 9px;
+    color: #0ce770;
+   }
+   .polygonGroup{
+    position: absolute;
+    top: 217.62px;
+    left: 272px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 9px;
+    color: #0ce770;
+   }
+   .polygonParent2{
+    position: absolute;
+    top: 317.92px;
+    left: 272PX;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 9px;
+    color: #ff2c2c;
+   }
+   .frameDiv{
+    position: absolute;
+    top: 401.62px;
+    left: 297px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+   }
+   .polygonParent1{
+    position: absolute;
+    top: 501.62px;
+    left: 298px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+
+   }
+   .maskGroupParent{
+    position: absolute;
+bottom: 51px;
+width: 720px;
+height: 249px;
+text-align: center;
+font-size: 20px;
+left: 0;
+   }
+   .homepageTrade{
+    position: relative;
+background: linear-gradient(180deg, #201d26, #1d1b20);
+width: 100%;
+height: 5161px;
+display: none;
+overflow: hidden;
+text-align: left;
+font-size: 24px;
+color: #fff;
+font-family: 'NeueMontreal-Light';
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  }
+
+
+
+
+
+
+
+@media (min-width: 663px) and (max-width: 890px) {
+    .groupChild5{
+        position: absolute;
+        top: 390.62px;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 570px;
+        height: 80px;
+        left: 0;
+       }
+       .rectangleGroup{
+        position: absolute;
+        top: 997px;
+        left: 134px;
+        width: 370px;
+        height: 333px;
+        cursor: pointer;
+        text-align: right;
+        font-size: 20px;
+       }  
+       .homepageTradeChild4{
+        position: absolute;
+        top: 1364px;
+        left: 134px;
+        width: 370px;
+        height: 333px;
+        cursor: pointer;
+        text-align: right;
+        font-size: 20px;
+       }
+       .homepageTradeChild3{
+        position: absolute;
+        top: 2149px;
+        left: 134px;
+        width: 370px;
+        height: 333px;
+        cursor: pointer;
+        text-align: right;
+        font-size: 20px;
+       }
+       .frameIcon7{
+        position: absolute;
+        top: 2228px;
+        left: 152px;
+        width: 328px;
+        height: 211px;
+        overflow: hidden;
+     }
+     .comingSoon1{
+        position: absolute;
+    top: 2190px;
+    left: 171px;
+    font-family: 'MonumentExtended-Regular';
+    display: inline-block;
+    width: 270px;
+     }
+
+ .frameIcon6{
+    position: absolute;
+    top: 1440px;
+    left: 152px;
+    width: 328px;
+    height: 211px;
+    overflow: hidden;
+ }
+.comingSoon2{
+    position: absolute;
+    top: 1396px;
+    left: 163px;
+    width: 328px;
+    height: 211px;
+    overflow: hidden;
+}
+.rectangleContainer{
+    position: absolute;
+    top: 1748px;
+    left: 134px;
+    width: 370px;
+    height: 333px;
+    cursor: pointer;
+    text-align: right;
+    font-size: 20px;
+}
+
+
+
+
+
+       .groupChild6{
+        position: absolute;
+        top: 490.62px;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 570px;
+        height: 80px;
+        left: 0;
+       }
+       .groupChild7{
+        position: absolute;
+        top: 590.62px;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 570px;
+        height: 80px;
+        left: 0;
+       }
+       .groupChild11{
+        position: absolute;
+    top: 410.31px;
+    left: 72.82px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    -o-object-fit: cover;
+    object-fit: cover;
+       }
+       .groupChild12{
+        position: absolute;
+    top: 510.31px;
+    left: 72.82px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    -o-object-fit: cover;
+    object-fit: cover;
+       }
+       .groupChild13{
+        position: absolute;
+    top: 610.31px;
+    left: 72.82px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    -o-object-fit: cover;
+    object-fit: cover;
+       }
+       .div6{
+        position: absolute;
+    top: 417.31px;
+    left: 37px;
+    text-transform: capitalize;
+
+       }
+       .div7{
+        position: absolute;
+    top: 517.31px;
+    left: 37px;
+    text-transform: capitalize;
+
+       }
+       .div8{
+        position: absolute;
+    top: 617.31px;
+    left: 37px;
+    text-transform: capitalize;
+
+       }
+       .pepe{
+        position: absolute;
+    top: 417.31px;
+    left: 135.47px;
+    line-height: 36px;
+    text-transform: capitalize;
+       }
+       .shibaInu{
+        position: absolute;
+        top: 517.31px;
+        left: 135.47px;
+        line-height: 36px;
+        text-transform: capitalize;
+       }
+       .worldcoin{
+        position: absolute;
+        top: 617.31px;
+        left: 135.47px;
+        line-height: 36px;
+        text-transform: capitalize;
+       }
+       .frameDiv{
+        position: absolute;
+        top: 401.62px;
+        left: 495.35px;
+        line-height: 36px;
+        text-transform: capitalize;
+        display: inline-block;
+       }
+       .polygonParent1{
+        position: absolute;
+        top: 501.62px;
+        left: 495.35px;
+        line-height: 36px;
+        text-transform: capitalize;
+        display: inline-block;
+       }
+       .polygonContainer{
+        
+            position: absolute;
+            top: 601.62px;
+            left: 495.35px;
+            line-height: 36px;
+            text-transform: capitalize;
+            display: inline-block;
+           
+       }
+       
+       .groupDiv{
+        position: absolute;
+        top: 2687px;
+        left: 136px;
+        width: 1169px;
+        height: 371.62px;
+        font-size: 22px;
+       }
+       .fuelingInnovationThrough1{
+        position: absolute;
+    bottom: 1337px;
+    line-height: 36px;
+    text-align: center;
+    display: inline-block;
+    left: 0;
+    width: auto;
+       }
+       .maskGroupParent{
+        position: absolute;
+    bottom: 51px;
+    width: 720px;
+    height: 249px;
+    text-align: center;
+    font-size: 20px;
+    left: 0;
+       }
+       .homepageTrade{
+        position: relative;
+    background: linear-gradient(180deg, #201d26, #1d1b20);
+    width: 100%;
+    height: 5161px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 24px;
+    color: #fff;
+    font-family: 'NeueMontreal-Light';
+       }
+  }
+
+
+
+
+
+
+
+
+
+
+
+  @media (min-width: 681px) {
+    .navbars {
+        display: none; /* Show the entire header */
+    }
+}
+
+/* Hide the navigation bar for screens 680px or less (optional) */
+@media (max-width: 680px) {
+    .navbars {
+        display: block; /* Hide the entire header */
+       
+    }
+}
+
+
+
+
+@media (min-width: 681px) {
+    .navbars {
+        display: none; /* Show the entire header */
+    }
+}
+
+/* Hide the navigation bar for screens 680px or less (optional) */
+@media (max-width: 680px) {
+    .navbars {
+        display: block; /* Hide the entire header */
+       
+    }
+}
+
+
+
+
+@media (min-width: 681px) {
+    .navbars {
+        display: none; /* Show the entire header */
+    }
+    .mobile{
+        display: none;
+    }
+   
+}
+
+/* Hide the navigation bar for screens 680px or less (optional) */
+@media (max-width: 680px) {
+    .navbars {
+        display: block; /* Hide the entire header */
+       
+    }
+    .mobile{
+        display: block;
+    }
+   
+}
+
+
+
+/* Hide the navigation bar for screens 680px or less (optional) */
+
+@media (min-width: 100px) and (max-width: 600px){
+    .ipadtrade{
+        display: none;
+    }
+    .homepageTrade{
+        display: none;
+    }
+}
+@media (min-width: 601px) and (max-width: 700px){
+   
+    .homepageTrade{
+        display: none;
+    }
+    .ipadtrade{
+        display: block;
+    }
+    .tade{
+        display: none;
+    }
+
+}
+
+@media (min-width: 701px) and (max-width: 1056px){
+    .ipadtrade{
+        display: block;
+    }
+   .mobile{
+    display: none;
+   }
+    .homepageTrade{
+        display: none;
+    }
+    .tade{
+        display: none;
+    }
+}
+
+@media (min-width: 1057px) and (max-width: 5000px){
+    .ipadtrade{
+        display: none;
+    }
+    .homepageTrade{
+        display: block;
+    }
+    .tade{
+        display: none;
+    }
+
+}

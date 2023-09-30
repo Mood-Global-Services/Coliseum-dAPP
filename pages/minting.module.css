@@ -1,0 +1,713 @@
+.homepageTradeSubpageChild {
+    position: absolute;
+    top: -346px;
+    left: 832.28px;
+    border-radius: 50%;
+    background-color: #000;
+    filter: blur(304px);
+    width: 1024.95px;
+    height: 1024.95px;
+    transform:  rotate(15deg);
+    transform-origin: 0 0;
+    opacity: 0.35;
+}
+.homepageTradeSubpageItem {
+    position: absolute;
+    top: 0px;
+    left:calc(33% - 720px);
+    width: 741px;
+    height: 741px;
+    opacity: 0.6;
+}
+.maskGroupIcon {
+    position: absolute;
+    top: 15px;
+    left: 121px;
+    width: 113.76px;
+    height: 110px;
+    object-fit: cover;
+}
+.unionIcon1 {
+    position: relative;
+    width: 20px;
+    height: 20px;
+}
+.homepageTradeSubpageInner {
+    position: absolute;
+    top: 260px;
+    left: 136px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 769px;
+    height: 692px;
+}
+.titaEtf {
+    position: absolute;
+    top: 202px;
+    left: 135px;
+    font-size: 24px;
+    font-family: 'MonumentExtended-Regular';
+}
+.div {
+    position: relative;
+    line-height: 36px;
+    text-transform: capitalize;
+}
+.wrapper {
+    position: absolute;
+    top: 189px;
+    left: 476px;
+    border-radius: 7px;
+    background-color: #3e4057;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: right;
+    font-size: 22px;
+}
+.g {
+    position: relative;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.gWrapper {
+    border-radius: 6px;
+    background-color: #3e4057;
+    display: flex;
+    flex-direction: row;
+    padding: 2px 10px;
+    align-items: center;
+    justify-content: center;
+}
+.maxWrapper {
+    border-radius: 6px;
+    background-color: #ffe500;
+    display: flex;
+    flex-direction: row;
+    padding: 2px 10px;
+    align-items: center;
+    justify-content: center;
+    color: #363636;
+}
+.frameParent {
+    position: absolute;
+    top: 898px;
+    left: 204px;
+    width: 646px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.ter033 {
+    position: absolute;
+    top: 199px;
+    left: 778px;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+}
+.vectorIcon1 {
+    position: relative;
+    width: 22px;
+    height: 13.58px;
+}
+.span {
+    color: #848080;
+}
+.vectorParent {
+    position: absolute;
+    top: 189px;
+    left: 571px;
+    border-radius: 7px;
+    background-color: #3e4057;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    align-items: baseline;
+    justify-content: flex-end;
+    gap: 10px;
+    text-align: right;
+    font-size: 22px;
+}
+.frameChild {
+    position: relative;
+    border-top: 1px solid #3e3e3e;
+    box-sizing: border-box;
+    width: 647px;
+    height: 1px;
+}
+.lineParent {
+    position: absolute;
+    top: -105px;
+    left: 41px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 48px;
+}
+.groupIcon5 {
+    position: absolute;
+    height: 1.18%;
+    width: 94.32%;
+    top: 98.82%;
+    right: 8.37%;
+    bottom: 0%;
+    left: -2.69%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.groupIcon6 {
+    position: absolute;
+    height: 1.18%;
+    width: 1.76%;
+    top: 98.82%;
+    right: 3.09%;
+    bottom: 0%;
+    left: 95.15%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.groupIcon7 {
+    position: absolute;
+    height: 1.18%;
+    width: 1.76%;
+    top: 98.82%;
+    right: 6.04%;
+    bottom: 0%;
+    left: 92.2%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.groupIcon8 {
+    position: absolute;
+    height: 1.18%;
+    width: 1.76%;
+    top: 98.82%;
+    right: 8.68%;
+    bottom: 0%;
+    left: 89.56%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.frameChild9 {
+    position: absolute;
+    height: 32.41%;
+    width: 89.89%;
+    top: 37.91%;
+    right: 2.78%;
+    bottom: 29.68%;
+    left: 7.33%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.frameChild10 {
+    position: absolute;
+    height: 53.11%;
+    width: 88.74%;
+    top: -0.06%;
+    right: 3.77%;
+    bottom: 46.96%;
+    left: 7.49%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.frame1 {
+    position: absolute;
+    top: 426px;
+    left: 163px;
+    width: 709px;
+    height: 456px;
+}
+.rectangleDiv {
+    position: absolute;
+    top: 1029.56px;
+    left: 971.61px;
+    border-radius: 7px;
+    background-color: #ffe500;
+    width: 150px;
+    height: 40px;
+    display: none;
+}
+.pharrowDownBoldIcon1 {
+    position: relative;
+    width: 19.76px;
+    height: 21px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.backToTradeBtn1 {
+    position: absolute;
+    top: 49.12px;
+    left: calc(50% + 388px);
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    backdrop-filter: blur(12px);
+    display: none;
+    flex-direction: row;
+    padding: 11px 22px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    cursor: pointer;
+    color: #1f1330;
+}
+.swapMintburnChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 370px;
+    height: 692px;
+}
+.frameChild11 {
+    position: relative;
+    width: 21.5px;
+    height: 21.5px;
+}
+.groupParent {
+    position: absolute;
+    top: 592px;
+    left: calc(50% - 158px);
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    backdrop-filter: blur(12px);
+    width: 316px;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 90px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    color: #1f1330;
+}
+.swapMintburnItem {
+    
+    top: 27.51px;
+    left: 25px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 92%;
+    height: 90px;
+    margin: 20px auto;
+}
+.swapMintburnInner {
+    position: absolute;
+    top: 103.95px;
+    left: 25px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 320px;
+    height: 382.61px;
+}
+.swapMintburnChild1 {
+    position: absolute;
+    top: 103.95px;
+    left: 26px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(20, 19, 25, 0), #44484b 96.22%);
+    width: 318px;
+    height: 248px;
+}
+.max1 {
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.antDesignswapOutlined {
+    position: absolute;
+    top: 338.95px;
+    left: 48px;
+    border-radius: 8px;
+    background-color: #3f4145;
+    height: 26px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    padding: 6px 16px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: #ffe500;
+}
+.mint {
+    position: absolute;
+    top: 125.94px;
+    left: 100.11px;
+    font-weight: 500;
+    
+}
+.burn {
+    position: absolute;
+    top: 125.94px;
+    left: 238.16px;
+    font-weight: 500;
+    opacity: 0.7;
+}
+.swapMintburnChild2 {
+    
+    color: #f5f1f1;
+  
+}
+.swap {
+    position: absolute;
+    top: 40.51px;
+    left: 87.11px;
+    font-size: 20px;
+    opacity: 0.79;
+}
+.mintburn {
+    position: absolute;
+    top: 41.51px;
+    left: 214.99px;
+    font-size: 20px;
+    color: #f8f2f2;
+}
+.youPay {
+    position: absolute;
+    top: 194.95px;
+    left: 47px;
+    font-size: 14px;
+    text-transform: capitalize;
+}
+.totalCost {
+    position: absolute;
+    top: 384.95px;
+    left: 47px;
+    font-size: 10px;
+    text-transform: capitalize;
+    color: #676767;
+}
+.div2 {
+    position: absolute;
+    top: 384.95px;
+    left: 289px;
+    font-size: 11px;
+    text-transform: capitalize;
+    text-align: right;
+}
+.expectedTokensMinted1 {
+    position: absolute;
+    top: 415.95px;
+    left: 47px;
+    font-size: 10px;
+    text-transform: capitalize;
+    color: #676767;
+}
+.div3 {
+    position: absolute;
+    top: 415.95px;
+    left: 290px;
+    font-size: 11px;
+    text-transform: capitalize;
+    text-align: right;
+}
+.expectedEquivalentExpousure1 {
+    position: absolute;
+    top: 446.95px;
+    left: 47px;
+    font-size: 10px;
+    text-transform: capitalize;
+    color: #676767;
+}
+.div4 {
+    position: absolute;
+    top: 446.95px;
+    left: 295px;
+    font-size: 11px;
+    text-transform: capitalize;
+    text-align: right;
+}
+.frameDiv {
+    position: absolute;
+    top: 119.72px;
+    left: 26.47px;
+}
+.balance323400 {
+    position: absolute;
+    top: 194.95px;
+    left: 204px;
+    font-size: 14px;
+    text-transform: capitalize;
+    text-align: right;
+}
+.expectedPrice124681 {
+    position: absolute;
+    top: 293.95px;
+    left: 48px;
+    font-size: 14px;
+    text-transform: capitalize;
+    color: #676767;
+    text-align: right;
+}
+.swapMintburnChild3 {
+    position: absolute;
+    top: 159.06px;
+    left: 57.77px;
+    width: 115.68px;
+    height: 1px;
+}
+.swapMintburnChild4 {
+    position: absolute;
+    top: 159.06px;
+    left: 197.32px;
+    width: 115.68px;
+    height: 1px;
+}
+.span1 {
+    text-transform: capitalize;
+}
+.div5 {
+    position: absolute;
+    top: 246px;
+    left: 48px;
+    font-size: 32px;
+    font-weight: 500;
+}
+.frameChild12 {
+    position: relative;
+    border-radius: 50%;
+    width: 31.74px;
+    height: 30px;
+    object-fit: cover;
+}
+.ellipseParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 7px;
+}
+.riarrowUpSLineIcon1 {
+    position: relative;
+    width: 19px;
+    height: 19px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.frameGroup {
+    position: absolute;
+    top: 240.03px;
+    left: 201px;
+    border-radius: 40px;
+    background-color: #3f4145;
+    width: 120px;
+    display: flex;
+    flex-direction: row;
+    padding: 6px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.swapMintburn {
+    position: absolute;
+    top: 260px;
+    left: 935px;
+    width: 370px;
+    height: 692px;
+    overflow: hidden;
+}
+.groupChild {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 1440px;
+    height: 328px;
+}
+.maskGroupIcon1 {
+    position: absolute;
+    bottom: 139px;
+    left: 303px;
+    width: 113.76px;
+    height: 110px;
+    object-fit: cover;
+}
+.mediacmaxcom {
+    text-decoration: underline;
+}
+.mediaInquiresForContainer {
+    position: relative;
+    font-weight: 500;
+    opacity: 0.5;
+}
+.copyRight20231 {
+    position: relative;
+    font-size: 18px;
+    font-weight: 500;
+    opacity: 0.5;
+}
+.mediaInquiresForCmaxContParent {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 230px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+.trade {
+    position: relative;
+}
+.tradeParent {
+    position: absolute;
+    bottom: 88px;
+    left: calc(50% - 360px);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+}
+.maskGroupParent {
+    position: absolute;
+    bottom: 51px;
+    left: 360px;
+    width: 720px;
+    height: 249px;
+}
+.rectangleParent {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 328px;
+    display: none;
+    text-align: center;
+    font-size: 20px;
+}
+.homepageTradeSubpageChild1 {
+    position: absolute;
+    top: 87px;
+    left: calc(50% - 309px);
+    width: 18px;
+    height: 10px;
+}
+.home {
+    position: relative;
+    cursor: pointer;
+}
+.trade1 {
+    position: relative;
+    color: #ffe500;
+}
+.homeParent {
+    position: absolute;
+    top: 58px;
+    left: calc(50% - 415px);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    font-size: 20px;
+}
+.mingcutewallet4FillIcon1 {
+    position: relative;
+    width: 26px;
+    height: 26px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.mingcutewallet4FillParent {
+    position: absolute;
+    top: 46px;
+    left: calc(50% + 364px);
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    backdrop-filter: blur(12px);
+    display: flex;
+    flex-direction: row;
+    padding: 11px 22px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    color: #1f1330;
+}
+.homepageTradeSubpageChild2 {
+    position: absolute;
+    top: 48px;
+    left: calc(50% + 298px);
+    border-radius: 50%;
+    width: 44px;
+    height: 44px;
+    object-fit: cover;
+    cursor: pointer;
+}
+.homepageTradeSubpage {
+    position: relative;
+    background: linear-gradient(180deg, #201d26, #1d1b20);
+    width: 100%;
+    height: 1126px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+    font-family: 'NeueMontreal-Light';
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

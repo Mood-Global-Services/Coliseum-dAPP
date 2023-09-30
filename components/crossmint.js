@@ -3,10 +3,9 @@ import { CrossmintPayButton } from "@crossmint/client-sdk-react-ui";
 
 function App() {
   const [mintAmount, setMintAmount] = useState(1);
-  const [useraddress, setAddress] = useState();
   const nftCost = 1;
-  const projectId = '5e2e1af6-3897-42f9-9ae1-cf5696fd8e7f';
-  const collectionId = 'b87c6167-e1ad-4e92-8c83-d8fe93ae197b';
+  const projectId = 'c09eb65f-0d93-476b-aff2-d5b15301aac9';
+  const collectionId = 'c4d31eb7-8ab8-4b53-bdaa-838b9f618a97';
 
   const handleDecrement = () => {
     if (mintAmount <= 1) return;
@@ -14,7 +13,7 @@ function App() {
   }
 
   const handleIncrement = () => {
-    if (mintAmount >= 1000) return;
+    if (mintAmount >= 3) return;
     setMintAmount(mintAmount + 1);
   }
 
@@ -28,13 +27,6 @@ function App() {
       />
       <button onClick={handleIncrement}> + </button>
 
-      <br>
-      </br>
-      <input
-        value={useraddress}
-        placeholder="Just put address"
-        onChange={(e) => setAddress(e.target.value)}
-      />
       <CrossmintPayButton
         projectId={projectId}
         collectionId={collectionId}
@@ -42,10 +34,12 @@ function App() {
         mintConfig={{
           type: "erc-721",
           totalPrice: (nftCost * mintAmount).toString(),
-          _userAddress: useraddress,
-          _amount: mintAmount // the `_quantity` property should match what is in your mint function
+          _amount: mintAmount, // the `_quantity` property should match what is in your mint function
+          _userAddress: "0x4f8B2785D7671730f07bF555D5cC9Ad3e858B7d3",
           // your custom minting arguments...
         }}
+        
+       
       />
     </div>
   );

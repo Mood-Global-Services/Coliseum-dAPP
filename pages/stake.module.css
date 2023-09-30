@@ -1,0 +1,1647 @@
+.homepageStakeChild {
+    position: absolute;
+    top: 1080px;
+    left: 3%;
+    border-radius: 8px;
+    background: linear-gradient(180deg, #282531, rgba(40, 37, 49, 0));
+    backdrop-filter: blur(164px);
+    width: 93%;
+    height: 668px;
+}
+.homepageStakeItem {
+    position: absolute;
+    bottom: 252px;
+    left: 303px;
+    width: 834px;
+    height: 834px;
+}
+.homepageStakeInner {
+    position: absolute;
+    top: -346px;
+    left: 832.28px;
+    border-radius: 50%;
+    background-color: #000;
+    filter: blur(304px);
+    width: 1024.95px;
+    height: 1024.95px;
+    transform:  rotate(15deg);
+    transform-origin: 0 0;
+    opacity: 0.35;
+}
+.homepageStakeChild1 {
+    position: absolute;
+    top: 0px;
+    left: -232px;
+    width: 741px;
+    height: 741px;
+    opacity: 0.6;
+}
+.rwfa {
+    position: absolute;
+    top: 52px;
+    left: calc(50% - 585px);
+    font-size: 30px;
+    font-family: 'Monument Extended';
+    color: #bbfa09;
+    display: none;
+}
+.homepageStakeChild2 {
+    position: absolute;
+    top: 87px;
+    left: calc(50% - 221px);
+    width: 18px;
+    height: 10px;
+}
+.maskGroupIcon {
+    position: absolute;
+    top: 15px;
+    left: 121px;
+    width: 113.76px;
+    height: 110px;
+    object-fit: cover;
+}
+.rectangleIcon {
+    position: absolute;
+    bottom: 1043px;
+    background-size: cover;
+    width: 100%;
+    height: 672px;
+}
+.rectangleDiv {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 100%;
+    height: 328px;
+}
+.maskGroupIcon1 {
+    position: absolute;
+    bottom: 139px;
+    left: 303px;
+    width: 113.76px;
+    height: 110px;
+    object-fit: cover;
+}
+.mediacmaxcom {
+    text-decoration: underline;
+}
+.mediaInquiresForContainer {
+    position: relative;
+    font-weight: 500;
+    opacity: 0.5;
+}
+.copyRight20231 {
+    position: relative;
+    font-size: 18px;
+    font-weight: 500;
+    opacity: 0.5;
+}
+.mediaInquiresForCmaxContParent {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 230px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+.trade {
+    position: relative;
+}
+.tradeParent {
+    position: absolute;
+    bottom: 88px;
+    left: calc(50% - 360px);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+}
+.maskGroupParent {
+    position: absolute;
+    bottom: 79px;
+    left: 360px;
+    width: 720px;
+    height: 249px;
+    text-align: center;
+}
+.ourPartners {
+    position: absolute;
+    bottom: 1439px;
+    left: calc(50% - 459px);
+    font-size: 43px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #fff931;
+    text-align: center;
+    display: inline-block;
+    width: 917px;
+}
+.fuelingInnovationThrough1 {
+    position: absolute;
+    bottom: 1337px;
+    left: calc(50% - 557px);
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    display: inline-block;
+    width: 1113px;
+}
+.clipPathGroup5 {
+    position: relative;
+    width: 100.8px;
+    height: 56px;
+}
+.maskGroupIcon2 {
+    position: relative;
+    width: 146px;
+    height: 25.96px;
+    object-fit: cover;
+}
+.clipPathGroup6 {
+    position: relative;
+    width: 115.9px;
+    height: 38px;
+}
+.maskGroupIcon3 {
+    position: relative;
+    width: 150.62px;
+    height: 41.82px;
+    object-fit: cover;
+}
+.partnersLogosChild {
+    position: relative;
+    width: 141.83px;
+    height: 53.07px;
+}
+.clipPathGroup7 {
+    position: relative;
+    width: 123.33px;
+    height: 40px;
+}
+.frameIcon {
+    position: relative;
+    width: 118px;
+    height: 50px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.frameIcon1 {
+    position: relative;
+    width: 148px;
+    height: 22px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.partnersLogos {
+    position: absolute;
+    bottom: 1196px;
+    left: calc(50% - 720px);
+    width: 1440px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 130px;
+}
+.joinOurCommunity1 {
+    position: absolute;
+    bottom: 219px;
+    left: calc(50% - 458.5px);
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    width: 917px;
+}
+.diveIntoA1 {
+    position: absolute;
+    bottom: 117px;
+    left: calc(50% - 556.5px);
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: bold;
+    color: #fff;
+    display: inline-block;
+    width: 1113px;
+}
+.groupChild {
+    position: absolute;
+    top: 221px;
+    left: 411px;
+    width: 292.33px;
+    height: 50px;
+}
+.joinOurCommunityParent {
+    position: absolute;
+    bottom: 526px;
+    left: calc(50% - 557px);
+    width: 1113px;
+    height: 271px;
+    text-align: center;
+    font-size: 43px;
+    color: #fff931;
+}
+.home {
+    position: relative;
+    cursor: pointer;
+}
+.stake1 {
+    position: relative;
+    color: #ffe500;
+}
+.homeParent {
+    position: absolute;
+    top: 58px;
+    left: calc(50% - 415px);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+}
+.homepageStakeChild3 {
+    position: absolute;
+    top: 48px;
+    left: calc(50% + 298px);
+    border-radius: 50%;
+    width: 44px;
+    height: 44px;
+    object-fit: cover;
+    cursor: pointer;
+}
+.mingcutewallet4FillIcon1 {
+    position: relative;
+    width: 26px;
+    height: 26px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.connectWallet {
+    position: relative;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 20px;
+}
+.mingcutewallet4FillParent {
+    position: absolute;
+    top: 46px;
+    left: calc(40% + 364px);
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    backdrop-filter: blur(12px);
+    display: flex;
+    flex-direction: row;
+    padding: 11px 22px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 16px;
+    color: #1f1330;
+}
+.mingcutewallet4FillLang {
+    position: absolute;
+    top: -763px;
+    left: calc(57% + 364px);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 22px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 16px;
+}
+.unionIcon2 {
+    position: relative;
+    width: 30px;
+    height: 30px;
+}
+.unionIcon3 {
+    position: relative;
+    width: 20px;
+    top: 180px;
+    height: 20px;
+    left: 100px;
+}
+.search {
+    position: relative;
+    text-transform: capitalize;
+}
+.vectorParent {
+    position: absolute;
+    top: 194.5px;
+    left: 1164px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 18px;
+    font-size: 30px;
+}
+.stakingBenefits {
+    position: absolute;
+    top: 308px;
+    left: 3%;
+    font-size: 55px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 900px;
+}
+.homepageStakeChild4 {
+    position: absolute;
+    top: 523px;
+    left: 3%;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 93%;
+    height: 290px;
+}
+.frameChild {
+    position: relative;
+    width: 78.28px;
+    height: 110px;
+}
+.groupParent {
+    width: 230px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 26px;
+    cursor: pointer;
+}
+.groupIcon1 {
+    position: absolute;
+    height: 97.27%;
+    width: 96.8%;
+    top: 1.36%;
+    right: 1.76%;
+    bottom: 1.36%;
+    left: 1.44%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.loremIpsumDolor1 {
+    position: absolute;
+    height: 161.82%;
+    width: 319.15%;
+    top: 99.09%;
+    left: 88.34%;
+    line-height: 37px;
+    display: inline-block;
+}
+.frame5 {
+    position: relative;
+    width: 104.34px;
+    height: 110px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.networkSecurity {
+    position: relative;
+    font-size: 28px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.frameGroup {
+    width: 230px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 26px;
+    cursor: pointer;
+    text-align: left;
+    font-size: 22px;
+}
+.frameIcon2 {
+    position: relative;
+    width: 102px;
+    height: 102px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.frameDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 26px;
+    cursor: pointer;
+}
+.groupIcon2 {
+    position: relative;
+    width: 100.42px;
+    height: 110px;
+}
+.groupGroup {
+    width: 230px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 26px;
+}
+.frameParent {
+    position: absolute;
+    top: 578px;
+    left: 206px;
+    width: 1010px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    font-size: 28px;
+    width: 93%;
+    left: 4%;
+}
+.eparrowRightBoldIcon2 {
+    position: absolute;
+    top: 597px;
+    left: 1259px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+}
+.eparrowRightBoldIcon3 {
+    position: absolute;
+    top: 597px;
+    left: 1221px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    opacity: 0.4;
+}
+.stakingPool {
+    position: absolute;
+    top: 996px;
+    left: 3%;
+    font-size: 43px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+}
+.gWrapper {
+    border-radius: 6px;
+    background-color: #3e4057;
+    display: flex;
+    flex-direction: row;
+    padding: 2px 10px;
+    align-items: center;
+    justify-content: center;
+}
+.maxWrapper {
+    border-radius: 6px;
+    background-color: #ffe500;
+    display: flex;
+    flex-direction: row;
+    padding: 2px 10px;
+    align-items: center;
+    justify-content: center;
+    color: #363636;
+}
+.frameParent1 {
+    position: absolute;
+    top: 1668px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 68px;
+    font-size: 16px;
+}
+.frameItem {
+    align-self: stretch;
+    position: relative;
+    border-top: 1px solid #3e3e3e;
+    box-sizing: border-box;
+    height: 1px;
+}
+.lineParent {
+    position: absolute;
+    top: 1192px;
+    left: 5%;
+    width: 89%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 50px;
+}
+.homepageStakeChild5 {
+    position: absolute;
+    top: 1238.63px;
+    left: 5%;
+    width: 89%;
+    height: 399.37px;
+}
+.stakingInBlockchain1 {
+    position: absolute;
+    top: 407px;
+    left: 3%;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 36px;
+    display: inline-block;
+    width: 1165px;
+    height: 101px;
+}
+.groupItem {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+   background-size: cover;
+    height: 323px;
+}
+.maskGroupIcon6 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-size: cover;
+    height: 323px;
+    object-fit: cover;
+    width: 100%;
+}
+.claimRewards {
+    position: absolute;
+    top: 91px;
+    left: 65%;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.totalAmountStake1 {
+    position: absolute;
+    top: 86px;
+    font-size: 22px;
+    left: 5%;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.apr {
+    position: relative;
+    line-height: 36px;
+    text-transform: capitalize;
+}
+.aprWrapper {
+    position: absolute;
+    top: 79px;
+    left: 35%;
+    border-radius: 7px;
+    background-color: #3e4057;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: right;
+    font-size: 22px;
+    color: #ffe500;
+}
+.cmax {
+    position: absolute;
+    top: 153px;
+    left: 5%;
+    font-size: 82px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #0ce770;
+}
+.antDesigndollarOutlinedIcon {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.antDesigndollarOutlinedParent {
+    position: absolute;
+    top: 175px;
+    left: 65vw;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    display: flex;
+    flex-direction: row;
+    padding: 7px 0px;
+    align-items: center;
+    justify-content: center;
+    width: 20vw;
+    gap: 10px;
+    font-size: 56px;
+    color: #1f1330;
+}
+.groupInner {
+    position: absolute;
+    top: 64px;
+    left: 719.5px;
+    width: 1px;
+    height: 196px;
+}
+.vectorGroup {
+    position: absolute;
+    top: 1878px;
+    left: 0px;
+    width: 100vw;
+    height: 323px;
+    font-size: 32px;
+}
+.ellipseDiv {
+    position: relative;
+    border-radius: 50%;
+    background-color: #ff6868;
+    width: 12px;
+    height: 12px;
+}
+.ellipseParent {
+    position: absolute;
+    top: 0px;
+    left: 190px;
+    border-radius: 6px;
+    border: 1px solid #3e4057;
+    box-sizing: border-box;
+    width: 150px;
+    display: flex;
+    flex-direction: row;
+    padding: 8px 18px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.frameChild7 {
+    position: relative;
+    border-radius: 50%;
+    background-color: #0ce770;
+    width: 12px;
+    height: 12px;
+}
+.ellipseGroup {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 6px;
+    border: 1px solid #3e4057;
+    box-sizing: border-box;
+    width: 150px;
+    display: flex;
+    flex-direction: row;
+    padding: 8px 18px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.groupDiv {
+    position: absolute;
+    top: 1114px;
+    left: 35%;
+    width: 340px;
+    height: 40px;
+}
+.stakingStats {
+    position: absolute;
+    top: 0px;
+    left: 1px;
+    font-size: 43px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+}
+.groupChild1 {
+    position: absolute;
+    top: 86px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 45vw;
+    height: 449px;
+}
+.topHolders {
+    position: absolute;
+    top: 130px;
+    left: 0px;
+    font-size: 30px;
+    width: 45%;
+    text-transform: capitalize;
+}
+.text28 {
+    position: absolute;
+    top: 469px;
+    left: 243px;
+    text-transform: capitalize;
+}
+.groupChild2 {
+    position: absolute;
+    top: 278px;
+    left: 6.5px;
+    width: 563.5px;
+    height: 1px;
+}
+.groupChild3 {
+    position: absolute;
+    top: 354.5px;
+    left: 6.5px;
+    width: 563.5px;
+    height: 1px;
+}
+.groupChild4 {
+    position: absolute;
+    top: 434.5px;
+    left: 6.5px;
+    width: 563.5px;
+    height: 1px;
+}
+.div {
+    position: absolute;
+    top: 225px;
+    left: 440px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+}
+.div1 {
+    position: absolute;
+    top: 302px;
+    left: 440px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.div2 {
+    position: absolute;
+    top: 379px;
+    left: 440px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.div3 {
+    position: absolute;
+    top: 465px;
+    left: 440px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.groupChild5 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 45vw;
+    height: 443px;
+}
+.vectorIcon4 {
+    position: relative;
+    width: 22px;
+    height: 13.58px;
+}
+.vectorContainer {
+    position: absolute;
+    top: 15%;
+    left: 1%;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: flex-end;
+    gap: 10px;
+}
+.frameIcon3 {
+    position: absolute;
+    top: 101px;
+    left: 28px;
+    width: 80%;
+    height: 252px;
+    overflow: hidden;
+}
+.cmax1 {
+    text-transform: uppercase;
+}
+.price {
+    text-transform: capitalize;
+}
+.cmaxPrice {
+    position: absolute;
+    top: 36px;
+    left: 32.18px;
+    font-size: 25px;
+    font-family: 'Monument Extended';
+    text-align: left;
+    display: inline-block;
+    width: 249.79px;
+    height: 35.59px;
+}
+.rectangleParent {
+    position: absolute;
+    top: 83px;
+    left: 48vw;
+    width: 567px;
+    height: 443px;
+    cursor: pointer;
+    text-align: right;
+    font-size: 20px;
+}
+.wrapper {
+    border-radius: 50px;
+    background-color: #ffe500;
+    display: flex;
+    flex-direction: column;
+    padding: 6px 14px;
+    align-items: center;
+    justify-content: center;
+}
+.div5 {
+    position: relative;
+    font-size: 22px;
+    text-transform: capitalize;
+    color: #fff;
+}
+.frameParent2 {
+    position: absolute;
+    top: 220px;
+    left: 29px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 18px;
+    font-size: 20px;
+    color: #282531;
+}
+.container {
+    border-radius: 50px;
+    background-color: #5f5a6b;
+    display: flex;
+    flex-direction: column;
+    padding: 6px 13px;
+    align-items: center;
+    justify-content: center;
+}
+.div6 {
+    position: relative;
+    font-size: 22px;
+    text-transform: capitalize;
+}
+.frameParent3 {
+    position: absolute;
+    top: 297px;
+    left: 29px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 18px;
+    font-size: 20px;
+}
+.frameParent4 {
+    position: absolute;
+    top: 374px;
+    left: 29px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 18px;
+    font-size: 20px;
+}
+.frameParent5 {
+    position: absolute;
+    top: 460px;
+    left: 29px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 18px;
+    font-size: 20px;
+}
+.groupChild6 {
+    position: absolute;
+    top: 121px;
+    left: 510.29px;
+    width: 18.71px;
+    height: 18.71px;
+}
+.stakingStatsParent {
+    position: absolute;
+    top: 2331px;
+    left: 3%;
+    width: 90%;
+    height: 535px;
+    font-size: 22px;
+}
+.div9 {
+    position: absolute;
+    top: 225px;
+    left: 440px;
+    line-height: 36px;
+    text-transform: capitalize;
+    color: #ffe500;
+}
+.div11 {
+    position: absolute;
+    top: 379px;
+    left: 440px;
+    line-height: 36px;
+    text-transform: capitalize;
+}
+.cmaxPrice1 {
+    position: absolute;
+    top: 36px;
+    left: 0px;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: 'Monument Extended';
+    text-align: left;
+    display: inline-block;
+    width: 90%;
+    height: 35.59px;
+}
+.div14 {
+    position: relative;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    color: #fff;
+}
+.div15 {
+    position: relative;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+}
+.homepageStake {
+    position: relative;
+    background: linear-gradient(180deg, #201d26, #1d1b20);
+    width: 100%;
+    height: 4605px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 20px;
+    color: #fff;
+    font-family: 'Neue Montreal';
+}
+
+
+
+
+
+
+
+
+
+.swapMintburn {
+    position: absolute;
+    top: 991px;
+    left: 935px;
+    width: 370px;
+    height: 692px;
+    overflow: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 350px) and (max-width: 662px) {
+    .stakingBenefits{
+    position: absolute;
+    top: 193px;
+    font-size: 66px;
+    left: 0;
+        width: auto;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    display: inline-block;
+    }
+    .maskGroupIcon{
+        position: absolute;
+    top: 2px;
+    left: 150px;
+    width: 72.76px;
+    height: 74px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .homeParent {
+       display: none;
+    }
+    .maskGroupParent{
+        position: absolute;
+        bottom: 51px;
+        left: auto;
+        right: -155px;
+        width: 720px;
+        height: 249px;
+        text-align: center;
+    }
+    .stakingInBlockchain1{
+        position: absolute;
+    top: 407px;
+    font-size: 24px;
+    left: 0;
+    width: auto;
+    text-align: center;
+    line-height: 36px;
+    display: inline-block;
+    height: 101px;
+    }
+    .fuelingInnovationThrough1{
+        position: absolute;
+bottom: 1301px;
+font-size: 24px;
+line-height: 36px;
+left: 0;
+width: auto;
+font-weight: bold;
+text-align: center;
+display: flex;
+    }
+    .homepageStake{
+        position: relative;
+    background: linear-gradient(180deg, #201d26, #1d1b20);
+    width: 100%;
+    height: 5542px;
+    overflow: hidden;
+    display: none;
+    text-align: left;
+    font-size: 20px;
+    color: #fff;
+    font-family: 'Neue Montreal';
+    }
+    .groupChild5{
+        
+        position: absolute;
+        top: -16px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: -webkit-fill-available;
+        height: 443px;
+    
+    }
+    .homepageStakeChild4{
+        position: absolute;
+        top: 576px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 1171px;
+        height: 744px;
+        left: 0;
+    }
+    .frameParent{
+        position: absolute;
+        top: 593px;
+        flex-wrap: wrap;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        font-size: 28px;
+        left: 0;
+        width: auto;
+        align-content: space-around;
+    }
+    .homepageStakeChild{
+        position: absolute;
+top: 1436px;
+border-radius: 8px;
+background: linear-gradient(180deg, #282531, rgba(40, 37, 49, 0));
+-webkit-backdrop-filter: blur(164px);
+backdrop-filter: blur(164px);
+width: 1170px;
+height: 668px;
+left: 0;
+    }
+    .stakingPool{
+        position: sticky;
+top: 1342px;
+text-align: center;
+font-size: 43px;
+text-transform: capitalize;
+font-weight: 500;
+color: #ffe500;
+display: flex;
+align-items: center;
+justify-content: center;
+margin: auto;
+left: 0;
+    } 
+    .lineParent{
+        position: absolute;
+    top: 1476px;
+    width: 1040px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 50px;
+    left: 0;
+    }
+    .homepageStakeChild5{
+        position: absolute;
+    top: 1513.63px;
+    height: 399.37px;
+    left: 0;
+    width: auto;
+    }
+    .maskGroupIcon6{
+        position: absolute;
+    top: 244px;
+    left: 0px;
+    background-size: cover;
+    height: 323px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .groupItem{
+        position: absolute;
+    top: 244px;
+    left: 0px;
+    background-size: cover;
+    height: 323px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .totalAmountStake1{
+        position: absolute;
+        top: 264px;
+        text-align: center;
+        font-size: 34px;
+        text-transform: capitalize;
+        font-weight: 500;
+        color: #f3f3f0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: auto;
+        left: 16px;
+    
+}
+.cmax{
+    position: absolute;
+    top: 361px;
+    font-size: 70px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #0ce770;
+    left: 16px;
+}
+.aprWrapper{
+    position: absolute;
+    top: 266px;
+    left: 313px;
+    border-radius: 7px;
+    background-color: #3e4057;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: right;
+    font-size: 22px;
+    color: #ffe500;
+}
+    
+    .frameParent1{
+        position: sticky;
+    top: 1958px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    font-size: 16px;
+    left: 0;
+    }
+
+
+    .maskGroupIcon6{
+        position: absolute;
+    top: 565px;
+    left: 0px;
+    background-size: cover;
+    height: 323px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .claimRewards{
+        position: absolute;
+    top: 594px;
+    text-transform: capitalize;
+    font-weight: 500;
+    left: 16px;
+}
+    .antDesigndollarOutlinedParent{
+        position: absolute;
+        top: 702px;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+        display: flex;
+        flex-direction: row;
+        padding: 11px 61px;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        left: 16px;
+        font-size: 56px;
+        color: #1f1330;
+    }
+    .stakingStats{
+        position: absolute;
+    top: 0px;
+    left: -32px;
+    font-size: 43px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+    }
+    .groupChild1{
+        position: absolute;
+    top: 86px;
+    left: -158px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: -webkit-fill-available;
+    height: 449px;
+    }
+    .topHolders{
+        position: absolute;
+        top: 130px;
+        left: 34px;
+        font-size: 30px;
+        text-transform: capitalize;
+    }
+  .rectangleParent{
+    position: absolute;
+    top: 608px;
+    width: 567px;
+    height: 443px;
+    cursor: pointer;
+    text-align: right;
+    font-size: 20px;
+    left: -161px;
+  }
+  .homepageStakeItem{
+    
+        position: absolute;
+        bottom: 252px;
+        left: 0;
+        width: 834px;
+        height: 834px;
+    
+  }
+.diveIntoA1{
+    position: absolute;
+    bottom: 37px;
+    left: calc(78% - 556.5px);
+    font-size: 24px;
+    line-height: 36px;
+    color: #fff;
+    display: inline-block;
+    width: 478px;
+}
+.frameIcon3{
+    position: absolute;
+    top: 101px;
+    left: 74px;
+    width: 376px;
+    height: 252px;
+    overflow: hidden;
+}
+
+    .stakingStatsParent{
+        position: absolute;
+        top: 2888px;
+        left: 94px;
+        width: 1170px;
+        height: 535px;
+        font-size: 22px;
+    }
+}
+
+
+
+
+
+
+
+@media (min-width: 663px) and (max-width: 890px) {
+    .stakingBenefits{
+        position: absolute;
+        top: 193px;
+        font-size: 66px;
+        left: 0;
+        width: auto;
+        text-transform: capitalize;
+        font-family: 'Monument Extended';
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        text-align: center;
+        display: inline-block;
+        }
+        .frameParent1{
+            position: sticky;
+        top: 1893px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        gap: 5px;
+        font-size: 16px;
+        left: 0;
+        }
+        .homepageStake{
+            position: relative;
+        background: linear-gradient(180deg, #201d26, #1d1b20);
+        width: 100%;
+        height: 5366px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 20px;
+        color: #fff;
+        font-family: 'Neue Montreal';
+        }
+        .groupChild5{
+            position: absolute;
+    top: 118px;
+    left: -602px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: -webkit-fill-available;
+    height: 443px;
+        }
+        .stakingInBlockchain1{
+            position: absolute;
+        top: 407px;
+        font-size: 24px;
+        left: 0;
+        width: auto;
+        text-align: center;
+        line-height: 36px;
+        display: inline-block;
+        height: 101px;
+        }
+        .fuelingInnovationThrough1{
+            position: absolute;
+    bottom: 1337px;
+    font-size: 24px;
+    line-height: 36px;
+    left: 0;
+    width: auto;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+        }
+        .homepageStakeChild4{
+            position: absolute;
+    top: 576px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 1171px;
+    height: 516px;
+    left: 0;
+        }
+        .frameParent{
+            position: absolute;
+    top: 640px;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 28px;
+    left: 0;
+    width: auto;
+    align-content: space-around;
+        }
+        .stakingPool{
+            position: sticky;
+    top: 1210px;
+    text-align: center;
+    font-size: 43px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    left: 0;
+        }
+        .homepageStakeChild{
+            position: absolute;
+    top: 1333px;
+    border-radius: 8px;
+    background: linear-gradient(180deg, #282531, rgba(40, 37, 49, 0));
+    -webkit-backdrop-filter: blur(164px);
+    backdrop-filter: blur(164px);
+    width: 1170px;
+    height: 668px;
+    left: 0;
+        }
+        .homepageStakeChild5{
+            position: absolute;
+    top: 1459.63px;
+    left: auto;
+    width: auto;
+    height: 399.37px;
+        }
+        .lineParent{
+            position: absolute;
+    top: 1383px;
+    width: 1040px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 50px;
+    left: 0;
+        }
+        .groupDiv{
+            position: sticky;
+    top: 1363px;
+    width: 340px;
+    align-items: center;
+    display: flex;
+    height: 40px;
+    justify-content: center;
+    margin: auto;
+    left: 0;
+        }
+        .vectorGroup{
+            position: absolute;
+    top: 2005px;
+    left: 0px;
+    width: 1440px;
+    height: 323px;
+    font-size: 32px;
+        }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  @media (min-width: 681px) {
+    .navbars {
+        display: none; /* Show the entire header */
+    }
+}
+
+/* Hide the navigation bar for screens 680px or less (optional) */
+@media (max-width: 680px) {
+    .navbars {
+        display: block; /* Hide the entire header */
+       
+    }
+}
+
+
+
+
+@media (min-width: 681px) {
+    .navbars {
+        display: none; /* Show the entire header */
+    }
+   
+}
+
+/* Hide the navigation bar for screens 680px or less (optional) */
+@media (max-width: 680px) {
+    .navbars {
+        display: block; /* Hide the entire header */
+       
+    }
+   
+}
+
+.staking{
+    
+}
+
+
+
+
+
+/* Hide the navigation bar for screens 680px or less (optional) */
+
+
+@media (min-width: 100px) and (max-width: 600px){
+    .ipadstake{
+        display: none;
+    }
+    .homepageStake{
+        display: none;
+    }
+}
+@media (min-width: 601px) and (max-width: 700px){
+   
+    .homepageStake{
+        display: none;
+    }
+    .ipadstake{
+        display: block;
+    }
+    .mobile{
+        display: none;
+    }
+
+}
+
+@media (min-width: 701px) and (max-width: 1056px){
+    .ipadstake{
+        display: block;
+    }
+   .mobile{
+    display: none;
+   }
+    .homepageStake{
+        display: none;
+    }
+  
+}
+
+@media (min-width: 1057px) and (max-width: 5000px){
+    .ipadstake{
+        display: none;
+    }
+    .homepageStake{
+        display: block;
+    }
+    .mobile{
+        display: none;
+    }
+
+}

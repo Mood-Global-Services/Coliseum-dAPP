@@ -2,7 +2,7 @@ import qs from "qs";
 import useSWR from "swr";
 import { ConnectKitButton } from "connectkit";
 import { useState, ChangeEvent } from "react";
-import { formatUnits, parseUnits } from "viem";
+import { formatUnits, parseUnits } from "ethers-stable";
 import {
   erc20ABI,
   useContractRead,
@@ -17,7 +17,24 @@ import {
   MAX_ALLOWANCE,
   exchangeProxy,
 } from "../../lib/constants";
+import styles from "./swapping.module.css";
 import { ConnectWallet } from "@thirdweb-dev/react";
+import Arrow from "../../public/ri_arrow-up-s-line.svg";
+import Image from "next/image";
+import localFont from "next/font/local";
+
+const myFont = localFont({
+  src: "../../public/font/MonumentExtended-FreeForPersonalUse/MonumentExtended-Regular.otf",
+});
+const secondFont = localFont({
+  src: "../../public/font/MonumentExtended-FreeForPersonalUse/NeueMontreal-Light.otf",
+});
+const thirdFont = localFont({
+  src: "../../public/font/MonumentExtended-FreeForPersonalUse/NeueMontreal-Medium.otf",
+});
+const fourthFont = localFont({
+  src: "../../public/font/MonumentExtended-FreeForPersonalUse/NeueMontreal-Regular.otf",
+});
 
 interface PriceRequestParams {
   sellToken: string;
@@ -100,86 +117,147 @@ export default function PriceView({
 
   return (
     <form>
-    <div className="bg-slate-200 dark:bg-slate-800 p-4 rounded-md mb-3">
-        <section className="mt-4 flex items-start justify-center">
-          <label htmlFor="sell-select" className="sr-only"></label>
-          <img
-            id='swapimg'
-            alt={sellToken}
-            className="h-9 w-9 mr-2 rounded-md"
-            src={POLYGON_TOKENS_BY_SYMBOL[sellToken].logoURI}
-          />
-          <div className="h-14 sm:w-full sm:mr-2">
-            <select
-              value={sellToken}
-              name="sell-token-select"
-              id="sell-token-select"
-              className="mr-2 w-50 sm:w-full h-9 rounded-md"
-              onChange={handleSellTokenChange}
-            >
-              {/* <option value="">--Choose a token--</option> */}
-              {POLYGON_TOKENS.map((token) => {
-                return (
-                  <option
-                    style={{background:'black'}}
-                    key={token.address}
-                    value={token.symbol.toLowerCase()}
-                  >
-                    {token.symbol}
-                  </option>
-                );
-              })}
-            </select>
+      <div className=" p-4 rounded-md mb-3">
+        <div className={styles.property1swap}>
+          <div className={styles.mingcutewallet4FillParent}></div>
+          <div className={styles.property1swapItem} />
+          <div style={secondFont.style} className={`${styles.youPay}`}>
+            <h5 className="monument text-xl text-white">You Pay:</h5>
           </div>
-          <label htmlFor="sell-amount" className="sr-only"></label>
-          <input
-            id="sell-amount"
-            value={sellAmount}
-            className="h-9 rounded-md"
-            style={{ border: "1px solid black" }}
-            onChange={(e) => {
-              setTradeDirection("sell");
-              setSellAmount(e.target.value);
-            }}
-          />
-        </section>
-        <section className="flex mb-6 mt-4 items-start justify-center">
-          <label htmlFor="buy-token" className="sr-only"></label>
-          <img
-            id='swapimg'
-            alt={buyToken}
-            className="h-9 w-9 mr-2 rounded-md"
-            src={POLYGON_TOKENS_BY_SYMBOL[buyToken].logoURI}
-          />
-          <select
-            name="buy-token-select"
-            id="buy-token-select"
-            value={buyToken}
-            className="mr-2 w-50 sm:w-full h-9 rounded-md"
-            onChange={(e) => handleBuyTokenChange(e)}
-          >
-            {/* <option value="">--Choose a token--</option> */}
-            {POLYGON_TOKENS.map((token) => {
-              return (
-                <option style={{background:'black'}}  key={token.address} value={token.symbol.toLowerCase()}>
-                  {token.symbol}
-                </option>
-              );
-            })}
-          </select>
-          <label htmlFor="buy-amount" className="sr-only"></label>
-          <input
-            id="buy-amount"
-            value={buyAmount}
-            className="h-9 rounded-md bg-white cursor-not-allowed"
-            style={{ border: "1px solid black" }}
-            disabled
-            onChange={(e) => {
-              setTradeDirection("buy");
-              setBuyAmount(e.target.value);
-            }}
-          />
-        </section>
+          <div style={secondFont.style} className={styles.youReceive}>
+            <h5 className="monument text-xl text-white">You Recieve:</h5>
+          </div>
+          <div style={secondFont.style} className={`${styles.balance323400}`}>
+            <h5 className="monument text-xl text-white">Balance $0</h5>
+          </div>
+          <div style={secondFont.style} className={styles.div}>
+            <h5 className="monument text-sm text-gray-500">= $23.00.00</h5>
+          </div>
+          <div style={secondFont.style} className={styles.div1}>
+          <h5 className="monument text-sm text-gray-500">= $13.00.00</h5>
+          </div>
+
+          <div className={styles.frameDiv} />
+          <div className={styles.div2}>
+            <span className={styles.span}>
+              <input
+                id="sell-amount"
+                style={{
+                  background: "none",
+                  width: "70%",
+                  borderRadius: "15px",
+                  border: "solid 1px #ffffff",
+                  fontSize: "18px",
+                  padding: "3% 3%"
+                }}
+                value={sellAmount}
+                placeholder="0.00"
+                onChange={(e) => {
+                  setTradeDirection("sell");
+                  setSellAmount(e.target.value);
+                }}
+              />
+            </span>
+          </div>
+          <div className={styles.div3}>
+            <span className={styles.span}>
+              <input
+                id="buy-amount"
+                value={buyAmount}
+                style={{
+                  background: "none",
+                  width: "70%",
+                  borderRadius: "15px",
+                  border: "solid 1px #ffffff",
+                  fontSize: "18px",
+                  padding: "3% 3%"
+                }}
+                disabled
+                onChange={(e) => {
+                  setTradeDirection("buy");
+                  setBuyAmount(e.target.value);
+                }}
+              />
+            </span>
+          </div>
+          <div className={styles.frameParent}>
+            <div className={styles.ellipseParent}>
+              <img
+                id="swapimg"
+                alt={sellToken}
+                className={styles.frameChild}
+                src={POLYGON_TOKENS_BY_SYMBOL[sellToken].logoURI}
+              />
+              <div>
+                <select
+                  value={sellToken}
+                  name="sell-token-select"
+                  id="sell-token-select"
+                  style={{ background: "none" }}
+                  className={styles.swapNow}
+                  onChange={handleSellTokenChange}
+                >
+                  {/* <option value="">--Choose a token--</option> */}
+                  {POLYGON_TOKENS.map((token) => {
+                    return (
+                      <option
+                        style={{ background: "black" }}
+                        key={token.address}
+                        value={token.symbol.toLowerCase()}
+                      >
+                        {token.symbol}
+                      </option>
+                    );
+                  })}
+                </select>
+              </div>
+            </div>
+            <Image className={styles.riarrowUpSLineIcon2} alt="" src={Arrow} />
+          </div>
+          <div className={styles.frameGroup}>
+            <div className={styles.ellipseParent}>
+              <img
+                id="swapimg"
+                alt={buyToken}
+                className={styles.frameChild}
+                src={POLYGON_TOKENS_BY_SYMBOL[buyToken].logoURI}
+              />
+              <select
+                name="buy-token-select"
+                id="buy-token-select"
+                value={buyToken}
+                className={styles.swapNow}
+                style={{ background: "none" }}
+                onChange={(e) => handleBuyTokenChange(e)}
+              >
+                {/* <option value="">--Choose a token--</option> */}
+                {POLYGON_TOKENS.map((token) => {
+                  return (
+                    <option
+                      style={{ background: "black" }}
+                      key={token.address}
+                      value={token.symbol.toLowerCase()}
+                    >
+                      {token.symbol}
+                    </option>
+                  );
+                })}
+              </select>
+            </div>
+            <Image className={styles.riarrowUpSLineIcon2} alt="" src={Arrow} />
+          </div>
+          <div className={styles.ter033Wrapper}>
+            <div style={{ fontFamily: "Inter" }} className={styles.ter033}>
+              TER → 0.33%
+            </div>
+          </div>
+          <div className={styles.antDesignswapOutlined}>
+            <img className={styles.vectorIcon1} alt="" src="Vector.svg" />
+          </div>
+          <div className={styles.antDesignswapOutlined1}>
+            <div className={styles.max}>max</div>
+          </div>
+        </div>
       </div>
 
       {takerAddress ? (
@@ -268,12 +346,14 @@ function ApproveOrReviewButton({
       <>
         <button
           type="button"
-          id="swapbtn"
+          style={fourthFont.style}
+          className={styles.mingcutewallet4FillParent}
           onClick={async () => {
             const writtenValue = await approveAsync();
           }}
         >
-          {isApproving ? "Approving..." : "APPROVE"}
+          
+          <h5 className="text-xl text-blue-950 absolute z-50">SWAP NOW</h5>
         </button>
       </>
     );

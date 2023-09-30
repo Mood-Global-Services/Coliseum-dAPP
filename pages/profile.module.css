@@ -1,0 +1,1160 @@
+
+
+
+
+
+.homepageProfileChild {
+	position: absolute;
+	top: -346px;
+	left: 832.28px;
+	border-radius: 50%;
+	background-color: #000;
+	filter: blur(304px);
+	width: 1024.95px;
+	height: 1024.95px;
+	transform:  rotate(15deg);
+	transform-origin: 0 0;
+	opacity: 0.35;
+}
+.homepageProfileItem {
+	position: absolute;
+    top: 0px;
+    left: -219px;
+    width: 741px;
+    height: 741px;
+    opacity: 0.6;
+}
+.rwfa {
+	position: absolute;
+	top: 52px;
+	left: calc(50% - 585px);
+	font-size: 30px;
+	font-family: 'MonumentExtended-Regular';
+	color: #bbfa09;
+	display: none;
+}
+.maskGroupIcon {
+	position: absolute;
+	top: 15px;
+	left: 121px;
+	width: 113.76px;
+	height: 110px;
+	object-fit: cover;
+}
+.homepageProfileInner {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	background-color: #141315;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+	width: 100%;
+	height: 328px;
+}
+.maskGroupIcon1 {
+	position: absolute;
+	bottom: 139px;
+	left: 303px;
+	width: 113.76px;
+	height: 110px;
+	object-fit: cover;
+}
+.mediaInquiresFor1 {
+	position: relative;
+	opacity: 0.5;
+}
+.mediaInquiresForCmaxContParent {
+	position: absolute;
+	bottom: 0px;
+	left: calc(50% - 226px);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 12px;
+}
+.trade {
+	position: relative;
+}
+.tradeParent {
+	position: absolute;
+	bottom: 88px;
+	left: calc(50% - 360px);
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 38px;
+	text-align: left;
+}
+.maskGroupParent {
+	position: absolute;
+	bottom: 51px;
+	left: 360px;
+	width: 720px;
+	height: 249px;
+	text-align: center;
+	font-size: 20px;
+}
+.home {
+	position: relative;
+	cursor: pointer;
+}
+.homeParent {
+	position: absolute;
+	top: 58px;
+	left: calc(50% - 415px);
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 38px;
+	font-size: 20px;
+}
+.homepageProfileChild1 {
+	position: absolute;
+	top: 48px;
+	left: calc(50% + 298px);
+	border-radius: 50%;
+	width: 44px;
+	height: 44px;
+	object-fit: cover;
+}
+.homepageProfileChild2 {
+	position: absolute;
+	top: 308px;
+	left: calc(50% - 585px);
+	border-radius: 50%;
+	width: 263px;
+	height: 263px;
+	object-fit: cover;
+}
+.mingcutewallet4FillIcon1 {
+	position: relative;
+	width: 26px;
+	height: 26px;
+	overflow: hidden;
+	flex-shrink: 0;
+}
+.connectWallet {
+	position: relative;
+	text-transform: uppercase;
+	font-weight: 500;
+}
+.mingcutewallet4FillParent {
+    position: absolute;
+    top: 46px;
+    left: calc(40% + 364px);
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    backdrop-filter: blur(12px);
+    display: flex;
+    flex-direction: row;
+    padding: 11px 22px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 16px;
+    color: #1f1330;
+}
+.mingcutewallet4FillLang {
+    position: absolute;
+    top: -763px;
+    left: calc(57% + 364px);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 22px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 16px;
+}
+.unionIcon2 {
+	position: relative;
+	width: 30px;
+	height: 30px;
+}
+.unionIcon3 {
+	position: relative;
+    width: 20px;
+    height: 20px;
+    top: 161px;
+   
+    left: 63px;
+}
+.sebastianMathew {
+	position: absolute;
+    top: 367px;
+    left: calc(50% - 285px);
+    font-size: 52px;
+    text-transform: capitalize;
+    font-family: 'MonumentExtended-Regular';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.holdings {
+	position: absolute;
+	top: 42%;
+	left: 5%;
+	font-size: 43px;
+	text-transform: capitalize;
+	font-weight: 500;
+	color: #ffe500;
+}
+.networth {
+	position: absolute;
+	top: 542px;
+	left: 435px;
+	font-size: 43px;
+	text-transform: capitalize;
+	font-weight: 500;
+	color: #ffe500;
+}
+.div {
+	position: absolute;
+	top: 606px;
+	left: 435px;
+	font-size: 58px;
+	line-height: 44px;
+	text-transform: capitalize;
+}
+.rectangleDiv {
+	position: absolute;
+	top: 18%;
+	left: 3%;
+	border-radius: 11px;
+	background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+	backdrop-filter: blur(46px);
+	width: 95%;
+	height: 692px;
+}
+.pl {
+	position: absolute;
+	top: 19%;
+	left: 5%;
+	font-size: 43px;
+	text-transform: capitalize;
+	font-weight: 500;
+	color: #ffe500;
+}
+.vectorIcon1 {
+	position: relative;
+	width: 22px;
+	height: 13.58px;
+}
+.vectorParent {
+	position: absolute;
+	top: 19%;
+	left: 15%;
+	border-radius: 7px;
+	background-color: #3e4057;
+	display: flex;
+	flex-direction: row;
+	padding: 10px;
+	align-items: baseline;
+	justify-content: flex-end;
+	gap: 10px;
+	text-align: right;
+	font-size: 20px;
+}
+.gWrapper {
+	border-radius: 6px;
+	background-color: #3e4057;
+	display: flex;
+	flex-direction: row;
+	padding: 2px 10px;
+	align-items: center;
+	justify-content: center;
+}
+.maxWrapper {
+	border-radius: 6px;
+	background-color: #ffe500;
+	display: flex;
+	flex-direction: row;
+	padding: 2px 10px;
+	align-items: center;
+	justify-content: center;
+	color: #363636;
+}
+.frameParent {
+	position: absolute;
+	top: 37%;
+	left: 10%;
+	width: 906px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+}
+.frameChild {
+	position: relative;
+	border-top: 1px solid #3e3e3e;
+	box-sizing: border-box;
+	width: 647px;
+	height: 1px;
+}
+.lineParent {
+	position: absolute;
+	top: -105px;
+	left: 41px;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 48px;
+}
+.groupIcon3 {
+	position: absolute;
+	height: 1.18%;
+	width: 85.78%;
+	top: 98.82%;
+	right: 8.37%;
+	bottom: 0%;
+	left: 5.85%;
+	max-width: 100%;
+	overflow: hidden;
+	max-height: 100%;
+}
+.groupIcon4 {
+	position: absolute;
+	height: 1.18%;
+	width: 1.76%;
+	top: 98.82%;
+	right: 3.09%;
+	bottom: 0%;
+	left: 95.15%;
+	max-width: 100%;
+	overflow: hidden;
+	max-height: 100%;
+}
+.groupIcon5 {
+	position: absolute;
+	height: 1.18%;
+	width: 1.76%;
+	top: 98.82%;
+	right: 6.04%;
+	bottom: 0%;
+	left: 92.2%;
+	max-width: 100%;
+	overflow: hidden;
+	max-height: 100%;
+}
+.groupIcon6 {
+	position: absolute;
+	height: 1.18%;
+	width: 1.76%;
+	top: 98.82%;
+	right: 8.68%;
+	bottom: 0%;
+	left: 89.56%;
+	max-width: 100%;
+	overflow: hidden;
+	max-height: 100%;
+}
+.frameChild9 {
+	position: absolute;
+	height: 32.43%;
+	width: 89.71%;
+	top: 37.93%;
+	right: 2.87%;
+	bottom: 29.65%;
+	left: 7.42%;
+	max-width: 100%;
+	overflow: hidden;
+	max-height: 100%;
+}
+.frameChild10 {
+	position: absolute;
+	height: 53.12%;
+	width: 88.47%;
+	top: -0.04%;
+	right: 3.93%;
+	bottom: 46.92%;
+	left: 7.6%;
+	max-width: 100%;
+	overflow: hidden;
+	max-height: 100%;
+}
+.frame {
+	position: absolute;
+	top: 22%;
+	left: 5%;
+	width: 90%;
+	height: 456px;
+}
+.homepageProfileChild3 {
+	position: absolute;
+	top: 45%;
+	left: 5%;
+	border-radius: 8px;
+	background-color: #282531;
+	width: 90%;
+}
+
+.gradGrey{
+	background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+}
+
+.unfold11Coin1 {
+	position: absolute;
+	top: 1952px;
+	left: 188px;
+	font-weight: 500;
+	color: #ffe500;
+}
+.polygon31b1e7a0Icon {
+	position: relative;
+	width: 60px;
+	height: 60px;
+	overflow: hidden;
+	flex-shrink: 0;
+}
+.polygon {
+	position: relative;
+	font-weight: 500;
+}
+.b {
+	font-family: 'NeueMontreal-Light';
+}
+.span {
+	font-size: 20px;
+	color: #7c7c7c;
+}
+.div2 {
+	position: relative;
+	text-transform: capitalize;
+	font-size: 28px;
+}
+.polygonParent {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 4px;
+}
+.polygon31b1e7a0Parent {
+	position: absolute;
+	top: 1822px;
+	left: 739px;
+	border-radius: 10px;
+	border: 1px solid #474353;
+	display: flex;
+	flex-direction: row;
+	padding: 20px;
+	align-items: center;
+	justify-content: flex-start;
+	gap: 22px;
+}
+.mantle61752091Icon {
+	position: relative;
+	width: 58.78px;
+	height: 60px;
+	overflow: hidden;
+	flex-shrink: 0;
+}
+.mantle61752091Parent {
+	position: absolute;
+	top: 1822px;
+	left: 465px;
+	border-radius: 10px;
+	border: 1px solid #474353;
+	display: flex;
+	flex-direction: row;
+	padding: 20px;
+	align-items: center;
+	justify-content: flex-start;
+	gap: 22px;
+}
+.eth47c40f70Parent {
+	position: absolute;
+	top: 1822px;
+	left: 188px;
+	border-radius: 10px;
+	border: 1px solid #474353;
+	display: flex;
+	flex-direction: row;
+	padding: 20px;
+	align-items: center;
+	justify-content: flex-start;
+	gap: 22px;
+}
+.bsc67e32b4cParent {
+	position: absolute;
+	top: 1822px;
+	left: 1019px;
+	border-radius: 10px;
+	border: 1px solid #474353;
+	display: flex;
+	flex-direction: row;
+	padding: 20px;
+	align-items: center;
+	justify-content: flex-start;
+	gap: 22px;
+}
+.hi {
+	position: absolute;
+	top: 295px;
+	left: 435px;
+	font-size: 46px;
+	text-transform: capitalize;
+	font-family: 'MonumentExtended-Regular';
+}
+.mdilocationIcon1 {
+	position: relative;
+	width: 29px;
+	height: 29px;
+	overflow: hidden;
+	flex-shrink: 0;
+}
+.nwBobcatLane {
+	position: relative;
+	text-transform: capitalize;
+	font-weight: 500;
+}
+.mdilocationParent {
+	position: absolute;
+	top: 448px;
+	left: 435px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+	gap: 7px;
+	font-size: 32px;
+}
+.homepageProfileChild4 {
+	position: absolute;
+	top: 616px;
+	left: 164px;
+	width: 204.63px;
+	height: 35px;
+}
+.text10 {
+	position: absolute;
+	top: 2329px;
+	left: 636px;
+	font-size: 28px;
+	text-transform: capitalize;
+}
+.text11 {
+	position: absolute;
+	top: 1758px;
+	left: 893px;
+	font-size: 28px;
+	text-transform: capitalize;
+}
+.walletWrapper {
+	width: 96px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+}
+.b4 {
+	position: relative;
+	font-size: 28px;
+	text-transform: capitalize;
+}
+.eth47c40f70Group {
+	position: absolute;
+	top: 2039px;
+	left: 188px;
+	border-radius: 11px;
+	background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+	backdrop-filter: blur(46px);
+	border: 1px solid #474353;
+	display: flex;
+	flex-direction: row;
+	padding: 20px;
+	align-items: center;
+	justify-content: flex-start;
+	gap: 22px;
+}
+.poolTogetherWrapper {
+	width: 96px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+}
+.eth47c40f70Container {
+	position: absolute;
+	top: 2039px;
+	left: 465px;
+	border-radius: 11px;
+	background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+	box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+	backdrop-filter: blur(46px);
+	display: flex;
+	flex-direction: row;
+	padding: 20px;
+	align-items: center;
+	justify-content: flex-start;
+	gap: 22px;
+}
+.homepageProfile {
+	position: relative;
+	background: linear-gradient(180deg, #201d26, #1d1b20);
+	width: 100%;
+	overflow: hidden;
+	text-align: left;
+	
+	font-size: 16px;
+	color: #fff;
+	font-family: 'NeueMontreal-Light';
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 350px) and (max-width: 662px) {
+  .homepageProfileChild2{
+	position: sticky;
+    top: 287px;
+    display: flex;
+    border-radius: 50%;
+    left: 0;
+    width: 200px;
+    height: 193px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+  }
+  .homepageProfile{
+	display: none;
+  }
+  .homeParent{
+	display: none;
+  }
+  .maskGroupIcon{
+	position: absolute;
+    top: 2px;
+    left: 150px;
+    width: 72.76px;
+    height: 74px;
+    -o-object-fit: cover;
+    object-fit: cover;
+  }
+  .pl{
+	position: absolute;
+    top: 926px;
+    left: 114px;
+    font-size: 43px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+  }
+  .eth47c40f70Parent{
+	position: absolute;
+    top: 1822px;
+    left: 9px;
+    border-radius: 10px;
+    border: 1px solid #474353;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 22px;
+  }
+  .homepageProfileChild3{
+	position: absolute;
+    top: 1775px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 1170px;
+    height: 655px;
+    left: 0;
+
+  }
+  .eth47c40f70Group{
+	position: absolute;
+    top: 2039px;
+    left: 6px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    border: 1px solid #474353;
+    display: flex;
+    flex-direction: row;
+    padding: 21px 10px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 22px;
+  }
+  .eth47c40f70Container{
+	position: absolute;
+    top: 2030px;
+    left: 219px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    box-shadow: 0px 16px 70px rgba(0, 0, 0, 0.25);
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 22px;
+  }
+  .polygon31b1e7a0Parent{
+	position: absolute;
+    top: 2221px;
+    left: 9px;
+    border-radius: 10px;
+    border: 1px solid #474353;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 22px;
+  }
+  .bsc67e32b4cParent{
+	position: absolute;
+    top: 2221px;
+    left: 228px;
+    border-radius: 10px;
+    border: 1px solid #474353;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 22px;
+  }
+  .unfold11Coin1{
+	position: absolute;
+    top: 1952px;
+    left: 15px;
+    font-weight: 500;
+    color: #ffe500;
+  }
+  .mantle61752091Parent{
+	position: absolute;
+    top: 1822px;
+    left: 229px;
+    border-radius: 10px;
+    border: 1px solid #474353;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 22px;
+  }
+  .networth{
+	position: sticky;
+    top: 583px;
+    text-align: center;
+    font-size: 33px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+	left: 0;
+  }
+  .sebastianMathew{
+	position: sticky;
+top: 488px;
+text-align: center;
+font-size: 38px;
+text-transform: capitalize;
+font-family: 'MonumentExtended-Regular';
+background: linear-gradient(180deg, #ffe500, #fff492);
+-webkit-background-clip: text;
+left: 0;
+-webkit-text-fill-color: transparent;
+  } 
+  .mdilocationParent{
+	position: sticky;
+    top: 448px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+    margin: auto;
+    font-size: 32px;
+  } 
+  .rectangleDiv{
+	position: sticky;
+    top: 874px;
+    margin: auto;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: x;
+    width: auto;
+    left: 0;
+    height: 692px;
+  }
+  .frame{
+	position: absolute;
+    top: 1040px;
+    left: auto;
+    width: auto;
+    height: 456px;
+  }
+  .lineParent{
+	position: absolute;
+    top: -105px;
+    left: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 48px;
+  }
+  .frameParent{
+	position: sticky;
+    top: 1512px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+	left: 0;
+  }
+  .homepageProfileChild4{
+	position: absolute;
+    top: 758px;
+    left: 121px;
+    width: 204.63px;
+    height: 35px;
+  }
+  .div{
+	position: sticky;
+    top: 666px;
+    left: auto;
+    text-align: center;
+    font-size: 42px;
+    line-height: 44px;
+    text-transform: capitalize;
+  }
+  .hi{
+	position: absolute;
+    top: 428px;
+    left: 32px;
+    font-size: 46px;
+    text-transform: capitalize;
+    font-family: 'MonumentExtended-Regular';
+  }
+
+  }
+
+
+
+
+
+
+
+@media (min-width: 663px) and (max-width: 890px) {
+    .homepageProfileChild2{
+		position: sticky;
+		top: 237px;
+		display: flex;
+		border-radius: 50%;
+		left: 0;
+		width: auto;
+		height: 263px;
+		-o-object-fit: cover;
+		object-fit: cover;
+		align-items: center;
+		justify-content: center;
+		margin: auto;
+	  }
+	  .mdilocationParent{
+		position: sticky;
+		top: 448px;
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		justify-content: center;
+		gap: 7px;
+		margin: auto;
+		font-size: 32px;
+	  } 
+	  .rectangleDiv{
+		position: sticky;
+    top: 874px;
+    margin: auto;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 637px;
+    height: 692px;
+	  }
+	  .nwBobcatLane{
+		position: sticky;
+    text-transform: capitalize;
+    display: flex;
+    font-weight: 500;
+    top: 76px;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: auto;
+	  }
+
+	  .networth{
+		position: sticky;
+		top: 583px;
+		text-align: center;
+		font-size: 33px;
+		text-transform: capitalize;
+		font-weight: 500;
+		color: #ffe500;
+		left: 0;
+	  }
+	  .sebastianMathew{
+		position: sticky;
+    top: 488px;
+    text-align: center;
+    font-size: 38px;
+    text-transform: capitalize;
+    font-family: 'MonumentExtended-Regular';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+	left: 0;
+    -webkit-text-fill-color: transparent;
+	  }
+	  .frame{
+		position: absolute;
+    top: 1040px;
+    left: 205px;
+    width: 503px;
+    height: 456px;
+	  }
+	  .lineParent{
+		position: absolute;
+    top: -105px;
+    left: -73px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 48px;
+	  }
+	  .holdings{
+		position: sticky;
+    top: 1689px;
+    text-align: center;
+    font-size: 43px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+	  }
+	  .polygon31b1e7a0Parent{
+		position: absolute;
+		top: 2221px;
+		left: 188px;
+		border-radius: 10px;
+		border: 1px solid #474353;
+		display: flex;
+		flex-direction: row;
+		padding: 20px;
+		align-items: center;
+		justify-content: flex-start;
+		gap: 22px;
+	  }
+	  .bsc67e32b4cParent{
+		
+			position: absolute;
+			top: 2221px;
+			left: 465px;
+			border-radius: 10px;
+			border: 1px solid #474353;
+			display: flex;
+			flex-direction: row;
+			padding: 20px;
+			align-items: center;
+			justify-content: flex-start;
+			gap: 22px;
+		  
+	  }
+	  .homepageProfileChild3{
+		position: absolute;
+    top: 1775px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 1170px;
+    height: 638px;
+	left: 0;
+	  }
+  }
+
+
+
+/* Hide the navigation bar for screens 680px or less (optional) */
+
+@media (min-width: 100px) and (max-width: 600px){
+    .ipadprofile{
+        display: none;
+    }
+    .homepageProfile{
+        display: none;
+    }
+}
+@media (min-width: 601px) and (max-width: 700px){
+   
+    .homepageProfile{
+        display: none;
+    }
+    .ipadprofile{
+        display: none;
+    }
+    .mobile{
+        display: block;
+    }
+
+}
+
+@media (min-width: 701px) and (max-width: 1056px){
+    .ipadprofile{
+        display: block;
+    }
+   .mobile{
+    display: none;
+   }
+    .homepageProfile{
+        display: none;
+    }
+    .mobile{
+        display: none;
+    }
+}
+
+@media (min-width: 1057px) and (max-width: 5000px){
+    .ipadprofile{
+        display: none;
+    }
+    .homepageProfile{
+        display: block;
+    }
+    .mobile{
+        display: none;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  @media (min-width: 681px) {
+    .navbars {
+        display: none; /* Show the entire header */
+    }
+}
+
+/* Hide the navigation bar for screens 680px or less (optional) */
+@media (max-width: 680px) {
+    .navbars {
+        display: block; /* Hide the entire header */
+       
+    }
+}
+
+
+
+
+
+@media (min-width: 681px) {
+    .navbars {
+        display: none; /* Show the entire header */
+    }
+    
+}
+
+/* Hide the navigation bar for screens 680px or less (optional) */
+@media (max-width: 680px) {
+    .navbars {
+        display: block; /* Hide the entire header */
+       
+    }
+    .mobile{
+        display: block;
+    }
+}

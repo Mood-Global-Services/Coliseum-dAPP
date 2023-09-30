@@ -1,0 +1,3721 @@
+.stakeIpadPro1292Child {
+    position: absolute;
+    top: -235.84px;
+    left: calc(50% + 14.65px);
+    border-radius: 50%;
+    background-color: #000;
+    filter: blur(304px);
+    width: 855.45px;
+    height: 855.45px;
+    transform:  rotate(15deg);
+    transform-origin: 0 0;
+    opacity: 0.35;
+}
+.stakeIpadPro1292Item {
+    position: absolute;
+    bottom: 103px;
+    left: 126px;
+    width: 834px;
+    height: 834px;
+    object-fit: cover;
+}
+.joinOurCommunity1 {
+    position: absolute;
+    bottom: 209px;
+    left: 0px;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    width: 917px;
+}
+.diveIntoA1 {
+    position: absolute;
+    bottom: 110px;
+    left: 27px;
+    padding: 0 65px;
+    font-weight: bold;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 863px;
+}
+.groupChild {
+    position: absolute;
+    top: 202px;
+    left: 313px;
+    width: 292.33px;
+    height: 50px;
+    object-fit: cover;
+}
+.joinOurCommunityParent {
+    position: absolute;
+    bottom: 462px;
+    left: 84px;
+    width: 917px;
+    height: 252px;
+    text-align: center;
+    color: #ffe500;
+    padding-top: 10vh !important;
+}
+.circleBgIcon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 412px;
+    height: 461px;
+    object-fit: cover;
+}
+.maskGroupIcon {
+    position: absolute;
+    top: 26px;
+    left: 2%;
+    width: 90.24px;
+    height: 87.25px;
+    object-fit: cover;
+}
+.home {
+    position: relative;
+    text-transform: capitalize;
+}
+.trade {
+    position: relative;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+.stake {
+    position: relative;
+    text-transform: capitalize;
+    color: #ffe500;
+    cursor: pointer;
+}
+.homeParent {
+    position: absolute;
+    top: 60px;
+    left: 15%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 10px;
+    font-size: 16px;
+}
+.stakeIpadPro1292Inner {
+    position: absolute;
+    top: 52px;
+    left: 701px;
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    object-fit: cover;
+    cursor: pointer;
+}
+.mingcutewallet4FillIcon1 {
+    position: relative;
+    width: 23px;
+    height: 23px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.connectWallet {
+    position: absolute;
+    text-transform: uppercase;
+    font-weight: 500;
+    
+    font-size: 26px;
+
+}
+.mingcutewallet4FillParent {
+    position: absolute;
+    top: 49px;
+    left: 763.5px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    backdrop-filter: blur(12px);
+    display: flex;
+    flex-direction: row;
+    padding: 9px 16px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 14px;
+    color: #1f1330;
+}
+.unionIcon2 {
+    position: relative;
+    width: 20.31px;
+    height: 20.31px;
+    object-fit: cover;
+}
+.unionIcon3 {
+    position: relative;
+    width: 13.54px;
+    height: 13.54px;
+    object-fit: cover;
+}
+.partnersChild {
+    position: absolute;
+    bottom: 0px;
+    left: 286px;
+    width: 1024px;
+    height: 535px;
+    object-fit: cover;
+}
+.ourPartners {
+    position: absolute;
+    bottom: 362px;
+    left: 696px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.fuelingInnovationThrough1 {
+    position: absolute;
+    bottom: 282px;
+    left: 411px;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 773px;
+}
+.clipPathGroup5 {
+    position: relative;
+    width: 100.8px;
+    height: 56px;
+    object-fit: cover;
+}
+.maskGroupIcon1 {
+    position: relative;
+    width: 146px;
+    height: 25.96px;
+    object-fit: cover;
+}
+.clipPathGroup6 {
+    position: relative;
+    width: 115.9px;
+    height: 38px;
+    object-fit: cover;
+}
+.maskGroupIcon2 {
+    position: relative;
+    width: 150.62px;
+    height: 41.82px;
+    object-fit: cover;
+}
+.partnersLogosChild {
+    position: relative;
+    width: 141.83px;
+    height: 53.07px;
+    object-fit: cover;
+}
+.clipPathGroup7 {
+    position: relative;
+    width: 123.33px;
+    height: 40px;
+    object-fit: cover;
+}
+.frameIcon {
+    position: relative;
+    width: 118px;
+    height: 50px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.frameIcon1 {
+    position: relative;
+    width: 148px;
+    height: 22px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.partnersLogos {
+    position: absolute;
+    bottom: 130px;
+    left: 0px;
+    width: 1440px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 130px;
+}
+.partners {
+    position: absolute;
+    bottom: 848px;
+    left: -286px;
+    width: 1440px;
+    height: 535px;
+    text-align: center;
+    color: #ffe500;
+}
+.groupItem {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 1024px;
+    height: 328px;
+}
+.maskGroupIcon5 {
+    position: absolute;
+    bottom: 139px;
+    left: 303px;
+    width: 113.76px;
+    height: 110px;
+    object-fit: cover;
+}
+.mediaInquiresFor1 {
+    position: relative;
+    text-transform: capitalize;
+    opacity: 0.5;
+}
+.mediaInquiresForCmaxContParent {
+    position: absolute;
+    bottom: 0px;
+    left: 127.5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+.tradeParent {
+    position: absolute;
+    bottom: 88px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+}
+.maskGroupParent {
+    position: absolute;
+    bottom: 51px;
+    left: 152px;
+    width: 720px;
+    height: 249px;
+}
+.rectangleParent {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 1024px;
+    height: 328px;
+    text-align: center;
+    font-size: 20px;
+}
+.stakingBenefits {
+    position: absolute;
+    top: 257px;
+    left: calc(50% - 437px);
+    font-size: 50px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 900px;
+}
+.stakingInBlockchain1 {
+    position: absolute;
+    top: 347px;
+    left: 79px;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    display: inline-block;
+    width: 873px;
+}
+.vectorIcon2 {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+}
+.vectorParent {
+    position: absolute;
+    top: 187.5px;
+    left: 854px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 18px;
+    font-size: 20px;
+}
+.rectangleDiv {
+    position: absolute;
+    top: 509px;
+    left: 73px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 878px;
+    height: 250px;
+}
+.frameChild {
+    position: relative;
+    width: 49.81px;
+    height: 70px;
+    object-fit: cover;
+}
+.groupParent {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 26px;
+    cursor: pointer;
+}
+.groupIcon {
+    position: absolute;
+    height: 97.79%;
+    width: 97.35%;
+    top: 1.1%;
+    right: 1.49%;
+    bottom: 1.1%;
+    left: 1.16%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.loremIpsumDolor1 {
+    position: absolute;
+    height: 161.82%;
+    width: 319.15%;
+    top: 99.09%;
+    left: 88.34%;
+    line-height: 37px;
+    display: inline-block;
+}
+.frame4 {
+    position: relative;
+    width: 66.4px;
+    height: 70px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.networkSecurity {
+    position: relative;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.frameGroup {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 26px;
+    cursor: pointer;
+    text-align: left;
+    font-size: 22px;
+}
+.frameIcon2 {
+    position: relative;
+    width: 70px;
+    height: 70px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.groupIcon1 {
+    position: relative;
+    width: 63.9px;
+    height: 70px;
+    object-fit: cover;
+}
+.frameParent {
+    position: absolute;
+    top: 569px;
+    left: calc(50% - 430px);
+    width: 866px;
+    height: 143px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 22px;
+    text-align: center;
+    font-size: 20px;
+}
+.eparrowRightBoldIcon2 {
+    position: absolute;
+    top: 527px;
+    left: 916px;
+    width: 18px;
+    height: 18px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.eparrowRightBoldIcon3 {
+    position: absolute;
+    top: 527px;
+    left: 892px;
+    width: 18px;
+    height: 18px;
+    overflow: hidden;
+    object-fit: cover;
+    opacity: 0.4;
+}
+.stakeIpadPro1292Child1 {
+    position: absolute;
+    top: 963px;
+    left: 74px;
+    border-radius: 8px;
+    background: linear-gradient(180deg, #282531, rgba(40, 37, 49, 0));
+    backdrop-filter: blur(164px);
+    width: 878px;
+    height: 668px;
+}
+.stakingPool {
+    position: absolute;
+    top: 879px;
+    left: 75px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+    text-align: center;
+}
+.g {
+    position: relative;
+}
+.gWrapper {
+    border-radius: 6px;
+    background-color: #3e4057;
+    display: flex;
+    flex-direction: row;
+    padding: 2px 10px;
+    align-items: center;
+    justify-content: center;
+}
+.maxWrapper {
+    border-radius: 6px;
+    background-color: #ffe500;
+    display: flex;
+    flex-direction: row;
+    padding: 2px 10px;
+    align-items: center;
+    justify-content: center;
+    color: #363636;
+}
+.frameParent1 {
+    position: absolute;
+    top: 1551px;
+    left: 133px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 47px;
+    font-size: 16px;
+}
+.frameItem {
+    align-self: stretch;
+    position: relative;
+    border-top: 1px solid #3e3e3e;
+    box-sizing: border-box;
+    height: 1px;
+}
+.lineParent {
+    position: absolute;
+    top: 1075px;
+    left: 131px;
+    width: 764px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 50px;
+}
+.stakeIpadPro1292Child2 {
+    position: absolute;
+    top: 1121.55px;
+    left: 130.95px;
+    width: 763.62px;
+    height: 399.45px;
+    object-fit: cover;
+}
+.ellipseDiv {
+    position: relative;
+    border-radius: 50%;
+    background-color: #ff6868;
+    width: 12px;
+    height: 12px;
+}
+.ellipseParent {
+    position: absolute;
+    top: 0px;
+    left: 190px;
+    border-radius: 6px;
+    border: 1px solid #3e4057;
+    box-sizing: border-box;
+    width: 150px;
+    display: flex;
+    flex-direction: row;
+    padding: 8px 18px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.frameChild7 {
+    position: relative;
+    border-radius: 50%;
+    background-color: #0ce770;
+    width: 12px;
+    height: 12px;
+}
+.ellipseGroup {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 6px;
+    border: 1px solid #3e4057;
+    box-sizing: border-box;
+    width: 150px;
+    display: flex;
+    flex-direction: row;
+    padding: 8px 18px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.groupDiv {
+    position: absolute;
+    top: 997px;
+    left: 342px;
+    width: 340px;
+    height: 40px;
+    font-size: 20px;
+}
+.groupInner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1024px;
+    height: 229.69px;
+    object-fit: cover;
+}
+.claimRewards {
+    position: absolute;
+    top: 64.71px;
+    left: 678px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.totalAmountStake1 {
+    position: absolute;
+    top: 60.34px;
+    left: 100.27px;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    width: 192px;
+    height: 27.02px;
+}
+.apr {
+    position: relative;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 70px;
+    flex-shrink: 0;
+}
+.aprWrapper {
+    position: absolute;
+    top: 58.34px;
+    left: 301px;
+    border-radius: 7px;
+    background-color: #3e4057;
+    width: 97px;
+    height: 32px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px 40px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    text-align: right;
+    font-size: 20px;
+    color: #ffe500;
+}
+.cmax {
+    position: absolute;
+    top: 103.8px;
+    left: 100.27px;
+    font-size: 60px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #0ce770;
+}
+.antDesigndollarOutlinedIcon {
+    position: relative;
+    width: 68px;
+    height: 60px;
+    right: 100px;
+    overflow: hidden;
+    flex-shrink: 0;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+.antDesigndollarOutlinedParent {
+    position: absolute;
+    top: 106.67px;
+    left: 616px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    backdrop-filter: blur(12px);
+    width: 293.69px;
+    height: 63.29px;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 82px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 56px;
+    color: #1f1330;
+}
+.groupChild1 {
+    position: absolute;
+    top: 45.51px;
+    left: 511.5px;
+    width: 1px;
+    height: 139.38px;
+    object-fit: cover;
+}
+.vectorGroup {
+    position: absolute;
+    top: 1771.66px;
+    left: 0px;
+    width: 1024px;
+    height: 229.69px;
+    font-size: 26px;
+}
+.text14 {
+    position: absolute;
+    top: 2611px;
+    left: 312px;
+    font-size: 22px;
+    text-transform: capitalize;
+}
+.stakingStats {
+    position: absolute;
+    top: 0px;
+    left: 6px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.frameChild8 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 570px;
+    height: 449px;
+    display: none;
+}
+.frameChild9 {
+    position: absolute;
+    width: 100%;
+    top: 192.5px;
+    right: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 1px;
+    object-fit: cover;
+}
+.frameChild10 {
+    position: absolute;
+    width: 100%;
+    top: 268.5px;
+    right: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 1px;
+    object-fit: cover;
+}
+.frameChild11 {
+    position: absolute;
+    width: 100%;
+    top: 348.5px;
+    right: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 1px;
+    object-fit: cover;
+}
+.topHolders {
+    position: absolute;
+    top: 49px;
+    left: calc(50% - 77.5px);
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.wrapper {
+    border-radius: 50px;
+    background-color: #ffe500;
+    display: flex;
+    flex-direction: column;
+    padding: 6px 14px;
+    align-items: center;
+    justify-content: center;
+}
+.div {
+    position: relative;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    color: #fff;
+}
+.frameParent3 {
+    position: absolute;
+    top: 137px;
+    left: 32px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 18px;
+    color: #282531;
+}
+.container {
+    border-radius: 50px;
+    background-color: #5f5a6b;
+    display: flex;
+    flex-direction: column;
+    padding: 6px 13px;
+    align-items: center;
+    justify-content: center;
+}
+.div1 {
+    position: relative;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+}
+.frameParent4 {
+    position: absolute;
+    top: 214px;
+    left: 32px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 18px;
+}
+.frameParent5 {
+    position: absolute;
+    top: 291px;
+    left: 32px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 18px;
+}
+.frameParent6 {
+    position: absolute;
+    top: 377px;
+    left: 32px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 18px;
+}
+.div4 {
+    position: absolute;
+    top: 143px;
+    right: 29px;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    color: #ffe500;
+}
+.div5 {
+    position: absolute;
+    top: 220px;
+    right: 27px;
+    font-size: 22px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.div6 {
+    position: absolute;
+    top: 297px;
+    right: 29px;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+}
+.div7 {
+    position: absolute;
+    top: 383px;
+    right: 27px;
+    font-size: 22px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.frameChild12 {
+    position: absolute;
+    top: 27px;
+    right: 29px;
+    width: 18.71px;
+    height: 18.71px;
+    object-fit: cover;
+}
+.rectangleGroup {
+    position: relative;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 433px;
+    height: 449px;
+}
+.groupChild2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    backdrop-filter: blur(46px);
+    width: 430px;
+    height: 443px;
+}
+.vectorIcon3 {
+    position: relative;
+    width: 22px;
+    height: 13.58px;
+    object-fit: cover;
+}
+.vectorContainer {
+    position: absolute;
+    top: 42px;
+    left: 362.5px;
+    width: 45.5px;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: flex-end;
+    gap: 10px;
+}
+.frameIcon3 {
+    position: absolute;
+    top: 101px;
+    left: 21.23px;
+    width: 387.53px;
+    height: 252px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.cmaxPrice {
+    position: absolute;
+    top: 36px;
+    left: 24.41px;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: 'Monument Extended';
+    text-align: left;
+}
+.rectangleContainer {
+    position: relative;
+    width: 430px;
+    height: 443px;
+    cursor: pointer;
+    text-align: right;
+}
+.frameParent2 {
+    position: absolute;
+    top: 86px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+    text-align: left;
+    font-size: 20px;
+    color: #fff;
+}
+.stakingStatsParent {
+    position: absolute;
+    top: 2142px;
+    left: 69px;
+    width: 883px;
+    height: 535px;
+    text-align: center;
+    color: #ffe500;
+}
+.stakeIpadPro1292 {
+    position: relative;
+    background: linear-gradient(180deg, #201d26, #1d1b20);
+    width: 100%;
+    height: 3730px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 36px;
+    color: #fff;
+    font-family: 'Neue Montreal';
+
+}
+@media (min-width: 601px) and (max-width: 611px){
+    .stakingBenefits{
+        position: absolute;
+    top: 257px;
+    padding: 0 0 0 10px;
+    font-size: 37px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 900px;
+    left: 0;
+    }
+    .stakeIpadPro1292 {
+        position: relative;
+        background: linear-gradient(180deg, #201d26, #1d1b20);
+        width: 100%;
+        height: 4300px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 36px;
+        color: #fff;
+        font-family: 'Neue Montreal';
+    
+    }
+    .mingcutewallet4FillParent{
+        position: absolute;
+        top: 49px;
+        left: 407.5px;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+        display: flex;
+        flex-direction: row;
+        padding: 9px 15px;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        font-size: 14px;
+        color: #1f1330;
+    }
+    .homeParent{
+        position: absolute;
+    top: 60px;
+    left: 163px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 23px;
+    font-size: 16px;
+    }
+    .stakingInBlockchain1{
+        position: absolute;
+    top: 347px;
+    padding: 0 0 0 10px;
+    font-size: 18px;
+    left: 0;
+    line-height: 36px;
+    display: inline-block;
+    width: 508px;
+    }
+    .frameParent{
+        position: absolute;
+    top: 569px;
+    left: calc(71% - 430px);
+    width: 820px;
+    height: 143px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: -27px;
+    text-align: center;
+    font-size: 20px;
+    }
+    .aprWrapper{
+        position: absolute;
+    top: 58.34px;
+    left: 227px;
+    border-radius: 7px;
+    background-color: #3e4057;
+    width: 97px;
+    height: 32px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px 40px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    text-align: right;
+    font-size: 20px;
+    color: #ffe500;
+    }
+    .totalAmountStake1{
+        position: absolute;
+    top: 60.34px;
+    left: 25.27px;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    width: 192px;
+    height: 27.02px;
+    }
+    .claimRewards{
+        position: absolute;
+        top: 64.71px;
+        left: 352px;
+        text-transform: capitalize;
+        font-weight: 500;
+    }
+    .antDesigndollarOutlinedParent{
+        position: absolute;
+    top: 106.67px;
+    left: 334px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    width: 293.69px;
+    height: 63.29px;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 82px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 56px;
+    color: #1f1330;
+    }
+    .groupChild2{
+        position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 261px;
+    height: 443px;
+    }
+    .tradeParent{
+        position: absolute;
+    bottom: 88px;
+    left: 185px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+
+    }
+    .maskGroupParent{
+        position: absolute;
+    bottom: 51px;
+    left: -32px;
+    width: 720px;
+    height: 249px;
+
+    }
+    .diveIntoA1{
+        position: absolute;
+    bottom: 110px;
+    left: 175px;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 551px;
+    }
+    .joinOurCommunityParent{
+        position: absolute;
+    bottom: 462px;
+    left: -136px;
+    width: 917px;
+    height: 252px;
+    text-align: center;
+    color: #ffe500;
+
+    }
+    .stakeIpadPro1292Item{
+        position: absolute;
+        bottom: 103px;
+        left: 1px;
+        width: 834px;
+        height: 834px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+    .frameIcon3{
+        position: absolute;
+    top: 101px;
+    left: 21.23px;
+    width: 219.53px;
+    height: 252px;
+    overflow: hidden;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .rectangleGroup{
+        position: relative;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 316px;
+    height: 449px;
+    }
+    .stakingStatsParent{
+        position: absolute;
+    top: 2142px;
+    left: 8px;
+    width: 883px;
+    height: 535px;
+    text-align: center;
+    color: #ffe500;
+    }
+    .cmax{
+        position: absolute;
+        top: 103.8px;
+        left: 22.27px;
+        font-size: 47px;
+        text-transform: uppercase;
+        font-weight: 500;
+        color: #0ce770;
+
+    }
+    .frameParent1{
+        position: absolute;
+    top: 1551px;
+    display: flex;
+    left: 0;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 25px;
+    font-size: 16px;
+    }
+    .lineParent{
+        position: absolute;
+    top: 1075px;
+    width: 764px;
+    display: flex;
+    left: 0;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 50px;
+    }
+    .groupDiv{
+        position: absolute;
+    top: 997px;
+    left: 130px;
+    width: 340px;
+    height: 40px;
+    font-size: 20px;
+    }
+    .stakeIpadPro1292Child1{
+        position: absolute;
+    top: 963px;
+    border-radius: 8px;
+    left: 0;
+    background: linear-gradient(180deg, #282531, rgba(40, 37, 49, 0));
+    -webkit-backdrop-filter: blur(164px);
+    backdrop-filter: blur(164px);
+    width: 878px;
+    height: 668px;
+    }
+    .stakingPool{
+        position: absolute;
+        top: 879px;
+        padding: 0 0 0 20px;
+        text-transform: capitalize;
+        font-weight: 500;
+        color: #ffe500;
+        left:  0;
+        font-size: 30px;
+        text-align: center;
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 509px;
+        left: 8px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 587px;
+        height: 250px;
+    }
+}
+
+@media (min-width: 612px) and (max-width: 640px){
+    .stakingBenefits{
+        position: absolute;
+    top: 257px;
+    padding: 0 0 0 10px;
+    font-size: 37px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 900px;
+    left: 0;
+    }
+    .stakeIpadPro1292 {
+        position: relative;
+        background: linear-gradient(180deg, #201d26, #1d1b20);
+        width: 100%;
+        height: 4300px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 36px;
+        color: #fff;
+        font-family: 'Neue Montreal';
+    
+    }
+    .mingcutewallet4FillParent{
+        position: absolute;
+        top: 49px;
+        left: 334.5px;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+        display: flex;
+        flex-direction: row;
+        padding: 9px 15px;
+        align-items: center;
+        justify-content: center;
+        gap: 0;
+        width: 30%;
+        font-size: 14px;
+        color: #1f1330;
+    }
+    .mingcutewallet4FillLang {
+        position: absolute;
+        top: 51px;
+        left: calc(24% + 364px);
+        border-radius: 10px;
+        display: flex;
+        flex-direction: row;
+        padding: 11px 22px;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        font-size: 16px;
+    }
+    .maskGroupIcon{
+        position: absolute;
+    top: 26px;
+    left: -3.24px;
+    width: 90.24px;
+    height: 87.25px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .homeParent{
+        position: absolute;
+        top: 60px;
+        left: 86px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-evenly;
+        gap: 0;
+        font-size: 16px;
+    }
+  
+    .stakingInBlockchain1{
+        position: absolute;
+    top: 347px;
+    padding: 0 0 0 10px;
+    font-size: 18px;
+    left: 0;
+    line-height: 36px;
+    display: inline-block;
+    width: 508px;
+    }
+    .frameParent{
+        position: absolute;
+    top: 569px;
+    left: calc(71% - 430px);
+    width: 820px;
+    height: 143px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: -27px;
+    text-align: center;
+    font-size: 20px;
+    }
+    .aprWrapper{
+        position: absolute;
+    top: 58.34px;
+    left: 227px;
+    border-radius: 7px;
+    background-color: #3e4057;
+    width: 97px;
+    height: 32px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px 40px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    text-align: right;
+    font-size: 20px;
+    color: #ffe500;
+    }
+    .totalAmountStake1{
+        position: absolute;
+    top: 60.34px;
+    left: 25.27px;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    width: 192px;
+    height: 27.02px;
+    }
+    .claimRewards{
+        position: absolute;
+        top: 64.71px;
+        left: 352px;
+        text-transform: capitalize;
+        font-weight: 500;
+    }
+    .antDesigndollarOutlinedParent{
+        position: absolute;
+    top: 106.67px;
+    left: 334px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    width: 293.69px;
+    height: 63.29px;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 82px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 56px;
+    color: #1f1330;
+    }
+    .groupChild2{
+        position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 261px;
+    height: 443px;
+    }
+    .tradeParent{
+        position: absolute;
+    bottom: 88px;
+    left: 185px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+
+    }
+    .maskGroupParent{
+        position: absolute;
+    bottom: 51px;
+    left: -32px;
+    width: 720px;
+    height: 249px;
+
+    }
+    .diveIntoA1{
+        position: absolute;
+    bottom: 110px;
+    left: 175px;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 551px;
+    }
+    .joinOurCommunityParent{
+        position: absolute;
+    bottom: 462px;
+    left: -136px;
+    width: 917px;
+    height: 252px;
+    text-align: center;
+    color: #ffe500;
+
+    }
+    .stakeIpadPro1292Item{
+        position: absolute;
+        bottom: 103px;
+        left: 1px;
+        width: 834px;
+        height: 834px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+    .frameIcon3{
+        position: absolute;
+    top: 101px;
+    left: 21.23px;
+    width: 219.53px;
+    height: 252px;
+    overflow: hidden;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .rectangleGroup{
+        position: relative;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 316px;
+    height: 449px;
+    }
+    .stakingStatsParent{
+        position: absolute;
+    top: 2142px;
+    left: 8px;
+    width: 883px;
+    height: 535px;
+    text-align: center;
+    color: #ffe500;
+    }
+    .cmax{
+        position: absolute;
+        top: 103.8px;
+        left: 22.27px;
+        font-size: 47px;
+        text-transform: uppercase;
+        font-weight: 500;
+        color: #0ce770;
+
+    }
+    .frameParent1{
+        position: absolute;
+    top: 1551px;
+    display: flex;
+    left: 0;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 25px;
+    font-size: 16px;
+    }
+    .lineParent{
+        position: absolute;
+    top: 1075px;
+    width: 764px;
+    display: flex;
+    left: 0;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 50px;
+    }
+    .groupDiv{
+        position: absolute;
+    top: 997px;
+    left: 130px;
+    width: 340px;
+    height: 40px;
+    font-size: 20px;
+    }
+    .stakeIpadPro1292Child1{
+        position: absolute;
+    top: 963px;
+    border-radius: 8px;
+    left: 0;
+    background: linear-gradient(180deg, #282531, rgba(40, 37, 49, 0));
+    -webkit-backdrop-filter: blur(164px);
+    backdrop-filter: blur(164px);
+    width: 878px;
+    height: 668px;
+    }
+    .stakingPool{
+        position: absolute;
+        top: 879px;
+        padding: 0 0 0 20px;
+        text-transform: capitalize;
+        font-weight: 500;
+        color: #ffe500;
+        left:  0;
+        font-size: 30px;
+        text-align: center;
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 509px;
+        left: 8px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 626px;
+        height: 250px;
+    }
+}
+
+
+
+@media (min-width: 641px) and (max-width: 689px){
+    .stakingBenefits{
+        position: absolute;
+    top: 257px;
+    padding: 0 0 0 10px;
+    font-size: 37px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 900px;
+    left: 0;
+    }
+    .stakeIpadPro1292 {
+        position: relative;
+        background: linear-gradient(180deg, #201d26, #1d1b20);
+        width: 100%;
+        height: 4300px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 36px;
+        color: #fff;
+        font-family: 'Neue Montreal';
+    
+    }
+    .mingcutewallet4FillParent{
+        position: absolute;
+        top: 49px;
+        left: 342.5px;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+        display: flex;
+        flex-direction: row;
+        padding: 9px 15px;
+        align-items: center;
+        justify-content: center;
+        gap: 0;
+        width: 30%;
+        font-size: 14px;
+        color: #1f1330;
+    }
+    .mingcutewallet4FillLang {
+        position: absolute;
+        top: 51px;
+        left: calc(27% + 364px);
+        border-radius: 10px;
+        display: flex;
+        flex-direction: row;
+        padding: 11px 22px;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        font-size: 16px;
+    }
+    .maskGroupIcon{
+        position: absolute;
+    top: 26px;
+    left: -3.24px;
+    width: 90.24px;
+    height: 87.25px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .homeParent{
+        position: absolute;
+        top: 60px;
+        left: 86px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-evenly;
+        gap: 0;
+        font-size: 16px;
+    }
+    .stakingInBlockchain1{
+        position: absolute;
+    top: 347px;
+    padding: 0 0 0 10px;
+    font-size: 18px;
+    left: 0;
+    line-height: 36px;
+    display: inline-block;
+    width: 508px;
+    }
+    .frameParent{
+        position: absolute;
+    top: 569px;
+    left: calc(71% - 430px);
+    width: 820px;
+    height: 143px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: -27px;
+    text-align: center;
+    font-size: 20px;
+    }
+    .aprWrapper{
+        position: absolute;
+    top: 58.34px;
+    left: 227px;
+    border-radius: 7px;
+    background-color: #3e4057;
+    width: 97px;
+    height: 32px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px 40px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    text-align: right;
+    font-size: 20px;
+    color: #ffe500;
+    }
+    .totalAmountStake1{
+        position: absolute;
+    top: 60.34px;
+    left: 25.27px;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    width: 192px;
+    height: 27.02px;
+    }
+    .claimRewards{
+        position: absolute;
+        top: 64.71px;
+        left: 352px;
+        text-transform: capitalize;
+        font-weight: 500;
+    }
+    .antDesigndollarOutlinedParent{
+        position: absolute;
+    top: 106.67px;
+    left: 334px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    width: 293.69px;
+    height: 63.29px;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 82px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 56px;
+    color: #1f1330;
+    }
+    .groupChild2{
+        position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 261px;
+    height: 443px;
+    }
+    .tradeParent{
+        position: absolute;
+    bottom: 88px;
+    left: 185px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+
+    }
+    .maskGroupParent{
+        position: absolute;
+        bottom: 51px;
+        left: -16px;
+        width: 720px;
+        height: 249px;
+    
+    }
+    .diveIntoA1{
+        position: absolute;
+    bottom: 110px;
+    left: 175px;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 551px;
+    }
+    .joinOurCommunityParent{
+        position: absolute;
+        bottom: 462px;
+        left: -120px;
+        width: 917px;
+        height: 252px;
+        text-align: center;
+        color: #ffe500;
+    
+
+    }
+    .stakeIpadPro1292Item{
+        position: absolute;
+        bottom: 103px;
+        left: 1px;
+        width: 834px;
+        height: 834px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+    .frameIcon3{
+        position: absolute;
+    top: 101px;
+    left: 21.23px;
+    width: 219.53px;
+    height: 252px;
+    overflow: hidden;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .rectangleGroup{
+        position: relative;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 316px;
+    height: 449px;
+    }
+    .stakingStatsParent{
+        position: absolute;
+    top: 2142px;
+    left: 8px;
+    width: 883px;
+    height: 535px;
+    text-align: center;
+    color: #ffe500;
+    }
+    .cmax{
+        position: absolute;
+        top: 103.8px;
+        left: 22.27px;
+        font-size: 47px;
+        text-transform: uppercase;
+        font-weight: 500;
+        color: #0ce770;
+
+    }
+    .frameParent1{
+        position: absolute;
+        top: 1551px;
+        display: flex;
+        left: 0;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 31px;
+        font-size: 16px;
+    }
+    .lineParent{
+        position: absolute;
+    top: 1075px;
+    width: 764px;
+    display: flex;
+    left: 0;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 50px;
+    }
+    .groupDiv{
+        position: absolute;
+    top: 997px;
+    left: 130px;
+    width: 340px;
+    height: 40px;
+    font-size: 20px;
+    }
+    .stakeIpadPro1292Child1{
+        position: absolute;
+    top: 963px;
+    border-radius: 8px;
+    left: 0;
+    background: linear-gradient(180deg, #282531, rgba(40, 37, 49, 0));
+    -webkit-backdrop-filter: blur(164px);
+    backdrop-filter: blur(164px);
+    width: 878px;
+    height: 668px;
+    }
+    .stakingPool{
+        position: absolute;
+        top: 879px;
+        padding: 0 0 0 20px;
+        text-transform: capitalize;
+        font-weight: 500;
+        color: #ffe500;
+        left:  0;
+        font-size: 30px;
+        text-align: center;
+    }
+    .frameParent2{
+        position: absolute;
+    top: 86px;
+    left: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+    text-align: left;
+    font-size: 20px;
+    color: #fff;
+    }
+    .frameIcon3{
+        position: absolute;
+    top: 101px;
+    left: 21.23px;
+    width: 255.53px;
+    height: 252px;
+    overflow: hidden;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .groupChild2{
+        position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 298px;
+    height: 443px;
+
+    }
+    .rectangleDiv{
+        position: absolute;
+    top: 509px;
+    left: 8px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 664px;
+    height: 250px;
+    }
+}
+
+
+
+
+@media (min-width: 690px) and (max-width: 740px){
+    .stakingBenefits{
+        position: absolute;
+    top: 257px;
+    padding: 0 0 0 10px;
+    font-size: 37px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 900px;
+    left: 0;
+    }
+    .stakeIpadPro1292 {
+        position: relative;
+        background: linear-gradient(180deg, #201d26, #1d1b20);
+        width: 100%;
+        height: 4300px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 36px;
+        color: #fff;
+        font-family: 'Neue Montreal';
+    
+    }
+    .mingcutewallet4FillParent{
+        position: absolute;
+        top: 49px;
+        left: 342.5px;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+        display: flex;
+        flex-direction: row;
+        padding: 9px 15px;
+        align-items: center;
+        justify-content: center;
+        gap: 0;
+        width: 30%;
+        font-size: 14px;
+        color: #1f1330;
+    }
+    .mingcutewallet4FillLang {
+        position: absolute;
+        top: 51px;
+        left: calc(27% + 364px);
+        border-radius: 10px;
+        display: flex;
+        flex-direction: row;
+        padding: 11px 22px;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        font-size: 16px;
+    }
+    .maskGroupIcon{
+        position: absolute;
+    top: 26px;
+    left: -3.24px;
+    width: 90.24px;
+    height: 87.25px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .homeParent{
+        position: absolute;
+        top: 60px;
+        left: 86px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-evenly;
+        gap: 0;
+        font-size: 16px;
+    }
+    
+    .stakingInBlockchain1{
+        position: absolute;
+    top: 347px;
+    padding: 0 0 0 10px;
+    font-size: 18px;
+    left: 0;
+    line-height: 36px;
+    display: inline-block;
+    width: 508px;
+    }
+    .frameParent{
+        position: absolute;
+    top: 569px;
+    left: calc(71% - 430px);
+    width: 820px;
+    height: 143px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: -27px;
+    text-align: center;
+    font-size: 20px;
+    }
+    .aprWrapper{
+        position: absolute;
+    top: 58.34px;
+    left: 227px;
+    border-radius: 7px;
+    background-color: #3e4057;
+    width: 97px;
+    height: 32px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px 40px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    text-align: right;
+    font-size: 20px;
+    color: #ffe500;
+    }
+    .totalAmountStake1{
+        position: absolute;
+    top: 60.34px;
+    left: 25.27px;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    width: 192px;
+    height: 27.02px;
+    }
+    .claimRewards{
+        position: absolute;
+        top: 64.71px;
+        left: 352px;
+        text-transform: capitalize;
+        font-weight: 500;
+    }
+    .antDesigndollarOutlinedParent{
+        position: absolute;
+    top: 106.67px;
+    left: 334px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    width: 293.69px;
+    height: 63.29px;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 82px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 56px;
+    color: #1f1330;
+    }
+    .groupChild2{
+        position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 261px;
+    height: 443px;
+    }
+    .tradeParent{
+        position: absolute;
+    bottom: 88px;
+    left: 185px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+
+    }
+    .maskGroupParent{
+        position: absolute;
+        bottom: 51px;
+        left: 19px;
+        width: 720px;
+        height: 249px;
+    
+    }
+    .diveIntoA1{
+        position: absolute;
+    bottom: 110px;
+    left: 175px;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 551px;
+    }
+    .joinOurCommunityParent{
+        position: absolute;
+        bottom: 462px;
+        left: -88px;
+        width: 917px;
+        height: 252px;
+        text-align: center;
+        color: #ffe500;
+    
+
+    }
+    .stakeIpadPro1292Item{
+        position: absolute;
+        bottom: 103px;
+        left: 1px;
+        width: 834px;
+        height: 834px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+    .frameIcon3{
+        position: absolute;
+    top: 101px;
+    left: 21.23px;
+    width: 219.53px;
+    height: 252px;
+    overflow: hidden;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .rectangleGroup{
+        position: relative;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 316px;
+    height: 449px;
+    }
+    .stakingStatsParent{
+        position: absolute;
+    top: 2142px;
+    left: 8px;
+    width: 883px;
+    height: 535px;
+    text-align: center;
+    color: #ffe500;
+    }
+    .cmax{
+        position: absolute;
+        top: 103.8px;
+        left: 22.27px;
+        font-size: 47px;
+        text-transform: uppercase;
+        font-weight: 500;
+        color: #0ce770;
+
+    }
+    .frameParent1{
+        position: absolute;
+        top: 1551px;
+        display: flex;
+        left: 0;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 39px;
+        font-size: 16px;
+    }
+    .lineParent{
+        position: absolute;
+    top: 1075px;
+    width: 764px;
+    display: flex;
+    left: 0;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 50px;
+    }
+    .groupDiv{
+        position: absolute;
+    top: 997px;
+    left: 130px;
+    width: 340px;
+    height: 40px;
+    font-size: 20px;
+    }
+    .stakeIpadPro1292Child1{
+        position: absolute;
+    top: 963px;
+    border-radius: 8px;
+    left: 0;
+    background: linear-gradient(180deg, #282531, rgba(40, 37, 49, 0));
+    -webkit-backdrop-filter: blur(164px);
+    backdrop-filter: blur(164px);
+    width: 878px;
+    height: 668px;
+    }
+    .stakingPool{
+        position: absolute;
+        top: 879px;
+        padding: 0 0 0 20px;
+        text-transform: capitalize;
+        font-weight: 500;
+        color: #ffe500;
+        left:  0;
+        font-size: 30px;
+        text-align: center;
+    }
+    .frameParent2{
+        position: absolute;
+    top: 86px;
+    left: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+    text-align: left;
+    font-size: 20px;
+    color: #fff;
+    }
+    .frameIcon3{
+        position: absolute;
+        top: 101px;
+        left: 28.23px;
+        width: 294.53px;
+        height: 252px;
+        overflow: hidden;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+    .groupChild2{
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 356px;
+        height: 443px;
+
+    }
+    .rectangleDiv{
+        position: absolute;
+    top: 509px;
+    left: 8px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 717px;
+    height: 250px;
+    }
+}
+
+
+
+@media (min-width: 741px) and (max-width: 767px){
+    .stakingBenefits{
+        position: absolute;
+    top: 257px;
+    padding: 0 0 0 10px;
+    font-size: 37px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 900px;
+    left: 0;
+    }
+    .stakeIpadPro1292 {
+        position: relative;
+        background: linear-gradient(180deg, #201d26, #1d1b20);
+        width: 100%;
+        height: 4300px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 36px;
+        color: #fff;
+        font-family: 'Neue Montreal';
+    
+    }
+    .mingcutewallet4FillParent{
+        position: absolute;
+        top: 49px;
+        left: 380.5px;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+        display: flex;
+        flex-direction: row;
+        padding: 9px 15px;
+        align-items: center;
+        justify-content: center;
+        gap: 0;
+        width: 30%;
+        font-size: 14px;
+        color: #1f1330;
+    }
+    .mingcutewallet4FillLang {
+        position: absolute;
+        top: 51px;
+        left: calc(32% + 364px);
+        border-radius: 10px;
+        display: flex;
+        flex-direction: row;
+        padding: 11px 22px;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        font-size: 16px;
+    }
+    .maskGroupIcon{
+        position: absolute;
+    top: 26px;
+    left: -3.24px;
+    width: 90.24px;
+    height: 87.25px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .homeParent{
+        position: absolute;
+        top: 60px;
+        left: 86px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-evenly;
+        gap: 0;
+        font-size: 16px;
+    }
+    .stakingInBlockchain1{
+        position: absolute;
+    top: 347px;
+    padding: 0 0 0 10px;
+    font-size: 18px;
+    left: 0;
+    line-height: 36px;
+    display: inline-block;
+    width: 508px;
+    }
+    .frameParent{
+        position: absolute;
+    top: 569px;
+    left: calc(68% - 430px);
+    width: 820px;
+    height: 143px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: -27px;
+    text-align: center;
+    font-size: 20px;
+
+    }
+    .aprWrapper{
+        position: absolute;
+    top: 58.34px;
+    left: 227px;
+    border-radius: 7px;
+    background-color: #3e4057;
+    width: 97px;
+    height: 32px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px 40px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    text-align: right;
+    font-size: 20px;
+    color: #ffe500;
+    }
+    .totalAmountStake1{
+        position: absolute;
+    top: 60.34px;
+    left: 25.27px;
+    font-size: 22px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    width: 192px;
+    height: 27.02px;
+    }
+    .claimRewards{
+        position: absolute;
+        top: 64.71px;
+        left: 352px;
+        text-transform: capitalize;
+        font-weight: 500;
+    }
+    .antDesigndollarOutlinedParent{
+        position: absolute;
+    top: 106.67px;
+    left: 334px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    width: 293.69px;
+    height: 63.29px;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 82px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 56px;
+    color: #1f1330;
+    }
+    .groupChild2{
+        position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 261px;
+    height: 443px;
+    }
+    .tradeParent{
+        position: absolute;
+    bottom: 88px;
+    left: 185px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+
+    }
+    .maskGroupParent{
+        position: absolute;
+        bottom: 51px;
+        left: 40px;
+        width: 720px;
+        height: 249px;
+    
+    
+    }
+    .frameChild12{
+        display: none;
+    }
+    .diveIntoA1{
+        position: absolute;
+    bottom: 110px;
+    left: 175px;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 551px;
+    }
+    .joinOurCommunityParent{
+        position: absolute;
+    bottom: 462px;
+    left: -74px;
+    width: 917px;
+    height: 252px;
+    text-align: center;
+    color: #ffe500;
+
+
+    }
+    .stakeIpadPro1292Item{
+        position: absolute;
+        bottom: 103px;
+        left: 1px;
+        width: 834px;
+        height: 834px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+    .frameIcon3{
+        position: absolute;
+    top: 101px;
+    left: 21.23px;
+    width: 219.53px;
+    height: 252px;
+    overflow: hidden;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .rectangleGroup{
+        position: relative;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 316px;
+    height: 449px;
+    }
+    .stakingStatsParent{
+        position: absolute;
+    top: 2142px;
+    left: 8px;
+    width: 883px;
+    height: 535px;
+    text-align: center;
+    color: #ffe500;
+    }
+    .cmax{
+        position: absolute;
+        top: 103.8px;
+        left: 22.27px;
+        font-size: 47px;
+        text-transform: uppercase;
+        font-weight: 500;
+        color: #0ce770;
+
+    }
+    .frameParent1{
+        position: absolute;
+        top: 1551px;
+        display: flex;
+        left: 0;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 76px;
+        font-size: 16px;
+    }
+    .lineParent{
+        position: absolute;
+    top: 1075px;
+    width: 764px;
+    display: flex;
+    left: 0;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 50px;
+    }
+    .g{
+        display: none;
+    }
+    .groupDiv{
+        position: absolute;
+        top: 997px;
+        left: 205px;
+        width: 340px;
+        height: 40px;
+        font-size: 20px;
+    }
+    .stakeIpadPro1292Child1{
+        position: absolute;
+    top: 963px;
+    border-radius: 8px;
+    left: 0;
+    background: linear-gradient(180deg, #282531, rgba(40, 37, 49, 0));
+    -webkit-backdrop-filter: blur(164px);
+    backdrop-filter: blur(164px);
+    width: 878px;
+    height: 668px;
+    }
+    .stakingPool{
+        position: absolute;
+        top: 879px;
+        padding: 0 0 0 20px;
+        text-transform: capitalize;
+        font-weight: 500;
+        color: #ffe500;
+        left:  0;
+        font-size: 30px;
+        text-align: center;
+    }
+    .frameParent2{
+        position: absolute;
+        top: 86px;
+        left: 32px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 20px;
+        text-align: left;
+        font-size: 20px;
+        color: #fff;
+    }
+    .stakingStats{
+        position: absolute;
+    top: 0px;
+    left: 28px;
+    text-transform: capitalize;
+    font-weight: 500;
+
+    }
+    .frameIcon3{
+        position: absolute;
+        top: 101px;
+        left: 28.23px;
+        width: 294.53px;
+        height: 252px;
+        overflow: hidden;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+    .groupChild2{
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 356px;
+        height: 443px;
+
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 509px;
+        left: 8px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 750px;
+        height: 250px;
+    
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 800px){
+    .mingcutewallet4FillParent{
+        position: absolute;
+        top: 49px;
+        left: 457.5px;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+        display: flex;
+        flex-direction: row;
+        padding: 9px 0px;
+        align-items: center;
+        justify-content: center;
+        gap: -4px;
+        font-size: 14px;
+        color: #1f1330;
+    
+      }
+    
+      .mingcutewallet4FillLang {
+        position: absolute;
+        top: 51px;
+        left: calc(36% + 390px);
+        border-radius: 10px;
+        display: flex;
+        flex-direction: row;
+        padding: 11px 22px;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        font-size: 16px;
+    }
+    .stakeIpadPro1292 {
+        position: relative;
+        background: linear-gradient(180deg, #201d26, #1d1b20);
+        width: 100%;
+        height: 4300px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 36px;
+        color: #fff;
+        font-family: 'Neue Montreal';
+    
+    }
+    .groupDiv{
+        position: absolute;
+    top: 997px;
+    left: 211px;
+    width: 340px;
+    height: 40px;
+    font-size: 20px;
+    }
+    .antDesigndollarOutlinedParent{
+        position: absolute;
+    top: 106.67px;
+    left: 495px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    width: 293.69px;
+    height: 63.29px;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 82px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 56px;
+    color: #1f1330;
+    }
+    .claimRewards{
+        position: absolute;
+        top: 58.71px;
+        left: 554px;
+        text-transform: capitalize;
+        font-weight: 500;
+    }
+    .maskGroupParent{
+        position: absolute;
+    bottom: 51px;
+    left: 55px;
+    width: 720px;
+    height: 249px;
+    }
+    .joinOurCommunityParent{
+        position: absolute;
+    bottom: 462px;
+    left: -42px;
+    width: 917px;
+    height: 252px;
+    text-align: center;
+    color: #ffe500;
+    }
+    .stakeIpadPro1292Item{
+        position: absolute;
+        bottom: 103px;
+        left: 17px;
+        width: 834px;
+        height: 834px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    
+    }
+    .frameIcon3{
+        position: absolute;
+    top: 101px;
+    left: 21.23px;
+    width: 281.53px;
+    height: 252px;
+    overflow: hidden;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .groupChild2{
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 322px;
+        height: 443px;
+    }
+    .stakingStatsParent{
+        position: absolute;
+    top: 2142px;
+    left: 11px;
+    width: 883px;
+    height: 535px;
+    text-align: center;
+    color: #ffe500;
+    }
+    .lineParent{
+        position: absolute;
+    top: 1075px;
+    left: 14px;
+    width: 764px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 50px;
+    }
+    .frameParent1{
+        position: absolute;
+    top: 1551px;
+    left: 9px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 47px;
+    font-size: 16px;
+    }
+    .stakeIpadPro1292Child1{
+        position: absolute;
+    top: 963px;
+    left: 8px;
+    border-radius: 8px;
+    background: linear-gradient(180deg, #282531, rgba(40, 37, 49, 0));
+    -webkit-backdrop-filter: blur(164px);
+    backdrop-filter: blur(164px);
+    width: 779px;
+    height: 668px;
+    }
+    .stakingPool{
+        position: absolute;
+    top: 879px;
+    left: 29px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+    text-align: center;
+    }
+    .frameParent{
+        position: absolute;
+    top: 569px;
+    left: calc(53% - 430px);
+    width: 866px;
+    height: 143px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 13px;
+    text-align: center;
+    font-size: 20px;
+    }
+    .rectangleDiv{
+        position: absolute;
+    top: 509px;
+    left: 8px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 778px;
+    height: 250px;
+    }
+    .stakingInBlockchain1{
+        position: absolute;
+    top: 347px;
+    left: 31px;
+    font-size: 24px;
+    line-height: 36px;
+    display: inline-block;
+    width: 730px;
+    }
+    .stakingBenefits{
+        position: absolute;
+    top: 257px;
+    left: calc(58% - 437px);
+    font-size: 50px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 900px;
+    }
+}
+
+
+@media (min-width: 801px) and (max-width: 900px){
+    .mingcutewallet4FillParent{
+        position: absolute;
+        top: 45px;
+        left: 58%;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+        display: flex;
+        flex-direction: row;
+        padding: 9px 16px;
+        align-items: center;
+        justify-content: center;
+        gap: 0;
+        width: 26%;
+        font-size: 14px;
+        color: #1f1330;
+    }
+    .mingcutewallet4FillLang {
+        position: absolute;
+        top: 51px;
+        left: calc(37% + 364px);
+        border-radius: 10px;
+        display: flex;
+        flex-direction: row;
+        padding: 11px 22px;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        font-size: 16px;
+    }
+    .stakeIpadPro1292 {
+        position: relative;
+        background: linear-gradient(180deg, #201d26, #1d1b20);
+        width: 100%;
+        height: 4300px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 36px;
+        color: #fff;
+        font-family: 'Neue Montreal';
+    
+    }
+    .groupDiv{
+        position: absolute;
+    top: 997px;
+    left: 211px;
+    width: 340px;
+    height: 40px;
+    font-size: 20px;
+    }
+    .antDesigndollarOutlinedParent{
+        position: absolute;
+    top: 106.67px;
+    left: 495px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    width: 293.69px;
+    height: 63.29px;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 82px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 56px;
+    color: #1f1330;
+    }
+    .claimRewards{
+        position: absolute;
+        top: 58.71px;
+        left: 554px;
+        text-transform: capitalize;
+        font-weight: 500;
+    }
+    .maskGroupParent{
+        position: absolute;
+    bottom: 51px;
+    left: 55px;
+    width: 720px;
+    height: 249px;
+    }
+    .joinOurCommunityParent{
+        position: absolute;
+    bottom: 462px;
+    left: -42px;
+    width: 917px;
+    height: 252px;
+    text-align: center;
+    color: #ffe500;
+    }
+    .stakeIpadPro1292Item{
+        position: absolute;
+        bottom: 103px;
+        left: 17px;
+        width: 834px;
+        height: 834px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    
+    }
+    .frameIcon3{
+        position: absolute;
+    top: 101px;
+    left: 21.23px;
+    width: 281.53px;
+    height: 252px;
+    overflow: hidden;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .groupChild2{
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 80%;
+        height: 443px;
+    }
+    .stakingStatsParent{
+        position: absolute;
+    top: 2142px;
+    left: 11px;
+    width: 883px;
+    height: 535px;
+    text-align: center;
+    color: #ffe500;
+    }
+    .lineParent{
+        position: absolute;
+    top: 1075px;
+    left: 14px;
+    width: 764px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 50px;
+    }
+    .frameParent1{
+        position: absolute;
+    top: 1551px;
+    left: 9px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 47px;
+    font-size: 16px;
+    }
+    .stakeIpadPro1292Child1{
+        position: absolute;
+    top: 963px;
+    left: 2%;
+    border-radius: 8px;
+    background: linear-gradient(180deg, #282531, rgba(40, 37, 49, 0));
+    -webkit-backdrop-filter: blur(164px);
+    backdrop-filter: blur(164px);
+    width: 98%;
+    height: 668px;
+    }
+    .stakingPool{
+        position: absolute;
+    top: 879px;
+    left: 29px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+    text-align: center;
+    }
+    .frameParent{
+        position: absolute;
+    top: 569px;
+    left: calc(53% - 430px);
+    width: 866px;
+    height: 143px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 13px;
+    text-align: center;
+    font-size: 20px;
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 509px;
+        left: 8px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 98%;
+        height: 250px;
+    }
+    .tradeParent{
+        position: absolute;
+    bottom: 88px;
+    left: 160px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+    }
+    .g{
+        display: none;
+    }
+    .stakingInBlockchain1{
+        position: absolute;
+    top: 347px;
+    left: 31px;
+    font-size: 24px;
+    line-height: 36px;
+    display: inline-block;
+    width: 730px;
+    }
+    .stakingBenefits{
+        position: absolute;
+    top: 257px;
+    left: calc(58% - 437px);
+    font-size: 50px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 900px;
+    }
+}
+
+
+@media (min-width: 901px) and (max-width: 966px){
+    .mingcutewallet4FillParent{
+        position: absolute;
+        top: 49px;
+        left: 531.5px;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+        display: flex;
+        flex-direction: row;
+        padding: 9px 15px;
+        align-items: center;
+        justify-content: center;
+        gap: 0;
+        width: 26%;
+        font-size: 14px;
+        color: #1f1330;
+    }
+    .mingcutewallet4FillLang {
+        position: absolute;
+        top: 51px;
+        left: calc(44% + 364px);
+        border-radius: 10px;
+        display: flex;
+        flex-direction: row;
+        padding: 11px 22px;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        font-size: 16px;
+    }
+
+
+
+
+    .stakeIpadPro1292 {
+        position: relative;
+        background: linear-gradient(180deg, #201d26, #1d1b20);
+        width: 100%;
+        height: 4300px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 36px;
+        color: #fff;
+        font-family: 'Neue Montreal';
+    
+    }
+    .groupDiv{
+        position: absolute;
+    top: 997px;
+    left: 285px;
+    width: 340px;
+    height: 40px;
+    font-size: 20px;
+    }
+    .antDesigndollarOutlinedParent{
+        position: absolute;
+    top: 106.67px;
+    left: 495px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    width: 293.69px;
+    height: 63.29px;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 82px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 56px;
+    color: #1f1330;
+    }
+    .claimRewards{
+        position: absolute;
+        top: 58.71px;
+        left: 554px;
+        text-transform: capitalize;
+        font-weight: 500;
+    }
+    .maskGroupParent{
+        position: absolute;
+    bottom: 51px;
+    left: 126px;
+    width: 720px;
+    height: 249px;
+
+    }
+    .joinOurCommunityParent{
+        position: absolute;
+        bottom: 462px;
+        left: 12px;
+        width: 917px;
+        height: 252px;
+        text-align: center;
+        color: #ffe500;
+    }
+    .stakeIpadPro1292Item{
+        position: absolute;
+    bottom: 103px;
+    left: 65px;
+    width: 834px;
+    height: 834px;
+    -o-object-fit: cover;
+    object-fit: cover;
+
+    
+    }
+    .frameIcon3{
+        position: absolute;
+        top: 101px;
+        left: 21.23px;
+        width: 379.53px;
+        height: 252px;
+        overflow: hidden;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+    .groupChild2{
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 440px;
+        height: 443px;
+    
+    }
+    .stakingStatsParent{
+        position: absolute;
+    top: 2142px;
+    left: 11px;
+    width: 883px;
+    height: 535px;
+    text-align: center;
+    color: #ffe500;
+    }
+    .lineParent{
+        position: absolute;
+        top: 1075px;
+        left: 14px;
+        width: 896px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 50px;
+    
+    }
+    .frameParent1{
+        position: absolute;
+    top: 1551px;
+    left: 9px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 47px;
+    font-size: 16px;
+    }
+    .stakeIpadPro1292Child1{
+        position: absolute;
+        top: 963px;
+        left: 8px;
+        border-radius: 8px;
+        background: linear-gradient(180deg, #282531, rgba(40, 37, 49, 0));
+        -webkit-backdrop-filter: blur(164px);
+        backdrop-filter: blur(164px);
+        width: 924px;
+        height: 668px;
+    }
+    .stakingPool{
+        position: absolute;
+    top: 879px;
+    left: 29px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+    text-align: center;
+    }
+    .frameParent{
+        position: absolute;
+    top: 569px;
+    left: calc(53% - 430px);
+    width: 866px;
+    height: 143px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 13px;
+    text-align: center;
+    font-size: 20px;
+    }
+    .rectangleDiv{
+        position: absolute;
+    top: 509px;
+    left: 8px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 926px;
+    height: 250px;
+
+    }
+    .tradeParent{
+        position: absolute;
+    bottom: 88px;
+    left: 160px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+    }
+    .g{
+        display: none;
+    }
+    .stakingInBlockchain1{
+        position: absolute;
+    top: 347px;
+    left: 31px;
+    font-size: 24px;
+    line-height: 36px;
+    display: inline-block;
+    width: 730px;
+    }
+    .stakingBenefits{
+        position: absolute;
+    top: 257px;
+    left: calc(58% - 437px);
+    font-size: 50px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 900px;
+    }
+}
+
+
+@media (min-width: 967px) and (max-width: 1056px){
+    .mingcutewallet4FillParent{
+        position: absolute;
+        top: 49px;
+        left: 531.5px;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+        display: flex;
+        flex-direction: row;
+        padding: 9px 15px;
+        align-items: center;
+        justify-content: center;
+        gap: 0;
+        width: 26%;
+        font-size: 14px;
+        color: #1f1330;
+    }
+    .mingcutewallet4FillLang {
+        position: absolute;
+        top: 51px;
+        left: calc(44% + 364px);
+        border-radius: 10px;
+        display: flex;
+        flex-direction: row;
+        padding: 11px 22px;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        font-size: 16px;
+    }
+
+
+
+
+
+
+
+
+    .stakeIpadPro1292 {
+        position: relative;
+        background: linear-gradient(180deg, #201d26, #1d1b20);
+        width: 100%;
+        height: 4300px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 36px;
+        color: #fff;
+        font-family: 'Neue Montreal';
+    
+    }
+    .groupDiv{
+        position: absolute;
+    top: 997px;
+    left: 285px;
+    width: 340px;
+    height: 40px;
+    font-size: 20px;
+    }
+    .antDesigndollarOutlinedParent{
+        position: absolute;
+    top: 106.67px;
+    left: 495px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    width: 293.69px;
+    height: 63.29px;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 82px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 56px;
+    color: #1f1330;
+    }
+    .claimRewards{
+        position: absolute;
+        top: 58.71px;
+        left: 554px;
+        text-transform: capitalize;
+        font-weight: 500;
+    }
+    .maskGroupParent{
+        position: absolute;
+    bottom: 51px;
+    left: 126px;
+    width: 720px;
+    height: 249px;
+
+    }
+    .joinOurCommunityParent{
+        position: absolute;
+        bottom: 462px;
+        left: 12px;
+        width: 917px;
+        height: 252px;
+        text-align: center;
+        color: #ffe500;
+    }
+    .stakeIpadPro1292Item{
+        position: absolute;
+    bottom: 103px;
+    left: 65px;
+    width: 834px;
+    height: 834px;
+    -o-object-fit: cover;
+    object-fit: cover;
+
+    
+    }
+    .frameIcon3{
+        position: absolute;
+        top: 101px;
+        left: 21.23px;
+        width: 379.53px;
+        height: 252px;
+        overflow: hidden;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+    .groupChild2{
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 440px;
+        height: 443px;
+    
+    }
+    .stakingStatsParent{
+        position: absolute;
+    top: 2142px;
+    left: 11px;
+    width: 883px;
+    height: 535px;
+    text-align: center;
+    color: #ffe500;
+    }
+    .lineParent{
+        position: absolute;
+        top: 1075px;
+        left: 14px;
+        width: 896px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 50px;
+    
+    }
+    .frameParent1{
+        position: absolute;
+    top: 1551px;
+    left: 9px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 47px;
+    font-size: 16px;
+    }
+    .stakeIpadPro1292Child1{
+        position: absolute;
+        top: 963px;
+        left: 8px;
+        border-radius: 8px;
+        background: linear-gradient(180deg, #282531, rgba(40, 37, 49, 0));
+        -webkit-backdrop-filter: blur(164px);
+        backdrop-filter: blur(164px);
+        width: 924px;
+        height: 668px;
+    }
+    .stakingPool{
+        position: absolute;
+    top: 879px;
+    left: 29px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+    text-align: center;
+    }
+    .frameParent{
+        position: absolute;
+    top: 569px;
+    left: calc(53% - 430px);
+    width: 866px;
+    height: 143px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 13px;
+    text-align: center;
+    font-size: 20px;
+    }
+    .rectangleDiv{
+        position: absolute;
+    top: 509px;
+    left: 8px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 926px;
+    height: 250px;
+
+    }
+    .tradeParent{
+        position: absolute;
+    bottom: 88px;
+    left: 160px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+    }
+    .g{
+        display: none;
+    }
+    .stakingInBlockchain1{
+        position: absolute;
+    top: 347px;
+    left: 31px;
+    font-size: 24px;
+    line-height: 36px;
+    display: inline-block;
+    width: 730px;
+    }
+    .stakingBenefits{
+        position: absolute;
+    top: 257px;
+    left: calc(58% - 437px);
+    font-size: 50px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 900px;
+    }
+}

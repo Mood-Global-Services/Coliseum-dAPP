@@ -6,7 +6,7 @@ import {
 } from "../../lib/constants";
 import { fetcher } from "../Price";
 import type { PriceResponse, QuoteResponse } from "../api/types";
-import { formatUnits } from "viem";
+import { formatUnits } from "ethers-stable";
 import {
   useAccount,
   useSendTransaction,
